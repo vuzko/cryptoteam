@@ -1,6 +1,50 @@
+# Open-Source-Version of CryptoTeam WebSite
+
+This is the open source version of our company's website. It's a derivative work from original Xceptance source (https://github.com/Xceptance/Xceptance-Website-OpenSource).
+
+We wish to thank Xceptance for sharing their work under MIT and CC licenses. Accordingly, we release our derivative work under the same licenses.
+
+## Licenses
+All components copied from the original projects such as Less and JavaScript files are still licensed under the original project license. This applies but is not limited to the following projects:
+* Bootstrap: MIT License
+* FontAwesome: SIL OFL 1.1 and MIT License
+* JQuery: MIT License
+
+### Code
+* All code that has not been taken from other projects, is licensed under the MIT License - http://opensource.org/licenses/MIT
+
+### Textual Content
+* Applies to all text content on this site.
+* Creative Commons by Attribution-ShareAlike 4.0 - http://creativecommons.org/licenses/by-sa/4.0/
+
+### Design
+* The design of the site is licensed under Creative Commons by Attribution-ShareAlike 4.0 - http://creativecommons.org/licenses/by-sa/4.0/
+
+### Images
+* All images watermarked with "Example Only" are from the original Xceptance-Website-OpenSource, please contact Xceptance for information about these images (https://www.xceptance.com/en/contact/).
+* All images watermarked with "CryptoTeam" are not free in any way. This is for simplification of sharing and does not necessarily mean that you cannot obtain a free license from us for using these images. If you like an image and want to use and modify it, feel free to contact us (info@cryptoteam.it).
+* All unwatermarked images are Public Domain images (Creative Commons CC0) from https://pixabay.com
+
+### Brand Mentioning
+* All brands are trademarks of their respective owners.
+* The use of these trademarks does not indicate endorsement of the trademark holder by CryptoTeam, nor vice versa.
+
+
+
+
+Here below is the original README.md text from Xceptance-Website-OpenSource
+###########################################################################
+
 # Open-Source-Version of Xceptance' WebSite
 
 This is the open source version of our company's website. We want to share how we used Jekyll, Less, and others. It also shows some tricks around localization as well as demonstrates some htaccess magic. This is used to route old URLs to new landing pages and make the entire website HTTPS only. But let's discuss the most important points in separate chapters.
+
+## Xceptance
+[Xceptance](https://www.xceptance.com/) is german-american company dedicated for software testing. We help our clients optimize their testing and enhance their final product. Recently we decided to revamp our public-facing website and put quite some effort into enhancing Jekyll. We want to show our work and encourage you to use it for your own projects.
+
+##  The Basic Idea
+
+We want to share how we used Jekyll, Less, and others. It also shows some tricks around localization as well as demonstrates some htaccess magic. This is used to route old URLs to new landing pages and make the entire website HTTPS only. But let's discuss the most important points in separate chapters.
 
 ## Xceptance
 [Xceptance](https://www.xceptance.com/) is german-american company dedicated for software testing. We help our clients optimize their testing and enhance their final product. Recently we decided to revamp our public-facing website and put quite some effort into enhancing Jekyll. We want to show our work and encourage you to use it for your own projects.
@@ -53,7 +97,7 @@ We develop in `master` and check everything first locally via `jekyll serve` and
 
 ## Projects Used
 
-The projects are not always used in their latest version. We are trying to stay latest but due to the release frequencies and the effort to update things, we rather do that less often as long as now security related problems arises. 
+The projects are not always used in their latest version. We are trying to stay latest but due to the release frequencies and the effort to update things, we rather do that less often as long as now security related problems arises.
 
 * Jekyll - http://jekyllrb.com/
 * Bootstrap - http://getbootstrap.com/
@@ -92,4 +136,3 @@ All components copied from the original projects such as Less and JavaScript fil
 
 * All brands are trademarks of their respective owners.
 * The use of these trademarks does not indicate endorsement of the trademark holder by Xceptance, nor vice versa.
-
