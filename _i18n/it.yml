@@ -66,16 +66,16 @@ message:
 navigation:
     main:
         Home: Home
-        Servizi: Services
-        Offerta: Products
+        Servizi: Servizi
+        Offerta: Offerta
         News: News
         Company: Company
         Jobs: Careers
         Contact: Contact
     sub:
-        Servizi: Overview
-        Protezione: Protection
-        Offerta: Overview
+        Servizi: Sommario
+        Protezione: Protezione
+        Offerta: Sommario
         Features: Features
         Documentation: Documentation
         Download: Download

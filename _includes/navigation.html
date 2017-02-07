@@ -44,7 +44,7 @@
                 page.navName: {{page.navName}}
                 e.parent: {{e.parent}}
                 e.name: {{e.name}}
-            -->
+              -->
             {% endcomment %}
 
             {% if include.isMainNavigation %}
@@ -72,12 +72,12 @@
 
     {% if include.isMainNavigation == true %}
 		<div id="language-switcher">
-            {% if site.lang == "en" %}
-                {% capture link1 %}{{ site.baseurl_root }}de{{ page.url }}{% endcapture %}
-                <span class="language"><a href="/{{ link1 }}">DE</a></span>
-            {% else if site.lang == "de" %}
-                {% capture link2 %}{{ site.baseurl_root }}en{{ page.url }}{% endcapture %}
-                <span class="language"><a href="/{{ link2 }}">EN</a></span>
+            {% if site.lang == "it" %}
+                {% capture link1 %}{{ site.baseurl_root }}en{{ page.url }}{% endcapture %}
+                <span class="language"><a href="/{{ link1 }}">EN</a></span>
+            {% else if site.lang == "en" %}
+                {% capture link2 %}{{ site.baseurl_root }}it{{ page.url }}{% endcapture %}
+                <span class="language"><a href="/{{ link2 }}">IT</a></span>
             {% endif %}
 		</div>
     </div> <!-- from collapse div -->

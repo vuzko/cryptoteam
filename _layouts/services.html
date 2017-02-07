@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="it">
 	{% include head.html hashBasedTabbing=true %}
 
     <body class="general-page services local-scroll" id="page">
         {% include privacy-message.html %}
-        
+
         {% include top-scroller.html %}
 
 		<!-- container centers things -->
@@ -13,7 +13,7 @@
 				{% include navigation.html isMainNavigation=true %}
 			</div>
 		</div>
-		
+
 		 <div id="sub-navigation">
 			<div class="container">
                 {% include navigation.html isMainNavigation=false %}
@@ -28,7 +28,7 @@
 					</div>
 				</div>
 			</div>
-		</header>	
+		</header>
 
 		<div id="main">
 			{{ content }}
@@ -37,7 +37,7 @@
 		<footer>
 			{% include footer.html %}
 		</footer>
-		
+
         {% include tracking.html %}
     </body>
 </html>

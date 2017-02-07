@@ -1,15 +1,15 @@
 name: global.website.name
 highlighter: pygments
-url:
-    de: https://www.xceptance.com
-    en: https://www.xceptance.com
+#url:
+#    it: https://ftp.cryptoteam.it
+#    en: https://ftp.cryptoteam.it
 
 include: [.htaccess,__Analytics*]
 exclude: [bin,README.md]
 
 timezone: UTC
 
-languages: ["en", "en", "de"]
+languages: ["it", "it", "en"]
 
 description: global.website.description
 
@@ -18,22 +18,25 @@ excerpt_separator: N/A-------N/A... Workaround for https://github.com/mojombo/je
 ### Disabled for now. Default is nice.
 # permalink: :categories/:year-:month-:day-:title.html
 
-# The navigation to include, everything here is meant to be
-# a key to find the correct page. The name and link titles are
-# taken from every page itself as well as the relation to its parent.
+# La navigazione da includere, ogni cosa inserita qui è
+# una chiave per trovare la pagina corretta. Il nome e i titoli dei link
+# sono presi da ciascuna pagina stessa, così come la relazione con la
+# pagina a monte.
 
-# Each name has to be unique and the page has to have the same name 
-# Check the area in -- and the name attribute for that.
-# Same name, same page. URLs here are also the default built urls. 
-# Custom works different.
+# Ogni nome deve essere unico e la pagina deve avere lo stesso nome.
+# Controlla l'area all'interno del blocco --- e l'attributo del nome.
+# Stesso nome, stessa pagina.
+# Gli URL qui sono anche gli url costruiti di default.
+# La personalizzazione lavora in modalità differente.
+
 sitenavigation:
-  - name: Services
+  - name: Servizi
     secondarynav:
-        - name: Services
-        - name: Demandware
-  - name: XLT
+        - name: Servizi
+        - name: Protezione
+  - name: Offerta
     secondarynav:
-        - name: XLT
+        - name: Offerta
         - name: Features
         - name: Licensing & Pricing
         - name: Documentation
@@ -54,4 +57,3 @@ sitenavigation:
   - name: :External
     title: Blog
     url: https://blog.xceptance.com/
-

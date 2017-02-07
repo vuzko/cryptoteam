@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="it">
 	{% include head.html %}
 
     <body class="xlt-landing local-scroll" id="page">
         {% include privacy-message.html %}
-        
+
         {% include top-scroller.html %}
 
         <div id="navigation" class="navbar-fixed-top">
@@ -12,7 +12,7 @@
 				{% include navigation.html isMainNavigation=true %}
 			</div>            
 		</div>
-		
+
         <div id="sub-navigation">
 			<div class="container">
                 {% include navigation.html isMainNavigation=false %}
@@ -23,7 +23,7 @@
 			<div class="container">
 				{% include xlt/carousel.html %}
 			</div>
-		</header>	
+		</header>
 
 		<div id="main">
 			{{ content }}
