@@ -4,7 +4,7 @@
 
     <body class="general-page news local-scroll" id="page">
         {% include privacy-message.html %}
-        
+
         {% include top-scroller.html %}
 
 		<!-- container centers things -->
@@ -13,10 +13,16 @@
 				{% include navigation.html isMainNavigation=true %}
 			</div>
 		</div>
-                
+
+		<div id="sub-navigation">
+			<div class="container">
+		    {% include navigation.html isMainNavigation=false %}
+		  </div>
+		</div>
+		
 		<header id="teaser" class="hidden-xs">
 			<div class="teaser-image">&nbsp;</div>
-		</header>	
+		</header>
 
 		<div id="main">
 			{{ content }}
@@ -28,4 +34,3 @@
 		{% include tracking.html %}
     </body>
 </html>
-
