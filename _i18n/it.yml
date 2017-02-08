@@ -27,18 +27,18 @@ none: none
 # Global stuff such as buttons
 global:
     website:
-        name: Xceptance‘s Company Website - The Software Testing Experts
-        description: Xceptance, the software testing expert. Performance testing, functional testing, test automation, security testing, test process support. We know ecommerce quality assurance.
+        name: Website Aziendale CryptoTeam  - Esperti in Sicurezza dei Dati e Privacy
+        description: CryptoTeam, gli esperti in sicurezza dei dati. Crittografia dei dati at-rest e delle comunicazioni. Ti aiutiamo a proteggere il tuo patrimonio più preziso, i tuoi dati aziendali.
 
     link:
-        learnmore: Learn More
-        contact: Contact Us
+        learnmore: Scopri
+        contact: Contattaci
         top: Top
     button:
         download: Download
-        buy: Buy Online
+        buy: Compra Online
     label:
-        phone-label: Phone
+        phone-label: Telefono
         email-label: Email
 
 ########################################################################
@@ -59,7 +59,7 @@ message:
 
     btn:
         opt-out: Opt-Out
-        understand: I understand
+        understand: Ho capito
 
 ########################################################################
 # Navigation translation
@@ -109,27 +109,27 @@ navigation:
 ########################################################################
 # The homepage
 homepage:
-    title: Xceptance - The Software Testing Experts
-    description: Xceptance, the software testing experts.
+    title: CryptoTeam - Esperti in Sicurezza dei Dati e Privacy
+    description: CryptoTeam, gli esperti in sicurezza dei dati e privacy.
 
     carousel:
         service_slide:
-            text: We Test Software.<br/>Because Quality Matters.
+            text: Piattaforma PKI<br/>Perché la tua sicurezza è importante
             btn: Learn More
-        dw_slide: Demandware Partner since 2005.
-        load_slide: XLT. The Tool to Make Automation an Engineering Habit.
+        dw_slide: Cloud In-House<br/>Controllo fisico dei tuoi dati
+        load_slide: VoIP PBX Cifrato<br/>Sicurezza nelle comunicazioni aziendali
 
     intro:
         headline: Committed to Software Quality
-        details: We help our clients optimize their testing and enhance their final product.
+        details: Aiutiamo i nostri clienti a proteggere uno dei patrimoni più preziosi, l'insieme globale dei dati aziendali.
 
     offer:
         manual:
-            headline: Manual &amp; Automated Testing
-            details: We test your product based on your individual requirements, with an ideal mix of manual and automated approaches.
+            headline: Protezione dei dati<br/>Esigenza inderogabile
+            details: La protezione dei dati aziendali non è soltanto necessaria per adeguarsi alle normative sulla privacy, è una scelta di tutela del patrimonio aziendale.
         load:
-            headline: Load &amp; Performance Testing
-            details: We simulate the traffic you expect on your platform and deliver detailed test reports. Find out how your site really performs.
+            headline: Piattaforma PKI<br/>Certificati x509 aziendali
+            details: Scopri come gestire, in piena autonomia, l'emissione dei certificati a chiave pubblica X509 per la tua azienda.
         support:
             headline: Test Guidance &amp; Support
             details: We love to share our knowledge and can help you establish or improve your own quality assurance processes. Let us inspire you to test better!
@@ -138,8 +138,8 @@ homepage:
             details: You’ll love functional testing with XLT because it takes Selenium style testing to the next level. XLT also covers all your web performance testing needs.
 
     welcome_teaser:
-        headline: Welcome to Xceptance!<br/>Get to know us.
-        action_button: This way
+        headline: Benvenuto in CryptoTeam!<br/>Vieni a conoscerci.
+        action_button: Seguimi
 
 ########################################################################
 # Company pages
