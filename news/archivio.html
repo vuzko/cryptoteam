@@ -3,9 +3,9 @@ layout: news
 title: news.archive.title
 description: news.archive.description
 
-navName: News Archive
-mainNavLinkName: 
-subNavLinkName: Archive
+navName: Archivio News
+mainNavLinkName:
+subNavLinkName: navigation.sub.ArchivioNews
 parent: News
 ---
 <div id="news-archive">
@@ -22,15 +22,15 @@ parent: News
 					<a href="{{ news.url | to_absoluteurl }}">{% t news.title %}</a>
 				</div>
 				<hr>
-				{% endfor %}								
+				{% endfor %}
 			</div>
 			<div class="col-sm-9 col-sm-offset-3 col-md-5 col-md-offset-0">
 				{% for news in site.categories.news limit:15 offset:15%}
 				<div class="news-post news-post-{{forloop.index}}">
 					<span class="meta">{% t news.when %}</span>
-					<a href="{{ news.url | to_absoluteurl }}">{% t news.title %}</a>				
+					<a href="{{ news.url | to_absoluteurl }}">{% t news.title %}</a>
 				</div>
-				<hr>	
+				<hr>
 				{% endfor %}
 			</div>
 		</div>

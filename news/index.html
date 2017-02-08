@@ -3,10 +3,10 @@ layout: news
 title: news.title
 description: news.description
 
-navName: News
-mainNavLinkName: navigation.main.News
-subNavLinkName: 
-parent: News
+navName: Notizie
+mainNavLinkName: navigation.main.Notizie
+subNavLinkName: navigation.sub.Notizie
+parent: Notizie
 
 permalink: /news/
 ---
@@ -14,16 +14,16 @@ permalink: /news/
 	<div class="row">
 		<div class="container">
 			<div class="col-sm-8">
-				<h1 class="news-headline">News</h1>				
+				<h1 class="news-headline">News</h1>
 				<!-- the latest -->
 				{% for news in site.categories.news limit:1 %}
 				<div class="news-post">
 					<h1>{% t news.title %}</h1>
 					<p class="meta">{% t news.when %}</p>
 					{{news.content}}
-				</div>	
-				{% endfor %}	
-			</div>		
+				</div>
+				{% endfor %}
+			</div>
 
 			<div class="col-sm-4 news-post-minis">
 				<h3 class="news-headline">{% t news.previous.headline %}</h3>
@@ -33,14 +33,14 @@ permalink: /news/
 					<p class="meta">{% t news.when %}</p>
 					<p class="excerpt">{% t news.excerpt %}</p>
 					{{news.image}}
-				</div>	
-				{% endfor %}				
+				</div>
+				{% endfor %}
 
-				
+
 				<p id="preview-end">
-					<a href="{{ 'news/archive.html' | to_absoluteurl }}">{% t news.previous.all %}</a>
+					<a href="{{ 'news/archivio.html' | to_absoluteurl }}">{% t news.previous.all %}</a>
 				</p>
-				
+
 				<div class="highlighted text-center">
 					<div class="headline ">
 	                	<p><i class="fa fa-edit fa-4x"></i></p>
@@ -48,9 +48,9 @@ permalink: /news/
 	                </div>
 	                <p>{% t news.blog.details %}</p>
 	                <a class="btn btn-primary" href="https://blog.xceptance.com/" role="button">{% t news.blog.btn %}</a>
-				</div>				
+				</div>
 			</div>
-			
+
 		</div>
 	</div>
 </div>

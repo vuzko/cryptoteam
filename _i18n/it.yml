@@ -68,25 +68,43 @@ navigation:
         Home: Home
         Servizi: Servizi
         Offerta: Offerta
-        News: News
-        Company: Company
-        Jobs: Careers
-        Contact: Contact
+        Azienda: Azienda
+        Notizie: Notizie
+        Contatti: Contatti
     sub:
+# Home
+
+# Servizi
         Servizi: Sommario
-        Protezione: Protezione
+        ProtezioneDati: Protezione Dati
+        ControlloAccessi: Controllo Accessi
+        CloudInHouse: Cloud in House
+        VoIPCifrato: VoIP Cifrato
+        ProgettiPersonalizzati: Progetti Personalizzati
+
+# Offerta
         Offerta: Sommario
-        Features: Features
-        Documentation: Documentation
-        Download: Download
-        LicensingAndPricing: Pricing
-        Company: About Us
-        Management: Management
-        Team: Team
-        References: References
-        Press: Press
-        General: General
+        PiattaformaPKI: Piattaforma PKI
+        Crittografia: Crittografia
+        CancellazioneSicura: Cancellazione Sicura
+        Cloud: Cloud
+        VoIPPBX: VoIP PBX
+        IDS: IDS
+
+# Azienda
+        Azienda: Chi Siamo
+        Competenze: Competenze
+        Filosofia: Filosofia
         Privacy: Privacy
+
+# News
+        Notizie: Ultime Notizie
+        ArchivioNews: Archivio
+
+# Contatti
+        Contatti: Commerciale
+        Tecnico: Tecnico
+
 
 ########################################################################
 # The homepage
@@ -264,6 +282,66 @@ company:
             client:
                 headline: Client-Specific Sub-Teams
                 details: We want to communicate closely with our clients and meet all of their requirements. Specialized teams serve long-term clients such as Demandware, Inc. or Carl Zeiss SMS GmbH, which allows us to build trust-based and productive relationships.
+
+##################################
+    privacy:
+        title: Xceptance - Privacy Information
+        description: All about privacy, and other legal stuff.
+
+        info: In case of questions, feel free to <a href="/en/contact/">contact us</a>.
+        intro:
+            headline: Privacy
+            lead: We deal with your data carefully.
+        collect:
+            headline: What Information Do We Collect?
+            details: "<p>We collect information from you when you register on our site, subscribe to our newsletter or fill out a form. When registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously. In order to improve the content and format of our site, Xceptance automatically captures technical information that is then stored in our servers’ log files. This information may include, but is not limited to, user domain, the type of Internet browser being used, which of our Web pages is visited, and the amount of time spent on our site. Xceptance uses an internal Web site analytics software that doesn't transfer the data to any third party.</p>"
+        use:
+            headline: How Do We Use Your Information
+            details: "<p>Any of the information we collect from you may be used in one of the following ways:</p>"
+            list: "
+                <li>To personalize your experience (your information helps us to better respond to your individual needs),</li>
+                <li>To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you),</li>
+                <li>To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs),</li>
+                <li>To process transactions (Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.),</li>
+                <li>To send emails to answer your inquiries.</li>"
+        cookies:
+            headline: Do We Use Cookies?
+            details: "<p>Yes (cookies are small blocks of information that a site transfers to your computer - if you allow). Only our analytics software uses cookies actively to recognize your browser and capture and remember certain information. If you opt-out of analytics tracking, we will set a single unpersonalized cookie to remember your decision.</p>"
+        thirdparty:
+            headline: Do We Disclose any Information to Outside Parties?
+            details: "<p>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours' or others rights, property, or safety.</p>"
+        links:
+            headline: Third Party Links
+            details: "<p>Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.</p>"
+        privacy-protection:
+            headline: California Online Privacy Protection Act Compliance
+            details: "<p>Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.</p>"
+        privacy-policy:
+            headline: Online Privacy Policy Only
+            details: "<p>This online privacy policy applies only to information collected through our website and not to information collected offline.</p>"
+        consent:
+            headline: Your Consent
+            details: "<p>By using our site, you consent to our website's privacy policy.</p>"
+        privacy-changes:
+            headline: Changes to Our Privacy Policy
+            details: "<p>If we decide to change our privacy policy, we will update the Privacy Policy modification date below.<br>This policy was last modified on July 31, 2014.</p>"
+        sites:
+            headline: Web Sites
+            details: "<p>Xceptance owns, maintains, and contributes at:
+                <a href=\"http://www.xceptance.de/\">www.xceptance.de</a>,
+                <a href=\"https://www.xceptance.com/\">www.xceptance.com</a>,
+                <a href=\"http://www.xceptance-loadtest.de/\">www.xceptance-loadtest.de</a>,
+                <a href=\"http://www.xceptance-loadtest.com/\">www.xceptance-loadtest.com</a>,
+                <a href=\"https://blog.xceptance.de/\">blog.xceptance.de</a>,
+                <a href=\"https://twitter.com/Xceptance\">Xceptance Twitter</a>,
+                <a href=\"https://www.xing.com/companies/xceptancesoftwaretechnologiesgmbh\">Xceptance on Xing</a>,
+                <a href=\"https://www.linkedin.com/company/xceptance\">Xceptance on LinkedIn</a>,
+                <a href=\"https://github.com/Xceptance/\">Xceptance on GitHub</a>,
+                <a href=\"https://plus.google.com/+Xceptance/posts\">Xceptance on Google+</a>,
+                <a href=\"https://ask.xceptance.de/\">XLT Forum</a>,
+                <a href=\"https://xltportal.xceptance.de/\">XLT Self Service Center</a>, and all other content published on
+                <a href=\"https://lab.xceptance.de/\">lab.xceptance.de</a>, such as releases and documentation.</p>"
+
 
 ########################################################################
 # Jobs
@@ -531,24 +609,24 @@ contact:
                 <a href=\"https://xltportal.xceptance.de/\">XLT Self Service Center</a>, and all other content published on
                 <a href=\"https://lab.xceptance.de/\">lab.xceptance.de</a>, such as releases and documentation.</p>"
 
-########################################################################
+
 # News
 news:
-    title: Xceptance – News
-    description: What is going on at Xceptance
+    title: Notizie CryptoTeam
+    description: Cosa c'è di nuovo in CryptoTeam
     previous:
-        headline: Previous News
-        all: All News
+        headline: Notizie Precedenti
+        all: Tutte le Notizie
     blog:
-        headline: Visit Our Blog!
-        details: Find more technical news, links and information around test automation as well as general testing topics in our blog.
-        btn: Start Here
-    latest: Latest News
+        headline: Visita il nostro Blog!
+        details: Scopri le ultime novità tecnologiche e le notizie dal mondo della Privacy, Sicurezza e Crittografia.
+        btn: Inizia
+    latest: Ultime Notizie
 
     archive:
-        title: News Archive
-        description: Overview of all News
-        headline: News Archive
+        title: Archivio Notizie
+        description: Sommario di tutte le Notizie
+        headline: Archivio Notizie
 
 ########################################################################
 # XLT
@@ -1089,126 +1167,14 @@ xlt:
 posts:
     news:
         1:
-            title: Xceptance Sponsors FSU Summer Festival
-            when: June 7, 2013
-            excerpt: Xceptance is one of the main sponsors of the Friedrich-Schiller-University’s Summer Festival that will take place on June 28, 2013 in Jena.
+            title: CryptoTeam prepara il lancio del nuovo sito web!
+            when: 7 Febbraio 2017
+            excerpt: Con la decisione di passare a Jekyll, Cryptoteam prepara il lancio del nuovo sito web. Stay tuned!
         2:
-            title: Xceptance Promotes Kulturarena 2013 Open-Air
-            when: July 15, 2013
-            excerpt: Since it has always been our intention to not only do business, but to also contribute to the local culture and arts, we are proud to announce that we are sponsoring the international Kulturarena Open-Air this year!
-        3:
-            title: Xceptance at Demandware XChange European Summit
-            when: September 15, 2013
-            excerpt: We will be coming together with Demandware’s European community to exchange ideas, solutions, and best practices for digital retail and everything that comes with it.
-        4:
-            title: Xceptance at Jena City Corporate Running Challenge
-            when: May 17, 2013
-            excerpt: We are in good shape and did a great job at the 3rd annual Jena City Corporate Running Challenge!
-        5:
-            title: Xceptance at 1st Thuringia Business Exchange for Commuters and Returnees on June 15, 2013
-            when: May 16, 2013
-            excerpt: We will have our own booth at the 1st Thuringia Business Exchange in Erfurt, a get together of Thuringian companies introducing themselves and their current job vacancies.
-        6:
-            title: Xceptance Supports New E-commerce B.A. Program Offered by the University of Applied Sciences Jena
-            when: April 22, 2013
-            excerpt: Together with other local companies and patrons, Xceptance helps funding the new e-commerce B.A. Program that will be offered by the University of Applied Sciences Jena as of fall semester 2013.
-        7:
-            title: Happy New Year!
-            when: January 2, 2014
-            excerpt: Happy New Year to all of us.
-        8:
-            title: Xceptance Releases XLT 4.3
-            when: January 12, 2014
-            excerpt: Xceptance released version 4.3 of its load testing and test automation product Xceptance LoadTest. It features a wide range of improvements and new functionality.
-        9:
-            title: Xceptance Contributes to 4th Coding Contest 2012 by Netresearch Leipzig
-            when: October 5, 2012
-            excerpt: IT talents can put their skills to the test at the Netresearch Leipzig Coding Contest from November 5 to 11, 2012.
-        10:
-            title: Xceptance Supports BarCamp Mitteldeutschland
-            when: August 11, 2012
-            excerpt: We are happy to announce that we are an official sponsor of the 4th BarCamp Mitteldeutschland held on October 13/14, 2012 in Jena
-        11:
-            title: Xceptance Donates Germany Scholarships to FSU Jena
-            when: February 14, 2012
-            excerpt: We want to invest into education and Jena’s future.
-        12:
-            title: "Xceptance Supports \"Rock against Racism\" Charity Concert"
-            when: December 2, 2011
-            excerpt: Please come out and make a stand against racism on December 2, 2011 in Jena!
-        13:
-            title: Xceptance supports CEOI 2014 in Jena
-            when: May 19, 2014
-            excerpt: Xceptance supports CEOI 2014 in Jena
-        14:
-            title: Xceptance at 4th Jena City Corporate Running Challenge on May 24, 2014
-            when: May 21, 2014
-            excerpt: Xceptance at 4th Jena City Corporate Running Challenge on May 24, 2014
-        15:
-            title: Xceptance enhances Jena office facility
-            when: June 5, 2014
-            excerpt: The Xceptance logo is present at the office building in Jena, Germany.
-        16:
-            title: Jena University Summerfestival 2014
-            when: June 25, 2014
-            excerpt: Xceptance is already for the second time one of the main sponsors of the Jena University Summerfestival.
-        17:
-            title: Xceptance Releases XLT 4.4
-            when: July 31, 2014
-            excerpt: Xceptance released version 4.4 of its load testing and test automation product Xceptance LoadTest. It features a wide range of improvements and new functionality.
-        18:
-            title: Meet us at the Demandware XChange‘14 European Summit on October 6-7, 2014 in Barcelona!
-            when: September 22, 2014
-            excerpt: As long-time Demandware partner, we are looking forward to attending this year‘s Demandware XChange European Summit on October 6-7 in Barcelona, Spain.
-        19:
-            title: Merry QA’ed Christmas and a Happy New Year!
-            when: December 18, 2014
-            excerpt: We wish you and your family happy holidays and health, happiness and success in the coming year.
-        20:
-            title: Xceptance Hosts 1st XLT Summit on January 20, 2015 in Jena
-            when: January 2, 2015
-            excerpt: We want to bring Xceptance and German XLT users even closer together and are looking forward to meeting you in Jena!
-        21:
-            title: Xceptance Main Sponsor of TEDxFSU Jena on February 10, 2015
-            when: January 22, 2015
-            excerpt: We believe in the importance of education and are happy to support the first official university-based TEDx event in Jena.
-        22:
-            title: Xceptance released XLT 4.5
-            when: February 26, 2015
-            excerpt: Xceptance released version 4.5 of its load testing and test automation product Xceptance LoadTest (XLT). This release enables you to write better test documentation, delivers more scripting capabilities, and shows really cool charts.
-        23:
-            title: Join Xceptance at Demandware XChange‘15 in Las Vegas!
-            when: March 24, 2015
-            excerpt: Xceptance is sponsoring this year‘s Demandware XChange conference, April 13-15, 2015 in Las Vegas, USA.
-        24:
-            title: Meet Xceptance at Demandware XChange‘15 in London!
-            when: June 16, 2015
-            excerpt: Xceptance is sponsoring this year‘s Demandware XChange conference, June 16-17, 2015 in London, UK.
-        25:
-            title: Xceptance at the INOVA ILMENAU 2015
-            when: October 28, 2015
-            excerpt: This year Xceptance will join INOVA ILMENAU for the first time, one of the largest career fairs in Germany with about 200 exhibitors and 5,000 visitors.
-        26:
-            title: Meet Xceptance at the ZWIK 2015!
-            when: November 5, 2015
-            excerpt: Xceptance will be represented at the graduate and career fair "ZWIK 2015" as an exhibitor with an information stand and a company presentation.
-        27:
-            title: Join Xceptance at Demandware XChange‘16 in Hollywood, FL!
-            when: March 29, 2016
-            excerpt: Xceptance is sponsoring this year‘s Demandware XChange conference, April 04-06, 2016 in Hollywood, FL, USA.
-        28:
-            title: Xceptance Sponsor of TEDxFSU Jena 2016
-            when: June 01, 2016
-            excerpt: We are happy to support the second university-based TEDx event in Jena.
-        29:
-            title: Xceptance at the Demandware Xchange’16 in Berlin
-            when: June 02, 2016
-            excerpt: Xceptance Silver Sponsor at the Demandware Xchange’16 in Berlin, 14-15 June
-        30:
-            title: Summer in the City
-            when: June 15, 2016
-            excerpt: Xceptance ist Sponsor des Uni-Sommerfests und der Kulturarena 2016
-        31:
-            title: Xceptance at the inova2016
-            when: July 07, 2016
-            excerpt: This year Xceptance will join inova at TU Ilmenau again, one of the largest career fairs in Germany with about 200 exhibitors and 5,000 visitors.
+            title: Primi test per il nuovo sito basato su Jekyll
+            when: 8 Febbraio 2017
+            excerpt: Sono iniziati i primi test del nuovo sito CryptoTeam in ambiente Jekyll.
+
+########################################################################
+# EOF
+########################################################################

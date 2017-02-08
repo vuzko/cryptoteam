@@ -5,7 +5,7 @@ highlighter: pygments
 #    en: https://ftp.cryptoteam.it
 
 include: [.htaccess,__Analytics*]
-exclude: [bin,README.md]
+exclude: [bin,jobs,README.md]
 
 timezone: UTC
 
@@ -33,27 +33,35 @@ sitenavigation:
   - name: Servizi
     secondarynav:
         - name: Servizi
-        - name: Protezione
+        - name: Protezione Dati
+        - name: Controllo Accessi
+        - name: Cloud in House
+        - name: VoIP Cifrato
+        - name: Progetti Personalizzati
   - name: Offerta
     secondarynav:
         - name: Offerta
-        - name: Features
-        - name: Licensing & Pricing
-        - name: Documentation
-        - name: Download
-  - name: Company
+        - name: Piattaforma PKI
+        - name: Crittografia
+        - name: Cancellazione Sicura
+        - name: Cloud
+        - name: VoIP PBX
+        - name: IDS
+  - name: Azienda
     secondarynav:
-        - name: Company
-        - name: Management
-        - name: Team
-        - name: References
-        - name: Press
-  - name: News
-  - name: Jobs
-  - name: Contact
-    secondarynav:
-        - name: Contact
+        - name: Azienda
+        - name: Competenze
+        - name: Filosofia
         - name: Privacy
-  - name: :External
-    title: Blog
-    url: https://blog.xceptance.com/
+  - name: Notizie
+    secondarynav:
+        - name: Notizie
+        - name: Archivio News
+#  - name: Jobs
+  - name: Contatti
+    secondarynav:
+        - name: Contatti
+        - name: Tecnico
+#  - name: :External
+#    title: Blog
+#    url: https://blog.cryptoteam.it/
