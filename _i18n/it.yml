@@ -48,7 +48,7 @@ global:
     description: "La pagina che hai cercato non esiste"
 
     headline: "Il famoso numero 404"
-    apology: "We are truly sorry, but what you have been looking for is not here... anymore... or was not here at all or maybe you just mistyped something. Anyways, please hop back to our main site and start your navigation from there."
+    apology: "Siamo davvero spiacenti, but what you have been looking for is not here... anymore... or was not here at all or maybe you just mistyped something. Anyways, please hop back to our main site and start your navigation from there."
     startover: "Go here and find what you are looking for: <a href=\"//www.xceptance.com/\">www.xceptance.com</a>."
 
 ########################################################################
