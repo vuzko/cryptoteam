@@ -44,8 +44,8 @@ global:
 ########################################################################
 # 404
 404:
-    title: "Page not found. Your pixels are on another canvas."
-    description: "Well, this is not really want you are looking for, is it?"
+    title: "Pagina non trovata."
+    description: "La pagina che hai cercato non esiste"
 
     headline: "The Famous Number 404"
     apology: "We are truly sorry, but what you have been looking for is not here... anymore... or was not here at all or maybe you just mistyped something. Anyways, please hop back to our main site and start your navigation from there."
