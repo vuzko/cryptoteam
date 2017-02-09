@@ -48,8 +48,8 @@ global:
     description: "La pagina che hai cercato non esiste"
 
     headline: "Il famoso numero 404"
-    apology: "Siamo davvero spiacenti, but what you have been looking for is not here... anymore... or was not here at all or maybe you just mistyped something. Anyways, please hop back to our main site and start your navigation from there."
-    startover: "Go here and find what you are looking for: <a href=\"//www.xceptance.com/\">www.xceptance.com</a>."
+    apology: "Siamo davvero spiacenti, ma la pagina che stai cercando non si trova... o magari non è mai stata qui e hai sbagliato a scrivere qualcosa. Non preoccuparti, ritorna alla home del sito e ricomincia da lì."
+    startover: "Clicca sul link per trovare quello che stai cercando: <a href=\"//ftp.cryptoteam.it/\">ftp.cryptoteam.it</a>."
 
 ########################################################################
 # privacy message
