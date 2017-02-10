@@ -18,6 +18,27 @@
 #           name: The text to display on the page.
 #
 ###############################################################################
+servizi:
+  intro:
+    titolo: Come possiamo aiutarti?
+    descrizione: Da scrivere
+  protezione:
+    icona: Protezione dei Dati
+    titolo: testo da decidere
+    testo: testo da decidere
+  controllo:
+    icona: Controllo Accessi
+    titolo: testo da decidere
+    testo: testo da decidere
+  cloud:
+    icona: Cloud in House
+    titolo: testo da decidere
+    testo: testo da decidere
+  voip:
+    icona: VoIP Cifrato
+    titolo: testo da decidere
+    testo: testo da decidere
+
 
 ########################################################################
 # dummy content for empty exerpts for job posts
@@ -125,17 +146,17 @@ homepage:
 
     offer:
         manual:
-            headline: Protezione dei dati<br/>Esigenza inderogabile
+            headline: Protezione dei dati
             details: La protezione dei dati aziendali non è soltanto necessaria per adeguarsi alle normative sulla privacy, è una scelta di tutela del patrimonio aziendale.
         load:
-            headline: Piattaforma PKI<br/>Certificati x509 aziendali
+            headline: Piattaforma PKI
             details: Scopri come gestire, in piena autonomia, l'emissione dei certificati a chiave pubblica X509 per la tua azienda.
         support:
             headline: Cloud in House
-            details: We love to share our knowledge and can help you establish or improve your own quality assurance processes. Let us inspire you to test better!
+            details: È un canale di lavoro sicuro e riservato. Questa soluzione consente di distribuire in modo sicuro i dati sensibili all'interno dell'azienda
         product:
             headline: Crittografia
-            details: You’ll love functional testing with XLT because it takes Selenium style testing to the next level. XLT also covers all your web performance testing needs.
+            details: Scrittura convenzionale segreta, decifrabile solo da chi sia a conoscenza del codice. Come la usiamo?
 
     welcome_teaser:
         headline: Benvenuto in CryptoTeam!<br/>Vieni a conoscerci.
