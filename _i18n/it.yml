@@ -54,7 +54,7 @@ global:
 ########################################################################
 # privacy message
 message:
-    cookies: We use cookies. For more information please read <a href="/en/contact/privacy.html">our privacy section</a>.
+    cookies: Utilizziamo i cookie. Per maggiori informazioni leggi la nostra <a href="/it/azienda/privacy.html">sezione privacy</a>.
     tracking: We also use analytics. By clicking <em>Opt-Out</em>, we will place a non-personalized cookie on your machine that indicates that you don‘t wish to be tracked.
 
     btn:
@@ -120,7 +120,7 @@ homepage:
         load_slide: VoIP PBX Cifrato<br/>Sicurezza nelle comunicazioni aziendali
 
     intro:
-        headline: Committed to Software Quality
+        headline: Impegnati nella sicurezza
         details: Aiutiamo i nostri clienti a proteggere uno dei patrimoni più preziosi, l'insieme globale dei dati aziendali.
 
     offer:
@@ -131,10 +131,10 @@ homepage:
             headline: Piattaforma PKI<br/>Certificati x509 aziendali
             details: Scopri come gestire, in piena autonomia, l'emissione dei certificati a chiave pubblica X509 per la tua azienda.
         support:
-            headline: Test Guidance &amp; Support
+            headline: Cloud in House
             details: We love to share our knowledge and can help you establish or improve your own quality assurance processes. Let us inspire you to test better!
         product:
-            headline: Our Testing Tool
+            headline: Crittografia
             details: You’ll love functional testing with XLT because it takes Selenium style testing to the next level. XLT also covers all your web performance testing needs.
 
     welcome_teaser:
