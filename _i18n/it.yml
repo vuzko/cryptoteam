@@ -75,8 +75,8 @@ global:
 ########################################################################
 # privacy message
 message:
-    cookies: Utilizziamo i cookie. Per maggiori informazioni leggi la nostra <a href="/it/azienda/privacy.html">sezione privacy</a>.
-    tracking: We also use analytics. By clicking <em>Opt-Out</em>, we will place a non-personalized cookie on your machine that indicates that you don‘t wish to be tracked.
+    cookies: Utilizziamo i cookies unicamente per assicurarci che hai letto la nostra <a href="/it/azienda/privacy.html">informativa sulla privacy</a>. Clicca sul pulsante sotto per non far più comparire questo avviso.
+    tracking: Il nostro sito rispetta le impostazioni <a href=\"//http://donottrack.us/\">DoNotTrack</a> dell'utente. In ogni caso, ti confermiamo che non utilizziamo alcun software di tracciamento.
 
     btn:
         opt-out: Opt-Out
@@ -160,7 +160,7 @@ homepage:
 
     welcome_teaser:
         headline: Benvenuto in CryptoTeam!<br/>Vieni a conoscerci.
-        action_button: Seguimi
+        action_button: Scopri
 
 ########################################################################
 # Company pages
