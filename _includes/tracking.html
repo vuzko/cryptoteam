@@ -2,8 +2,8 @@
 <script type="text/javascript">
   var _paq = _paq || [];
   _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
-  _paq.push(["setCookieDomain", "*.xceptance.de"]);
-  _paq.push(["setDomains", ["*.xceptance.de","*.xceptance-loadtest.com","*.xceptance-loadtest.de","*.xceptance.com"]]);
+  _paq.push(["setCookieDomain", "ftp.cryptoteam.it", "127.0.0.1"]);
+  _paq.push(["setDomains", ["ftp.cryptoteam.it","127.0.0.1"]]);
   _paq.push(["trackPageView"]);
   _paq.push(["enableLinkTracking"]);
 
@@ -17,17 +17,17 @@
             g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
         }
   };
-  reportAnalytics();
+//  reportAnalytics();
 </script>
 <!-- End Piwik Code -->
 
 <script type="text/javascript">
     // display the privacy message when not yet displayed, store this fact in a cookie
-    // if DNT is set, do not do anything, because we auto-disable tracking based on the 
+    // if DNT is set, do not do anything, because we auto-disable tracking based on the
     // users wish
     var isDNT = navigator.doNotTrack == "yes" || navigator.doNotTrack == "1" || navigator.msDoNotTrack == "1";
-    
-    if ($.cookie('privacy-ack-displayed') == undefined && !isDNT) { 
+
+    if ($.cookie('privacy-ack-displayed') == undefined && !isDNT) {
         $('#privacy-message').show();
         $.cookie('privacy-ack-displayed', 'true', { expires: 7, path: '/{{site.lang}}' });
     }
