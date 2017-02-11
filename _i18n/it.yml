@@ -97,7 +97,7 @@ global:
 # privacy message
 message:
     cookies: Utilizziamo i cookies unicamente per assicurarci che hai letto la nostra <a href="/it/azienda/privacy.html">informativa sulla privacy</a>. Clicca sul pulsante sotto per non far più comparire questo avviso.
-    tracking: Il nostro sito rispetta le impostazioni <a href=\"//http://donottrack.us/\">DoNotTrack</a> dell'utente. In ogni caso, ti confermiamo che non utilizziamo alcun software di tracciamento.
+    tracking: Il nostro sito rispetta le impostazioni <a href=\"http://donottrack.us/\">DoNotTrack target=_blank</a> dell'utente. In ogni caso, ti confermiamo che non utilizziamo alcun software di tracciamento.
 
     btn:
         opt-out: Opt-Out
