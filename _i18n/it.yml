@@ -91,13 +91,13 @@ global:
 
     headline: "Il famoso numero 404"
     apology: "Siamo davvero spiacenti, ma la pagina che stai cercando non si trova... o magari non è mai stata qui e hai sbagliato a scrivere qualcosa. Non preoccuparti, ritorna alla home del sito e ricomincia da lì."
-    startover: "Clicca sul link per trovare quello che stai cercando: <a href=\"//ftp.cryptoteam.it/\">ftp.cryptoteam.it</a>."
+    startover: "Clicca sul link per trovare quello che stai cercando: <a href=\"//ftp.cryptoteam.it/\">ftp.cryptoteam.it</a>. "
 
 ########################################################################
 # privacy message
 message:
     cookies: Utilizziamo i cookies unicamente per assicurarci che hai letto la nostra <a href="/it/azienda/privacy.html">informativa sulla privacy</a>. Clicca sul pulsante sotto per non far più comparire questo avviso.
-    tracking: Il nostro sito rispetta le impostazioni <a href=\"http://donottrack.us/\">DoNotTrack target=_blank</a> dell'utente. In ogni caso, ti confermiamo che non utilizziamo alcun software di tracciamento.
+    tracking: "Il nostro sito rispetta le impostazioni <a href=\"http://donottrack.us/\" target=\"_blank\">DoNotTrack</a> dell'utente. In ogni caso, ti confermiamo che non utilizziamo alcun software di tracciamento."
 
     btn:
         opt-out: Opt-Out
