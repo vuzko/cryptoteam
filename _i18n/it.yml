@@ -22,37 +22,45 @@
 #PAGINA SERVIZI/SOMMARIO
 
 servizi:
+    teaser: Ispeziona, Osserva,<br>Riporta.
 
-  intro:
-    titolo: Come possiamo aiutarti?
-    descrizione: Ecco un piccolo riepilogo di cosa ci occupiamo
+    intro:
+        titolo: Come possiamo aiutarti?
+        descrizione: Ecco un piccolo riepilogo di cosa ci occupiamo
 
-  protezione:
-    icona: Protezione dei Dati
-    titolo: <strong>Proteggere è la cosa più importante</strong>
-    testo: Grazie ai sistemi che utilizziamo possiamo garantirti la messa totale in sicurezza dei tuoi dati aziendali
+    protezione:
+        icona: Protezione dei Dati
+        titolo: <strong>Proteggere è la cosa più importante</strong>
+        testo: Grazie ai sistemi che utilizziamo possiamo garantirti la messa totale in sicurezza dei tuoi dati aziendali
 
-  controllo:
-    icona: Controllo Accessi
-    titolo: <strong>Tieni sotto controllo chi accede ai tuoi dati</strong>
-    testo: La cosa più importante quando si hanno dei dati aziendali sensibili è sapere chi vi può accedere
+    controllo:
+        icona: Controllo Accessi
+        titolo: <strong>Tieni sotto controllo chi accede ai tuoi dati</strong>
+        testo: La cosa più importante quando si hanno dei dati aziendali sensibili è sapere chi vi può accedere
 
-  cloud:
-    icona: Cloud in House
-    titolo: <strong>I tuoi dati, sui tuoi server, sempre con te</strong>
-    testo: Grazie al Cloud e alla sua crittografia solo e solanto tu potrai vedere e gestire i dati che inserisci nel Cloud in oltre potrai:""
-    lista:
-      li1: Gestire autorizzazione e permessi
-      li2: Generare password per file specifici
-      li3: Gestire i criteri di condivisione
-      li4: Creare link protetti per condivisioni
+    cloud:
+        icona: Cloud in House
+        titolo: <strong>I tuoi dati, sui tuoi server, sempre con te</strong>
+        testo: Grazie al Cloud e alla sua crittografia solo e solanto tu potrai vedere e gestire i dati che inserisci nel Cloud in oltre potrai
+        lista:
+            li1: Gestire autorizzazione e permessi
+            li2: Generare password per file specifici
+            li3: Gestire i criteri di condivisione
+            li4: Creare link protetti per condivisioni
+        client:
+            titolo: Prova
+            descrizione: Prova, prova, prova, prova, prova, prova, prova, prova, prova, prova, prova, prova, prova, prova, prova, prova, prova, prova
 
-  voip:
-    icona: VoIP Cifrato
-    titolo: <strong>titolo da decidere</strong>
-    testo: testo da decidere
+    voip:
+        icona: VoIP Cifrato
+        titolo: <strong>titolo da decidere</strong>
+        testo: testo da decidere
 
 
+########################################################################
+#PAGINA SERVIZI/PROTEZIONE
+protezione:
+  prova: prova 1
 ########################################################################
 # dummy content for empty exerpts for job posts
 none: none
