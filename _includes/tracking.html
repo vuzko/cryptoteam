@@ -2,33 +2,39 @@
 <script type="text/javascript">
   var _paq = _paq || [];
   _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
-  _paq.push(["setCookieDomain", "ftp.cryptoteam.it", "127.0.0.1"]);
-  _paq.push(["setDomains", ["ftp.cryptoteam.it","127.0.0.1"]]);
-  _paq.push(["trackPageView"]);
-  _paq.push(["enableLinkTracking"]);
+  _paq.push(["setCookieDomain", "ftp.cryptoteam.it", "localhost"]);
+  _paq.push(["setDomains", ["ftp.cryptoteam.it","localhost"]]);
+  //_paq.push(["trackPageView"]);
+  //_paq.push(["enableLinkTracking"]);
 
-  function reportAnalytics() {
+// Analytics function is commented out
+
+//function reportAnalytics() {
         // sent this only, if the user did not opt-out and he has seen the privacy message once at least
-        if ( ($.cookie('privacy-ack-displayed') == 'true') && ($.cookie('privacy') == undefined) ) {
-            var u=(("https:" == document.location.protocol) ? "https" : "http") + "://stats.xceptance.com/";
-            _paq.push(["setTrackerUrl", u+"piwik.php"]);
-            _paq.push(["setSiteId", "7"]);
-            var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
-            g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
-        }
-  };
+//        if ( ($.cookie('privacy-ack-20170210') == 'true') && ($.cookie('privacy') == undefined) ) {
+//            var u=(("https:" == document.location.protocol) ? "https" : "http") + "://stats.xceptance.com/";
+//            _paq.push(["setTrackerUrl", u+"piwik.php"]);
+//            _paq.push(["setSiteId", "7"]);
+//            var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+//            g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
+//        }
+//  };
+
 //  reportAnalytics();
+
 </script>
 <!-- End Piwik Code -->
 
 <script type="text/javascript">
-    // display the privacy message when not yet displayed, store this fact in a cookie
-    // if DNT is set, do not do anything, because we auto-disable tracking based on the
-    // users wish
-    var isDNT = navigator.doNotTrack == "yes" || navigator.doNotTrack == "1" || navigator.msDoNotTrack == "1";
+// Impostiamo 1 cookie (per i domini ftp.cryptoteam.it e localhost) che verifica che l'utente abbia letto l'informativa sulla privacy.
+// Se il cookie non è impostato, continuiamo a visualizzare l'informativa, fino a quando l'utente non clicca "HO CAPITO".
+// Il nome del cookie contiene la data di emissione della privacy. In caso di modifiche alla privacy, viene emesso un nuovo cookie
+// e l'utente deve di nuovo confermare di aver letto la privacy modificata.
+// - privacy-20170210
+// Il cookie viene messo = true quando l'utente clicca il bottone HO CAPITO in privacy-message.html
 
-    if ($.cookie('privacy-ack-displayed') == undefined && !isDNT) {
+    if ($.cookie('privacy-ack-20170210') == undefined) {
         $('#privacy-message').show();
-        $.cookie('privacy-ack-displayed', 'true', { expires: 7, path: '/{{site.lang}}' });
+        //$.cookie('privacy-ack-20170210', 'true', { expires: 7, path: '/{{site.lang}}' });
     }
 </script>

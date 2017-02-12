@@ -96,8 +96,8 @@ global:
 ########################################################################
 # privacy message
 message:
-    cookies: Utilizziamo i cookies unicamente per assicurarci che hai letto la nostra <a href="/it/azienda/privacy.html">informativa sulla privacy</a>. Clicca sul pulsante sotto per non far più comparire questo avviso.
-    tracking: "Il nostro sito rispetta le impostazioni <a href=\"http://donottrack.us/\" target=\"_blank\">DoNotTrack</a> dell'utente. In ogni caso, ti confermiamo che non utilizziamo alcun software di tracciamento."
+    cookies: Utilizziamo un cookie unicamente per assicurarci che tu abbia letto la nostra <a href="/it/azienda/privacy.html">informativa sulla privacy</a>. Clicca sul pulsante sotto per non far più comparire questo avviso.
+    tracking: "Ti confermiamo inoltre che non utilizziamo alcun software di tracciamento."
 
     btn:
         opt-out: Opt-Out
@@ -327,63 +327,60 @@ company:
 
 ##################################
     privacy:
-        title: Xceptance - Privacy Information
-        description: All about privacy, and other legal stuff.
+        title: CryptoTeam - Informativa sulla Privacy
+        description: Tutto sulla privacy, e altri aspetti legali.
 
-        info: In case of questions, feel free to <a href="/en/contact/">contact us</a>.
+        info: Per qualsiasi domanda, non esitare a <a href="/it/contatti/">contattarci</a>.
         intro:
             headline: Privacy
-            lead: We deal with your data carefully.
+            lead: E' la nostra missione. Trattiamo i tuoi dati con estrema attenzione.
         collect:
-            headline: What Information Do We Collect?
-            details: "<p>We collect information from you when you register on our site, subscribe to our newsletter or fill out a form. When registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously. In order to improve the content and format of our site, Xceptance automatically captures technical information that is then stored in our servers’ log files. This information may include, but is not limited to, user domain, the type of Internet browser being used, which of our Web pages is visited, and the amount of time spent on our site. Xceptance uses an internal Web site analytics software that doesn't transfer the data to any third party.</p>"
+            headline: Che informazioni raccogliamo?
+            details: "<p>Raccogliamo i tuoi dati nel momento in cui li metti a nostra disposizione, ad esempio quando ti registri al sito, ti iscrivi ad una newsletter o compili un modulo con i tuoi dati. Puoi sempre, comunque, visitare il nostro sito in modo anonimo. Anche in questo caso, il sito raccoglie automaticamente alcuni dati tecnici, quali ad esempio, la data e l'ora di accesso, l'IP di provenienza, le pagine visitate, la durata della visita su ciascuna pagina, ecc. CryptoTeam può utilizzare questi dati, aggregati in modo anonimo, per migliorare l'esperienza di navigazione dei propri utenti. I dati non verranno trasferiti a terze parti, salvo quanto previsto nel paragrafo <a href=\"#thirdparty\">Trasferiamo le tue informazioni a Soggetti Esterni?</a>.</p>"
         use:
-            headline: How Do We Use Your Information
-            details: "<p>Any of the information we collect from you may be used in one of the following ways:</p>"
+            headline: Come usiamo le informazioni che raccogliamo su di te
+            details: "<p>Ciascuna delle informazioni che raccogliamo su di te può essere usata in uno dei seguenti modi:</p>"
             list: "
-                <li>To personalize your experience (your information helps us to better respond to your individual needs),</li>
-                <li>To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you),</li>
-                <li>To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs),</li>
-                <li>To process transactions (Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.),</li>
-                <li>To send emails to answer your inquiries.</li>"
+                <li>Per personalizzare la tua esperienza di navigazione (i tuoi dati ci aiutano a rispondere al meglio alle tue richieste),</li>
+                <li>Per migliorare il nostro sito (cerchiamo di migliorare costantemente le informazioni offerte sul nostro sito in base al feedback che riceviamo da te),</li>
+                <li>Per migliorare il servizio ai clienti (i tuoi dati ci aiutano a rispondere in modo più efficace alle tue richieste di customer service e alle tue necessità di supporto da parte nostra),</li>
+                <li>Per elaborare le transazioni (i tuoi dati, sia pubblici che privati, non verranno venduti, scambiati, trasferiti o in alcun modo consegnati, senza il tuo consenso, al di fuori dello scopo specifico di consegnarti il servizio e/o prodotto che ci hai richiesto.),</li>
+                <li>Per inviare email di risposta alle tue richieste.</li>"
         cookies:
-            headline: Do We Use Cookies?
-            details: "<p>Yes (cookies are small blocks of information that a site transfers to your computer - if you allow). Only our analytics software uses cookies actively to recognize your browser and capture and remember certain information. If you opt-out of analytics tracking, we will set a single unpersonalized cookie to remember your decision.</p>"
+            headline: Utilizziamo i Cookies?
+            details: "<p>Si, ma con parsimonia! I cookies sono piccoli blocchi di informazioni che un sito trasferisce sul tuo computer, salvandoli in file gestiti dal browser - sempre che tu lo consenta. Molti siti salvano numerosi cookies per tracciare le abitudini di navigazione dell'utente. Coerentemente con la nostra visione, abbiamo deciso di non tracciare i nostri utenti. La normativa vigente ci impone di segnalarti la nostra politica sulla privacy: lo facciamo mostrandoti un link a questa pagina durante il primo collegamento al nostro sito. Per evitare di mostrarti l'avviso ad ogni accesso successivo salviamo, con il tuo consenso, un solo cokkie che ci conferma che tu abbia letto il nostro avviso. Una volta salvato il cookie, l'avviso non verrà riproposto, a meno di modifiche alla presente pagina. La pagine resta comunque sempre visitabile sotto la voce di menu Azienda.</p>"
         thirdparty:
-            headline: Do We Disclose any Information to Outside Parties?
-            details: "<p>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours' or others rights, property, or safety.</p>"
+            headline: Trasferiamo le tue informazioni a Soggetti Esterni?
+            details: "<p>La nostra politica aziendale è di non vendere, scambiare, trasferire le tue informazioni personali a Terze Parti. In alcuni casi abbiamo la necessità di condividere le tue informazioni con alcuni soggetti fidati che ci assistono nello svolgimento delle nostre attività. A titolo di esempio, questi soggetti possono essere:
+              - lo studio del commercialista che segue la nostra contabilità
+              - gli istituti bancari con cui intratteniamo rapporti per poter svolgere la nostra attività economica
+              - tutti gli enti pubblici che la normativa ci impone di informare in merito alla nostra attività
+              - ecc.
+            In questi casi di necessità ci assicuriamo che dette parti fidate si impegnino a trattare i tuoi dati con la dovuta confidenzialità.
+            Potremmo infine rilasciare le tue informazioni qualora ritenessimo tale rilascio appropriato al fine di ottemperare ad obblighi di legge, rafforzare le politiche del nostro sito, proteggere i nostri o gli altrui diritti intellettuali, proprietà, sicurezza.</p>"
         links:
-            headline: Third Party Links
-            details: "<p>Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.</p>"
+            headline: Collegamenti a Soggetti Terzi
+            details: "<p>Occasionalmente, a nostra discrezione, potremmo includere o offrire proddotti e/o servizi di Terze Parti. Queste Terze Parti hanno politiche di privacy diverse e separate dalla nostra, pertanto noi non avremo alcuna responsabilità per il contenuto o per le attività offerte da questi siti collegati. Ciononostante, cerchiamo sempre di proteggere 'integrità del nostro sito e qualsiasi feedback al rigurardo sarà benvenuto.</p>"
         privacy-protection:
             headline: California Online Privacy Protection Act Compliance
             details: "<p>Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.</p>"
         privacy-policy:
-            headline: Online Privacy Policy Only
-            details: "<p>This online privacy policy applies only to information collected through our website and not to information collected offline.</p>"
+            headline: Politica della Privacy solo Online
+            details: "<p>Questa policy privacy online si applica solo alle informazioni raccolte attraverso il nostro sito web e non alle informazioni raccolte offline.</p>"
         consent:
-            headline: Your Consent
-            details: "<p>By using our site, you consent to our website's privacy policy.</p>"
+            headline: Il tuo consenso
+            details: "<p>Utilizzando il nostro sito, acconsenti implicitamente alla nostra politica di privacy online.</p>"
         privacy-changes:
-            headline: Changes to Our Privacy Policy
-            details: "<p>If we decide to change our privacy policy, we will update the Privacy Policy modification date below.<br>This policy was last modified on July 31, 2014.</p>"
+            headline: Modifiche alla nostra Politica della Privacy
+            details: "<p>Qualora decidessimo di modificare la nostra politica della privacy, aggiorneremo questa pagina, evidenziando le modifiche apportate. Inoltre azzereremo il cookie di presa visione iniziale, in modo che verrà nuovamente mostrato il messaggio di avviso durante il primo accesso successivo alla modifica.<br><b>Questa policy è stata modificata il 10 febbraio 2017.</b></p>"
         sites:
             headline: Web Sites
-            details: "<p>Xceptance owns, maintains, and contributes at:
-                <a href=\"http://www.xceptance.de/\">www.xceptance.de</a>,
-                <a href=\"https://www.xceptance.com/\">www.xceptance.com</a>,
-                <a href=\"http://www.xceptance-loadtest.de/\">www.xceptance-loadtest.de</a>,
+            details: "<p>CryptoTeam possiende, mantiene e contribuisce a i seguenti websites:
+                <a href=\"http://ca.cryptoteam.it/\">ca.cryptoteam.it</a>,
+                <a href=\"https://cloud.cryptoteam.it/\">cloud.cryptoteam.it</a>,
+                <a href=\"http://crm.cryptoteam.it/\">crm.cryptoteam.it</a>,
                 <a href=\"http://www.xceptance-loadtest.com/\">www.xceptance-loadtest.com</a>,
-                <a href=\"https://blog.xceptance.de/\">blog.xceptance.de</a>,
-                <a href=\"https://twitter.com/Xceptance\">Xceptance Twitter</a>,
-                <a href=\"https://www.xing.com/companies/xceptancesoftwaretechnologiesgmbh\">Xceptance on Xing</a>,
-                <a href=\"https://www.linkedin.com/company/xceptance\">Xceptance on LinkedIn</a>,
-                <a href=\"https://github.com/Xceptance/\">Xceptance on GitHub</a>,
-                <a href=\"https://plus.google.com/+Xceptance/posts\">Xceptance on Google+</a>,
-                <a href=\"https://ask.xceptance.de/\">XLT Forum</a>,
-                <a href=\"https://xltportal.xceptance.de/\">XLT Self Service Center</a>, and all other content published on
-                <a href=\"https://lab.xceptance.de/\">lab.xceptance.de</a>, such as releases and documentation.</p>"
-
+                <a href=\"https://otrs.cryptoteam.it/\">otrs.cryptoteam.it</a></p>"
 
 ########################################################################
 # Jobs
