@@ -101,6 +101,8 @@ global:
 # privacy message
 message:
 
+    cookies: Utilizziamo un cookie unicamente per assicurarci che tu abbia letto la nostra <a href="/it/azienda/privacy.html">informativa sulla privacy</a>. Clicca sul pulsante sotto per non far più comparire questo avviso.
+    tracking: "Ti confermiamo inoltre che non utilizziamo alcun software di tracciamento."
     btn:
         opt-out: Opt-Out
         understand: Ho capito
