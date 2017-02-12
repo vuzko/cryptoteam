@@ -100,13 +100,6 @@ global:
 ########################################################################
 # privacy message
 message:
-<<<<<<< HEAD
-    cookies: Utilizziamo i cookies unicamente per assicurarci che hai letto la nostra <a href="/it/azienda/privacy.html">informativa sulla privacy</a>. Clicca sul pulsante sotto per non far più comparire questo avviso.
-    tracking: "Il nostro sito rispetta le impostazioni <a href=\"//http://donottrack.us/\">DoNotTrack</a> dell'utente. In ogni caso, ti confermiamo che non utilizziamo alcun software di tracciamento."
-=======
-    cookies: Utilizziamo un cookie unicamente per assicurarci che tu abbia letto la nostra <a href="/it/azienda/privacy.html">informativa sulla privacy</a>. Clicca sul pulsante sotto per non far più comparire questo avviso.
-    tracking: "Ti confermiamo inoltre che non utilizziamo alcun software di tracciamento."
->>>>>>> stefanomarty/master
 
     btn:
         opt-out: Opt-Out
