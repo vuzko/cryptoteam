@@ -59,8 +59,12 @@ servizi:
 
 ########################################################################
 #PAGINA SERVIZI/PROTEZIONE
+
 protezione:
-  prova: prova 1
+    testo1: testo 1
+    testo2: testo 2
+    testo3: testo 3
+    testo4: "testo 4"
 ########################################################################
 # dummy content for empty exerpts for job posts
 none: none
@@ -91,14 +95,14 @@ global:
 
     headline: "Il famoso numero 404"
     apology: "Siamo davvero spiacenti, ma la pagina che stai cercando non si trova... o magari non è mai stata qui e hai sbagliato a scrivere qualcosa. Non preoccuparti, ritorna alla home del sito e ricomincia da lì."
-    startover: "Clicca sul link per trovare quello che stai cercando: <a href=\"//ftp.cryptoteam.it/\">ftp.cryptoteam.it</a>. "
+    startover: "Clicca sul link per trovare quello che stai cercando: <a href=\"//ftp.cryptoteam.it/\">ftp.cryptoteam.it</a>."
 
 ########################################################################
 # privacy message
 message:
+
     cookies: Utilizziamo un cookie unicamente per assicurarci che tu abbia letto la nostra <a href="/it/azienda/privacy.html">informativa sulla privacy</a>. Clicca sul pulsante sotto per non far più comparire questo avviso.
     tracking: "Ti confermiamo inoltre che non utilizziamo alcun software di tracciamento."
-
     btn:
         opt-out: Opt-Out
         understand: Ho capito
