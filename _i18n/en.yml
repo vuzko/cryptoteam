@@ -54,8 +54,8 @@ global:
 ########################################################################
 # privacy message
 message:
-    cookies: We use cookies. For more information please read <a href="/en/contact/privacy.html">our privacy section</a>.
-    tracking: We also use analytics. By clicking <em>Opt-Out</em>, we will place a non-personalized cookie on your machine that indicates that you don‘t wish to be tracked.
+    cookies: We use just one cookie to ensure you've read our <a href="/it/azienda/privacy.html">privacy policy</a>. Click on the button below to stop showing this message.
+    tracking: "We have no tracking active on our website."
 
     btn:
         opt-out: Opt-Out
