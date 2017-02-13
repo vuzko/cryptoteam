@@ -65,6 +65,16 @@ protezione:
     teaser: "Proteggiamo i tuoi dati"
     titolo: Titolo
     stitolo: sottoTitolo
+
+########################################################################
+#PAGINA SERVIZI/CONTROLLO
+
+controllo:
+    icona: Controllo dati
+    teaser: "Controllo dati"
+    titolo: Controlla i tuoi dati
+    stitolo: Controlla chi accede ai tuoi dati
+
 ########################################################################
 #PAGINA SERVIZI/CLOUD
 
@@ -72,8 +82,7 @@ cloud:
     icona: Cloud in House
     teaser: I tuoi dati sempre con te
     titolo: Come funziona il cloud?
-    stitolo: Un modo sicuro per avere i tuoio dati sempre con te
-
+    stitolo: Un modo sicuro per avere i tuoi dati sempre con te
 
 ########################################################################
 # dummy content for empty exerpts for job posts
