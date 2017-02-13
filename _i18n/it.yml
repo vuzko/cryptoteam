@@ -61,10 +61,20 @@ servizi:
 #PAGINA SERVIZI/PROTEZIONE
 
 protezione:
-    testo1: testo 1
-    testo2: testo 2
-    testo3: testo 3
-    testo4: "testo 4"
+    icona: Protezione dei Dati
+    teaser: "Proteggiamo i tuoi dati"
+    titolo: Titolo
+    stitolo: sottoTitolo
+########################################################################
+#PAGINA SERVIZI/CLOUD
+
+cloud:
+    icona: Cloud in House
+    teaser: I tuoi dati sempre con te
+    titolo: Come funziona il cloud?
+    stitolo: Un modo sicuro per avere i tuoio dati sempre con te
+
+
 ########################################################################
 # dummy content for empty exerpts for job posts
 none: none
