@@ -2,7 +2,7 @@
 set -e
 
 SOURCE_FOLDER=GIT
-BRANCH=$GIT_BRANCH 
+BRANCH=$GIT_BRANCH
 TARGET=$WORKSPACE/target
 
 rm -rf $TARGET
@@ -12,10 +12,10 @@ cd $SOURCE_FOLDER
 
 /usr/local/bin/jekyll build --destination $TARGET
 
-# We have some issues with less occationally aka it fails to 
-# build but when tried again it works. Prevent us from deploying 
+# We have some issues with less occationally aka it fails to
+# build but when tried again it works. Prevent us from deploying
 # a broken website.
-if [ -s "$TARGET/css/xceptance.css" ]
+if [ -s "$TARGET/css/cryptoteam.css" ]
 then
     HOST="<your host>"
     USER="<your ftp user>"
