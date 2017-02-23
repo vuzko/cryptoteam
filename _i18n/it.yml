@@ -1,21 +1,24 @@
 ###############################################################################
-# Couple of important things about localization.
+# Un paio di cose importanti riguardo la localizzazione.
 #
-# * This is the localization plugin
+# * Questo è il plugin di localizzazione:
 #   https://github.com/screeninteraction/jekyll-multiple-languages-plugin/
-# * No tabs in yaml de/en file, spaces make the hierarchy
-# * Use speaking names for keys and feel free to have hierarchies where
-#   appropriate
-# * For missing keys, you will see exceptions during compile until
-#   the project released again with my pull request incorporated
-# * Keep en and de in sync!
-# * Global is for everything that is repeated everywhere such as buttons or
-#   certain link texts
-# * {% t page.area.name %} that is the text for an html page
-#   to refer to something here like that in yaml.
-#   page:
+# * Nessuna tabulazione nei file yaml it/en, la gerarchia viene gestita tramite spazi
+# * Usare nomi autoesplicativi per le chiavi (variabili) e inserire liberamente gerarchie
+#   diove ritenuto appropriato.
+# * Per le chiavi mancanti, si vedranno messaggi di errore durante la compilazione del sito.
+#   I messaggi scompariranno mano a mano che verranno inserite le chiavi nei file .yml
+# * Mantenere sincronizzati i file it.yml e en.yml!
+# * La gerarchia Global serve per quei valori che sono distrinutiti nel sito (non specifici per la ingola pagina)
+#   come pulsanti link a testi esterni, ecc.
+# * COME FUNZIONA
+#   {% t pagina.area.nome %} <-- questo vine inserito al posto del testo nel file della pagina .html
+#   t sta per testo
+#   pagina.area.nome è la gerarchia delle chiavi (variabili). Può essere più profonda di tre.
+#   Esempio di come si inserisce il testo in questo file it.yml
+#   pagina:
 #       area:
-#           name: The text to display on the page.
+#           nome: Testo da visualizzare nella pagina finale html
 #
 ###############################################################################
 
@@ -83,6 +86,7 @@ cloud:
     teaser: I tuoi dati sempre con te
     titolo: Come funziona il cloud?
     stitolo: Un modo sicuro per avere i tuoi dati sempre con te
+    descrizione: Prova descrizione in cloud, prova, prova
 
 ########################################################################
 # dummy content for empty exerpts for job posts
@@ -119,7 +123,6 @@ global:
 ########################################################################
 # privacy message
 message:
-
     cookies: Utilizziamo un cookie unicamente per assicurarci che tu abbia letto la nostra <a href="/it/azienda/privacy.html">informativa sulla privacy</a>. Clicca sul pulsante sotto per non far più comparire questo avviso.
     tracking: "Ti confermiamo inoltre che non utilizziamo alcun software di tracciamento."
     btn:
@@ -188,17 +191,17 @@ homepage:
         headline: Impegnati nella sicurezza
         details: Aiutiamo i nostri clienti a proteggere uno dei patrimoni più preziosi, l'insieme globale dei dati aziendali.
 
-    offer:
-        manual:
+    riquadri:
+        box1:
             headline: Protezione dei dati
             details: La protezione dei dati aziendali non è soltanto necessaria per adeguarsi alle normative sulla privacy, è una scelta di tutela del patrimonio aziendale.
-        load:
+        box2:
             headline: Piattaforma PKI
             details: Scopri come gestire, in piena autonomia, l'emissione dei certificati a chiave pubblica X509 per la tua azienda.
-        support:
+        box3:
             headline: Cloud in House
             details: È un canale di lavoro sicuro e riservato. Questa soluzione consente di distribuire in modo sicuro i dati sensibili all'interno dell'azienda
-        product:
+        box4:
             headline: Crittografia
             details: Scrittura convenzionale segreta, decifrabile solo da chi sia a conoscenza del codice. Come la usiamo?
 
