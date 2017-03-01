@@ -5,25 +5,145 @@
 #   https://github.com/screeninteraction/jekyll-multiple-languages-plugin/
 # * Nessuna tabulazione nei file yaml it/en, la gerarchia viene gestita tramite spazi
 # * Usare nomi autoesplicativi per le chiavi (variabili) e inserire liberamente gerarchie
-#   diove ritenuto appropriato.
+#   dove ritenuto appropriato.
 # * Per le chiavi mancanti, si vedranno messaggi di errore durante la compilazione del sito.
 #   I messaggi scompariranno mano a mano che verranno inserite le chiavi nei file .yml
 # * Mantenere sincronizzati i file it.yml e en.yml!
-# * La gerarchia Global serve per quei valori che sono distrinutiti nel sito (non specifici per la ingola pagina)
+# * La gerarchia Global serve per quei valori che sono distribuiti nel sito (non specifici per la ingola pagina)
 #   come pulsanti link a testi esterni, ecc.
 # * COME FUNZIONA
 #   {% t pagina.area.nome %} <-- questo vine inserito al posto del testo nel file della pagina .html
-#   t sta per testo
+#   t sta per testo (da localizzare tramite i file contenuti in _i18n)
 #   pagina.area.nome è la gerarchia delle chiavi (variabili). Può essere più profonda di tre.
 #   Esempio di come si inserisce il testo in questo file it.yml
 #   pagina:
 #       area:
 #           nome: Testo da visualizzare nella pagina finale html
-#
 ###############################################################################
 
-#PAGINA SERVIZI/SOMMARIO
+# dummy content for empty exerpts for job posts
+none: none
+########################################################################
 
+# Global stuff such as buttons
+global:
+    website:
+        name: Website Aziendale di CryptoTeam  - Esperti in Sicurezza dei Dati e Privacy
+        description: CryptoTeam, gli esperti in sicurezza dei dati. Crittografia dei dati at-rest e delle comunicazioni. Ti aiutiamo a proteggere il tuo patrimonio più preziso, i tuoi dati aziendali.
+    link:
+        learnmore: Scopri
+        contact: Contattaci
+        top: Top
+    button:
+        download: Download
+        buy: Compra Online
+    label:
+        phone-label: Telefono
+        email-label: Email
+########################################################################
+
+# 404
+404:
+    title: "Pagina non trovata."
+    description: "La pagina che hai cercato non esiste"
+
+    headline: "Il famoso numero 404"
+    apology: "Siamo davvero spiacenti, ma la pagina che stai cercando non si trova... o magari non è mai stata qui e hai sbagliato a scrivere qualcosa. Non preoccuparti, ritorna alla home del sito e ricomincia da lì."
+    startover: "Clicca sul link per trovare quello che stai cercando: <a href=\"//ftp.cryptoteam.it/\">ftp.cryptoteam.it</a>."
+########################################################################
+
+# privacy message
+message:
+    cookies: Utilizziamo un cookie unicamente per assicurarci che tu abbia letto la nostra <a href="/it/azienda/privacy.html">informativa sulla privacy</a>. Clicca sul pulsante sotto per non far più comparire questo avviso.
+    tracking: "Ti confermiamo inoltre che non utilizziamo alcun software di tracciamento."
+    btn:
+        opt-out: Opt-Out
+        understand: Ho capito
+########################################################################
+
+# Traduzione Voci del Menu
+navigation:
+    main:
+        Home: Home
+        Servizi: Servizi
+        Offerta: Offerta
+        Azienda: Azienda
+        Notizie: Notizie
+        Contatti: Contatti
+    sub:
+# Home
+# Nessun Sottomenu
+
+# Servizi
+        Servizi: Sommario
+        ProtezioneDati: Protezione Dati
+        ControlloAccessi: Controllo Accessi
+        CloudInHouse: Cloud in House
+        VoIPCifrato: VoIP Cifrato
+        ProgettiPersonalizzati: Progetti Personalizzati
+
+# Offerta
+        Offerta: Sommario
+        PiattaformaPKI: Piattaforma PKI
+        Crittografia: Crittografia
+        CancellazioneSicura: Cancellazione Sicura
+        Cloud: Cloud
+        VoIPPBX: VoIP PBX
+        IDS: IDS
+
+# Azienda
+        Azienda: Chi Siamo
+        Competenze: Competenze
+        Filosofia: Filosofia
+        Privacy: Privacy
+
+# News
+        Notizie: Ultime Notizie
+        ArchivioNews: Archivio
+
+# Contatti
+        Contatti: Commerciale
+        Tecnico: Tecnico
+########################################################################
+
+# Da qui in avanti sono riportati i testi contenuti nelle varie pagine.
+
+# The homepage
+homepage:
+    title: CryptoTeam - Esperti in Sicurezza dei Dati e Privacy
+    description: CryptoTeam, gli esperti in sicurezza dei dati e privacy.
+
+    carousel:
+        service_slide:
+            text: Piattaforma PKI<br/>Perché la tua sicurezza è importante
+            btn: Scopri
+        dw_slide: Cloud In-House<br/>Controllo fisico dei tuoi dati
+        load_slide: VoIP PBX Cifrato<br/>Sicurezza nelle comunicazioni aziendali
+
+    intro:
+        headline: Impegnati nella sicurezza
+        details: Aiutiamo i nostri clienti a proteggere uno dei patrimoni più preziosi, l'insieme globale dei dati aziendali.
+
+    riquadri:
+        box1:
+            headline: Protezione dei dati
+            details: La protezione dei dati aziendali non è soltanto necessaria per adeguarsi alle normative sulla privacy, è una scelta di tutela del patrimonio aziendale.
+        box2:
+            headline: Piattaforma PKI
+            details: Scopri come gestire, in piena autonomia, l'emissione dei certificati a chiave pubblica X509 per la tua azienda.
+        box3:
+            headline: Cloud in House
+            details: È un canale di lavoro sicuro e riservato. Questa soluzione consente di distribuire in modo sicuro i dati sensibili all'interno dell'azienda
+        box4:
+            headline: Crittografia SUPER
+            details: Scrittura convenzionale segreta, decifrabile solo da chi sia a conoscenza del codice. Come la usiamo?
+
+    welcome_teaser:
+        headline: Benvenuto in CryptoTeam!<br/>Vieni a conoscerci.
+        action_button: Scopri
+########################################################################
+
+# PAGINA SERVIZI-->SOMMARIO (/servizi/index.html)
 servizi:
     teaser: Ispeziona, Osserva,<br>Riporta.
 
@@ -58,156 +178,166 @@ servizi:
         icona: VoIP Cifrato
         titolo: <strong>titolo da decidere</strong>
         testo: testo da decidere
-
-
 ########################################################################
-#PAGINA SERVIZI/PROTEZIONE
 
+# PAGINA SERVIZI--->PROTEZIONE (/servizi/protezione.html)
 protezione:
     icona: Protezione dei Dati
-    teaser: "Proteggiamo i tuoi dati"
+    teaser: Proteggiamo i tuoi dati
     titolo: Titolo
     stitolo: sottoTitolo
-
+    descrizione: Prova descrizione in protezione, prova, prova
 ########################################################################
-#PAGINA SERVIZI/CONTROLLO
 
+# PAGINA SERVIZI--->CONTROLLO (/servizi/controllo.html)
 controllo:
     icona: Controllo dati
-    teaser: "Controllo dati"
+    teaser: Controllo dati
     titolo: Controlla i tuoi dati
     stitolo: Controlla chi accede ai tuoi dati
-
+    descrizione: Prova descrizione in controllo, prova, prova
 ########################################################################
-#PAGINA SERVIZI/CLOUD
 
+#PAGINA SERVIZI--->CLOUD (/servizi/cloud.html)
 cloud:
     icona: Cloud in House
     teaser: I tuoi dati sempre con te
     titolo: Come funziona il cloud?
     stitolo: Un modo sicuro per avere i tuoi dati sempre con te
     descrizione: Prova descrizione in cloud, prova, prova
-
 ########################################################################
-# dummy content for empty exerpts for job posts
-none: none
 
+#PAGINA SERVIZI--->VOIP (/servizi/voip.html)
+voip:
+    icona: VoIP in House
+    teaser: I tuoi dati sempre con te
+    titolo: Come funziona il VoIP?
+    stitolo: Un modo sicuro per avere i tuoi dati sempre con te
+    descrizione: Prova descrizione in VoIP, prova, prova
 ########################################################################
-# Global stuff such as buttons
-global:
-    website:
-        name: Website Aziendale di CryptoTeam  - Esperti in Sicurezza dei Dati e Privacy
-        description: CryptoTeam, gli esperti in sicurezza dei dati. Crittografia dei dati at-rest e delle comunicazioni. Ti aiutiamo a proteggere il tuo patrimonio più preziso, i tuoi dati aziendali.
 
-    link:
-        learnmore: Scopri
-        contact: Contattaci
-        top: Top
-    button:
-        download: Download
-        buy: Compra Online
-    label:
-        phone-label: Telefono
-        email-label: Email
-
+#PAGINA SERVIZI--->PROGETTI (/servizi/progetti.html)
+progetti:
+    icona: Progetti personalizzati
+    teaser: I tuoi dati sempre con te
+    titolo: Ti aiutiamo a realizzare i tuoi progetti
+    stitolo: Un modo sicuro per avere i tuoi dati sempre con te
+    descrizione: Prova descrizione in Progetti, prova, prova
 ########################################################################
-# 404
-404:
-    title: "Pagina non trovata."
-    description: "La pagina che hai cercato non esiste"
-
-    headline: "Il famoso numero 404"
-    apology: "Siamo davvero spiacenti, ma la pagina che stai cercando non si trova... o magari non è mai stata qui e hai sbagliato a scrivere qualcosa. Non preoccuparti, ritorna alla home del sito e ricomincia da lì."
-    startover: "Clicca sul link per trovare quello che stai cercando: <a href=\"//ftp.cryptoteam.it/\">ftp.cryptoteam.it</a>."
-
-########################################################################
-# privacy message
-message:
-    cookies: Utilizziamo un cookie unicamente per assicurarci che tu abbia letto la nostra <a href="/it/azienda/privacy.html">informativa sulla privacy</a>. Clicca sul pulsante sotto per non far più comparire questo avviso.
-    tracking: "Ti confermiamo inoltre che non utilizziamo alcun software di tracciamento."
-    btn:
-        opt-out: Opt-Out
-        understand: Ho capito
-
-########################################################################
-# Navigation translation
-navigation:
-    main:
-        Home: Home
-        Servizi: Servizi
-        Offerta: Offerta
-        Azienda: Azienda
-        Notizie: Notizie
-        Contatti: Contatti
-    sub:
-# Home
-
-# Servizi
-        Servizi: Sommario
-        ProtezioneDati: Protezione Dati
-        ControlloAccessi: Controllo Accessi
-        CloudInHouse: Cloud in House
-        VoIPCifrato: VoIP Cifrato
-        ProgettiPersonalizzati: Progetti Personalizzati
-
-# Offerta
-        Offerta: Sommario
-        PiattaformaPKI: Piattaforma PKI
-        Crittografia: Crittografia
-        CancellazioneSicura: Cancellazione Sicura
-        Cloud: Cloud
-        VoIPPBX: VoIP PBX
-        IDS: IDS
-
-# Azienda
-        Azienda: Chi Siamo
-        Competenze: Competenze
-        Filosofia: Filosofia
-        Privacy: Privacy
-
-# News
-        Notizie: Ultime Notizie
-        ArchivioNews: Archivio
-
-# Contatti
-        Contatti: Commerciale
-        Tecnico: Tecnico
 
 
-########################################################################
-# The homepage
-homepage:
-    title: CryptoTeam - Esperti in Sicurezza dei Dati e Privacy
-    description: CryptoTeam, gli esperti in sicurezza dei dati e privacy.
 
-    carousel:
-        service_slide:
-            text: Piattaforma PKI<br/>Perché la tua sicurezza è importante
-            btn: Learn More
-        dw_slide: Cloud In-House<br/>Controllo fisico dei tuoi dati
-        load_slide: VoIP PBX Cifrato<br/>Sicurezza nelle comunicazioni aziendali
+# Servizi (VECCHIE definizioni)
+services:
+    teaser: Inspecting, Observing,<br>Reporting.
+    title: Xceptance – Our Services
+    description: What we do and what you can get
 
     intro:
-        headline: Impegnati nella sicurezza
-        details: Aiutiamo i nostri clienti a proteggere uno dei patrimoni più preziosi, l'insieme globale dei dati aziendali.
+        headline: How May We Help You?
+        details: Whether you’re interested in manual testing, automated testing, load and performance testing, or test guidance – we’ve got them all covered.
 
-    riquadri:
-        box1:
-            headline: Protezione dei dati
-            details: La protezione dei dati aziendali non è soltanto necessaria per adeguarsi alle normative sulla privacy, è una scelta di tutela del patrimonio aziendale.
-        box2:
-            headline: Piattaforma PKI
-            details: Scopri come gestire, in piena autonomia, l'emissione dei certificati a chiave pubblica X509 per la tua azienda.
-        box3:
-            headline: Cloud in House
-            details: È un canale di lavoro sicuro e riservato. Questa soluzione consente di distribuire in modo sicuro i dati sensibili all'interno dell'azienda
-        box4:
-            headline: Crittografia
-            details: Scrittura convenzionale segreta, decifrabile solo da chi sia a conoscenza del codice. Come la usiamo?
+    manual:
+        headline: Manual Testing
+        teaser: Don’t let your end users test for you. Testing is more than just clicking around.
+        description: We believe manual software testing is an essential component of software quality assurance. Creative, inquisitive testers who think outside the box and are able to constantly shift perspective will find the maximum number of flaws.
 
-    welcome_teaser:
-        headline: Benvenuto in CryptoTeam!<br/>Vieni a conoscerci.
-        action_button: Scopri
+    automated:
+        headline: Automated Testing
+        teaser: Make your testing predictable and repeatable. Have automation take care of existing functionality.
+        description: Where manual testing reaches its limits, we supplement it with automated testing for the perfect mix. Require regression testing after bug fixing? Data-driven testing? Or testing on different platforms and with different configurations? Test automation can help with all of that.
+
+    load:
+        headline: Load &amp; Performance Testing
+        teaser: Speed and reliability matter in the world of the Internet. Don’t let the competition grab your customers because your website is not fast enough.
+        server:
+            headline: Server-Side Performance
+            description: "If you want to ensure the best possible quality for your product, there’s no getting around professional and extensive load testing. We are load testing specialists. With our in-house tool Xceptance LoadTest (XLT) we can set up and run any load test and deliver precise and comprehensive feedback on your platform’s behavior. We cover the following in particular:"
+            list:
+                li1: Analyzing load requirements
+                li2: Choosing user scenarios
+                li3: Establishing data volumes
+                li4: Creating test scripts
+                li5: Executing load and performance tests
+                li6: Evaluating test results and identifying problem areas
+        client:
+            headline: Client-Side Performance
+            description: "A company’s web presence is much more than just another communication channel: it serves as your marketing tool and generates significant revenue. The better your website addresses your customers’ needs, the more successful your company. We help you optimize your web presence in crucial areas, such as user-friendliness, speed, browser compatibility, and conformity to standards."
+
+    support:
+        headline: Test Guidance &amp; Support
+        teaser: Let us support your testing. Benefit from our knowledge.
+        description: We offer customized test support services tailored to fit your specific needs. Interested in professional advice on test management and test design? Thinking about workshops on testing for your employees? Establishing or expanding your own internal quality assurance department? We would love to help you.
+
+##################################
+    dw:
+        teaser: "11 Years of Quality Assurance Support for Demandware."
+        title: Xceptance – Demandware Partner
+        description: We are Demandware partner
+
+        table:
+            headline: E-Commerce Testing
+            load:
+                key: Load Tests for DW implementations
+                value: "48 (in 2014)"
+            storefront:
+                key: Storefront QA for DW-based stores
+                value: "10 (in 2014)"
+
+        intro:
+            headline: Partnering For Success
+            teaser: We have been providing quality assurance services for both Demandware and its clients since 2005, shortly after Demandware was founded. Take advantage of our extensive first-hand knowledge of the Demandware platform.
+        history:
+            headline: We know Demandware
+            teaser: Rely on the partner who knows best how to test a Demandware site. We offer a wide range of QA services tailored to fit Demandware-based implementations.
+            description: With its flexible SaaS e-commerce platform, <a href="http://www.demandware.com/">Demandware</a> has become one of the leading providers of digital commerce solutions. As an official Demandware LINK Affiliate Partner we have received specialized training and gained professional expertise by testing both within Demandware and for Demandware’s clients.
+            numbers: Over the last decade, <strong>we have worked with more than 200 of Demandware’s clients</strong>, providing quality assurance designed for each one’s individual needs, helping them achieve the best possible quality for their e-commerce implementations.
+
+        functional:
+            headline: Functional Testing
+            teaser: "We ensure that your implementation meets today‘s high customer expectations. We test:"
+            list:
+                li1: All storefront functionalities
+                li2: Browser and mobile device compatibility
+                li3: Internationalization and localization
+                li4: Third-party integrations
+
+        agile:
+            headline: Agile Testing of Individual Features
+            teaser: No matter what phase of a project you find yourself in, we can help with intensive testing of specific functionalities. Even on short notice, we can offer fast, direct, effective feedback to help you proceed with development and launch.
+            list:
+                li1: Assessment of new features
+                li2: Verification that a site‘s features interact properly
+                li3: Rapid defect discovery
+                li4: On-the-fly test design
+
+        load:
+            headline: Load and Performance Testing with <a href="/en/xlt/">XLT</a>
+            teaser: We are the leading provider of load and performance tests for customers on the Demandware platform.
+            list:
+                li1: Comprehensive performance analysis before a site launch
+                li2: In-depth, precise test reports – not just the numbers, but also an explanation
+                li3: Discovery of load-related problems originating with third-party integrations or system processes
+                li4: Optimization of your site for predictable, fast client performance
+
+        automate:
+            headline: Test Automation
+            teaser: Let us automate your testing to give you a solid quality baseline, speed up your deployment process, and lower business risk.
+            list:
+                li1: Out-of-the-box SiteGenesis test cases to cover the basics
+                li2: Customized test cases to address the most important paths for your specific site
+                li3: Maintenance and expansion of the test suite as your site grows
+
+        secure:
+            headline: Security Testing
+            teaser: We’re intimately familiar with established security standards for Demandware implementations and can help you apply them to your store.
+            list:
+                li1: Code audits and reviews
+                li2: Set-up of your site following proven security standards
+                li3: Review of planned changes to avoid introducing security risks
+
+
+
 
 ########################################################################
 # Company pages
@@ -470,116 +600,6 @@ jobs:
                 <li>Possible start date and desired salary</li>
             </ul>"
 
-
-########################################################################
-# Services
-services:
-    teaser: Inspecting, Observing,<br>Reporting.
-    title: Xceptance – Our Services
-    description: What we do and what you can get
-
-    intro:
-        headline: How May We Help You?
-        details: Whether you’re interested in manual testing, automated testing, load and performance testing, or test guidance – we’ve got them all covered.
-
-    manual:
-        headline: Manual Testing
-        teaser: Don’t let your end users test for you. Testing is more than just clicking around.
-        description: We believe manual software testing is an essential component of software quality assurance. Creative, inquisitive testers who think outside the box and are able to constantly shift perspective will find the maximum number of flaws.
-
-    automated:
-        headline: Automated Testing
-        teaser: Make your testing predictable and repeatable. Have automation take care of existing functionality.
-        description: Where manual testing reaches its limits, we supplement it with automated testing for the perfect mix. Require regression testing after bug fixing? Data-driven testing? Or testing on different platforms and with different configurations? Test automation can help with all of that.
-
-    load:
-        headline: Load &amp; Performance Testing
-        teaser: Speed and reliability matter in the world of the Internet. Don’t let the competition grab your customers because your website is not fast enough.
-        server:
-            headline: Server-Side Performance
-            description: "If you want to ensure the best possible quality for your product, there’s no getting around professional and extensive load testing. We are load testing specialists. With our in-house tool Xceptance LoadTest (XLT) we can set up and run any load test and deliver precise and comprehensive feedback on your platform’s behavior. We cover the following in particular:"
-            list:
-                li1: Analyzing load requirements
-                li2: Choosing user scenarios
-                li3: Establishing data volumes
-                li4: Creating test scripts
-                li5: Executing load and performance tests
-                li6: Evaluating test results and identifying problem areas
-        client:
-            headline: Client-Side Performance
-            description: "A company’s web presence is much more than just another communication channel: it serves as your marketing tool and generates significant revenue. The better your website addresses your customers’ needs, the more successful your company. We help you optimize your web presence in crucial areas, such as user-friendliness, speed, browser compatibility, and conformity to standards."
-
-    support:
-        headline: Test Guidance &amp; Support
-        teaser: Let us support your testing. Benefit from our knowledge.
-        description: We offer customized test support services tailored to fit your specific needs. Interested in professional advice on test management and test design? Thinking about workshops on testing for your employees? Establishing or expanding your own internal quality assurance department? We would love to help you.
-
-##################################
-    dw:
-        teaser: "11 Years of Quality Assurance Support for Demandware."
-        title: Xceptance – Demandware Partner
-        description: We are Demandware partner
-
-        table:
-            headline: E-Commerce Testing
-            load:
-                key: Load Tests for DW implementations
-                value: "48 (in 2014)"
-            storefront:
-                key: Storefront QA for DW-based stores
-                value: "10 (in 2014)"
-
-        intro:
-            headline: Partnering For Success
-            teaser: We have been providing quality assurance services for both Demandware and its clients since 2005, shortly after Demandware was founded. Take advantage of our extensive first-hand knowledge of the Demandware platform.
-        history:
-            headline: We know Demandware
-            teaser: Rely on the partner who knows best how to test a Demandware site. We offer a wide range of QA services tailored to fit Demandware-based implementations.
-            description: With its flexible SaaS e-commerce platform, <a href="http://www.demandware.com/">Demandware</a> has become one of the leading providers of digital commerce solutions. As an official Demandware LINK Affiliate Partner we have received specialized training and gained professional expertise by testing both within Demandware and for Demandware’s clients.
-            numbers: Over the last decade, <strong>we have worked with more than 200 of Demandware’s clients</strong>, providing quality assurance designed for each one’s individual needs, helping them achieve the best possible quality for their e-commerce implementations.
-
-        functional:
-            headline: Functional Testing
-            teaser: "We ensure that your implementation meets today‘s high customer expectations. We test:"
-            list:
-                li1: All storefront functionalities
-                li2: Browser and mobile device compatibility
-                li3: Internationalization and localization
-                li4: Third-party integrations
-
-        agile:
-            headline: Agile Testing of Individual Features
-            teaser: No matter what phase of a project you find yourself in, we can help with intensive testing of specific functionalities. Even on short notice, we can offer fast, direct, effective feedback to help you proceed with development and launch.
-            list:
-                li1: Assessment of new features
-                li2: Verification that a site‘s features interact properly
-                li3: Rapid defect discovery
-                li4: On-the-fly test design
-
-        load:
-            headline: Load and Performance Testing with <a href="/en/xlt/">XLT</a>
-            teaser: We are the leading provider of load and performance tests for customers on the Demandware platform.
-            list:
-                li1: Comprehensive performance analysis before a site launch
-                li2: In-depth, precise test reports – not just the numbers, but also an explanation
-                li3: Discovery of load-related problems originating with third-party integrations or system processes
-                li4: Optimization of your site for predictable, fast client performance
-
-        automate:
-            headline: Test Automation
-            teaser: Let us automate your testing to give you a solid quality baseline, speed up your deployment process, and lower business risk.
-            list:
-                li1: Out-of-the-box SiteGenesis test cases to cover the basics
-                li2: Customized test cases to address the most important paths for your specific site
-                li3: Maintenance and expansion of the test suite as your site grows
-
-        secure:
-            headline: Security Testing
-            teaser: We’re intimately familiar with established security standards for Demandware implementations and can help you apply them to your store.
-            list:
-                li1: Code audits and reviews
-                li2: Set-up of your site following proven security standards
-                li3: Review of planned changes to avoid introducing security risks
 
 ########################################################################
 # Contacts
