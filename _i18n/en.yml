@@ -69,8 +69,8 @@ navigation:
         Home: Home
         Servizi: Services
         Offerta: Products
-        Azienda: Company
         Notizie: News
+        Azienda: Company
         Contatti: Contact
     sub:
 # Home
@@ -93,15 +93,15 @@ navigation:
         VoIPPBX: VoIP PBX
         IDS: IDS
 
+# News
+        Notizie: News
+        ArchivioNews: Old News
+
 # Azienda
         Azienda: About
         Competenze: Experience
         Filosofia: philosophy
         Privacy: Privacy
-
-# News
-        Notizie: News
-        ArchivioNews: Old News
 
 # Contatti
         Contatti: Sales Dep.
@@ -145,89 +145,102 @@ homepage:
         action_button: Learn more
 ########################################################################
 
-# PAGINA SERVIZI-->SOMMARIO (/servizi/index.html)
+# Content of Main Menu Servizi pages starts here
 servizi:
-    teaser: Ispeziona, Osserva,<br>Riporta.
 
-    intro:
-        titolo: Come possiamo aiutarti?
-        descrizione: Ecco un piccolo riepilogo dei nostri servizi
+# Seguono i contenuti delle pagine delle voci di menu secondario
+# Ciascuna pagina ha i contenuti organizzati secondo il layout sclto per quella data pagina.
 
-    protezione:
-        icona: Protezione dei Dati
-        titolo: <strong>Proteggere è la cosa più importante</strong>
-        testo: Grazie ai sistemi che utilizziamo possiamo garantirti la messa totale in sicurezza dei tuoi dati aziendali
+# PAGINA SERVIZI-->SOMMARIO (/servizi/index.html)
+    sommario:
+        teaser: Ispeziona, Osserva,<br>Riporta.
 
-    controllo:
-        icona: Controllo Accessi
-        titolo: <strong>Tieni sotto controllo chi accede ai tuoi dati</strong>
-        testo: La cosa più importante quando si hanno dei dati aziendali sensibili è sapere chi vi può accedere
+        intro:
+            titolo: Come possiamo aiutarti?
+            descrizione: Ecco un piccolo riepilogo di cosa ci occupiamo
 
-    cloud:
-        icona: Cloud in House
-        titolo: <strong>I tuoi dati, sui tuoi server, sempre con te</strong>
-        testo: Grazie al Cloud e alla sua crittografia solo e solanto tu potrai vedere e gestire i dati che inserisci nel Cloud in oltre potrai
-        lista:
-            li1: Gestire autorizzazione e permessi
-            li2: Generare password per file specifici
-            li3: Gestire i criteri di condivisione
-            li4: Creare link protetti per condivisioni
-        client:
-            titolo: Prova
-            descrizione: Prova, prova, prova, prova, prova, prova, prova, prova, prova, prova, prova, prova, prova, prova, prova, prova, prova, prova
+        protezione:
+            icona: Protezione dei Dati
+            titolo: <strong>Proteggere è la cosa più importante</strong>
+            testo: Grazie ai sistemi che utilizziamo possiamo garantirti la messa totale in sicurezza dei tuoi dati aziendali
 
-    voip:
-        icona: VoIP Cifrato
-        titolo: <strong>titolo da decidere</strong>
-        testo: testo da decidere
+        controllo:
+            icona: Controllo Accessi
+            titolo: <strong>Tieni sotto controllo chi accede ai tuoi dati</strong>
+            testo: La cosa più importante quando si hanno dei dati aziendali sensibili è sapere chi vi può accedere
+
+        cloud:
+            icona: Cloud in House
+            titolo: <strong>I tuoi dati, sui tuoi server, sempre con te</strong>
+            testo: Grazie al Cloud e alla sua crittografia solo e solanto tu potrai vedere e gestire i dati che inserisci nel Cloud in oltre potrai
+            lista:
+                li1: Gestire autorizzazione e permessi
+                li2: Generare password per file specifici
+                li3: Gestire i criteri di condivisione
+                li4: Creare link protetti per condivisioni
+            box-dx:
+                titolo: Prova
+                descrizione: Prova, prova, prova, prova, prova, prova, prova, prova, prova, prova, prova, prova, prova, prova, prova, prova, prova, prova
+                li1: Lista 1 sinistra
+                li2: Lista 2 sinistra
+                li3: Lista 3 sinistra
+                li4: Lista 4 sinistra
+
+        voip:
+            icona: VoIP Cifrato
+            titolo: <strong>Titolo VoIP</strong>
+            testo: Testo VoIP da decidere
+
+        progetti:
+            icona: Progetti personalizzati
+            titolo: <strong>Titolo Progetti Personalizzati</strong>
+            testo: Testo Progetti Personalizzati da decidere
 ########################################################################
 
 # PAGINA SERVIZI--->PROTEZIONE (/servizi/protezione.html)
-protezione:
-    icona: Protezione dei Dati
-    teaser: "Proteggiamo i tuoi dati"
-    titolo: Titolo
-    stitolo: sottoTitolo
-    descrizione: Prova descrizione in protezione, prova, prova
+    protezione:
+        icona: Protezione dei Dati
+        teaser: Proteggiamo i tuoi dati
+        titolo: Titolo
+        stitolo: sottoTitolo
+        descrizione: Prova descrizione in protezione, prova, prova
 ########################################################################
 
 # PAGINA SERVIZI--->CONTROLLO (/servizi/controllo.html)
-controllo:
-    icona: Controllo dati
-    teaser: "Controllo dati"
-    titolo: Controlla i tuoi dati
-    stitolo: Controlla chi accede ai tuoi dati
-    descrizione: Prova descrizione in cloud, prova, prova
+    controllo:
+        icona: Controllo dati
+        teaser: Controllo dati
+        titolo: Controlla i tuoi dati
+        stitolo: Controlla chi accede ai tuoi dati
+        descrizione: Prova descrizione in controllo, prova, prova
 ########################################################################
 
 #PAGINA SERVIZI--->CLOUD (/servizi/cloud.html)
-cloud:
-    icona: Cloud in House
-    teaser: I tuoi dati sempre con te
-    titolo: Come funziona il cloud?
-    stitolo: Un modo sicuro per avere i tuoi dati sempre con te
-    descrizione: Prova descrizione in cloud, prova, prova
+    cloud:
+        icona: Cloud in House
+        teaser: I tuoi dati sempre con te
+        titolo: Come funziona il cloud?
+        stitolo: Un modo sicuro per avere i tuoi dati sempre con te
+        descrizione: Prova descrizione in cloud, prova, prova
 ########################################################################
 
 #PAGINA SERVIZI--->VOIP (/servizi/voip.html)
-voip:
-    icona: VoIP in House
-    teaser: I tuoi dati sempre con te
-    titolo: Come funziona il VoIP?
-    stitolo: Un modo sicuro per avere i tuoi dati sempre con te
-    descrizione: Prova descrizione in VoIP, prova, prova
+    voip:
+        icona: VoIP in House
+        teaser: I tuoi dati sempre con te
+        titolo: Come funziona il VoIP?
+        stitolo: Un modo sicuro per avere i tuoi dati sempre con te
+        descrizione: Prova descrizione in VoIP, prova, prova
 ########################################################################
 
 #PAGINA SERVIZI--->PROGETTI (/servizi/progetti.html)
-progetti:
-    icona: Progetti personalizzati
-    teaser: I tuoi dati sempre con te
-    titolo: Ti aiutiamo a realizzare i tuyoi progetti
-    stitolo: Un modo sicuro per avere i tuoi dati sempre con te
-    descrizione: Prova descrizione in Progetti, prova, prova
+    progetti:
+        icona: Progetti personalizzati
+        teaser: I tuoi dati sempre con te
+        titolo: Ti aiutiamo a realizzare i tuoi progetti
+        stitolo: Un modo sicuro per avere i tuoi dati sempre con te
+        descrizione: Prova descrizione in Progetti, prova, prova
 ########################################################################
-
-
 
 
 

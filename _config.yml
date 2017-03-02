@@ -47,16 +47,16 @@ sitenavigation:
         - name: Cloud
         - name: VoIP PBX
         - name: IDS
+  - name: Notizie
+    secondarynav:
+        - name: Notizie
+        - name: Archivio News
   - name: Azienda
     secondarynav:
         - name: Azienda
         - name: Competenze
         - name: Filosofia
         - name: Privacy
-  - name: Notizie
-    secondarynav:
-        - name: Notizie
-        - name: Archivio News
 #  - name: Jobs
   - name: Contatti
     secondarynav:
