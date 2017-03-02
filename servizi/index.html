@@ -1,7 +1,7 @@
 ---
 layout: servizi
-title: servizi.intro.titolo
-description: servizi.intro.descrizione
+title: servizi.sommario.intro.titolo
+description: servizi.sommario.intro.descrizione
 
 navName: Servizi
 mainNavLinkName: navigation.main.Servizi
@@ -14,75 +14,103 @@ permalink: /servizi/
 <div id="introduction" class="row service-section">
 	<div class="container">
 		<div class="text-center col-md-offset-1 col-md-10">
-			<h1>{% t servizi.intro.titolo %}</h1>
+			<h1>{% t servizi.sommario.intro.titolo %}</h1>
 			<p class="lead">
-                {% t servizi.intro.descrizione %}
-            </p>
+      		{% t servizi.sommario.intro.descrizione %}
+      </p>
 		</div>
 	</div>
 </div>
 
-<div class="row service-section" id="functional-testing">
+<div class="row service-section" id="protezione">
 	<div class="container">
 		<div class="col-md-2 col-sm-4 headline">
-			<p><i class="fa fa-eye-slash fa-3x"></i></p>
-			<h2>{% t servizi.protezione.icona %}</h2>
+		  <a class="icon" href="{{ '/servizi/protezione.html' | to_absoluteurl }}">
+				<p><i class="fa fa-eye-slash fa-3x"></i></p>
+				<h2>{% t servizi.sommario.protezione.icona %}</h2>
+			</a>
 		</div>
 		<div class="col-md-4 col-sm-8">
-			<p class="lead">{% t servizi.protezione.titolo %}</p>
-			<p>{% t servizi.protezione.testo %}</p>
+			<p class="lead">{% t servizi.sommario.protezione.titolo %}</p>
+			<p>{% t servizi.sommario.protezione.testo %}</p>
 		</div>
-		<div class="col-md-2 col-sm-4 headline" id="test-automation">
-			<p><i class="fa fa-cogs fa-3x"></i></p>
-			<h2>{% t servizi.controllo.icona %}</h2>
+
+		<div class="col-md-2 col-sm-4 headline" id="controllo">
+			<a class="icon" href="{{ '/servizi/controllo.html' | to_absoluteurl }}">
+				<p><i class="fa fa-cogs fa-3x"></i></p>
+				<h2>{% t servizi.sommario.controllo.icona %}</h2>
+			</a>
 		</div>
 		<div class="col-md-4 col-sm-8">
-			<p class="lead">{% t servizi.controllo.titolo %}</p>
-			<p>{% t servizi.controllo.testo %}</p>
+			<p class="lead">{% t servizi.sommario.controllo.titolo %}</p>
+			<p>{% t servizi.sommario.controllo.testo %}</p>
 		</div>
 	</div>
 </div>
 
-<div class="row service-section" id="performance-testing">
+<div class="row service-section" id="cloud">
 	<div class="container">
 		<div class="col-md-2 col-sm-4 headline">
-			<p><i class="fa fa-cloud fa-3x"></i></p>
-			<h2>{% t servizi.cloud.icona %}</h2>
+			<a class="icon" href="{{ '/servizi/cloud.html' | to_absoluteurl }}">
+				<p><i class="fa fa-cloud fa-3x"></i></p>
+				<h2>{% t servizi.sommario.cloud.icona %}</h2>
+			</a>
 		</div>
 
 		<div class="col-sm-8 col-md-10">
-			<p class="lead">{% t servizi.cloud.titolo %}</p>
+			<p class="lead">{% t servizi.sommario.cloud.titolo %}</p>
 
 			<div class="row">
 				<div class="col-sm-6 col-md-6 col-left">
-					<h3>{% t servizi.cloud.titolo %}</h3>
-					<p>{% t servizi.cloud.testo %}</p>
+					<h3>{% t servizi.sommario.cloud.titolo %}</h3>
+					<p>{% t servizi.sommario.cloud.testo %}</p>
 					<ul>
-			  		<li>{% t servizi.cloud.lista.li1 %}</li>
-						<li>{% t servizi.cloud.lista.li2 %}</li>
-						<li>{% t servizi.cloud.lista.li3 %}</li>
-						<li>{% t servizi.cloud.lista.li4 %}</li>
+			  		<li>{% t servizi.sommario.cloud.lista.li1 %}</li>
+						<li>{% t servizi.sommario.cloud.lista.li2 %}</li>
+						<li>{% t servizi.sommario.cloud.lista.li3 %}</li>
+						<li>{% t servizi.sommario.cloud.lista.li4 %}</li>
 					</ul>
 				</div>
 				<div class="col-sm-6 col-md-6 col-right">
-					<h3>{% t servizi.cloud.client.titolo %}</h3>
-					<p>{% t servizi.cloud.client.descrizione %}</p>
+					<h3>{% t servizi.sommario.cloud.box-dx.titolo %}</h3>
+					<p>{% t servizi.sommario.cloud.box-dx.descrizione %}</p>
+					<ul>
+			  		<li>{% t servizi.sommario.cloud.box-dx.li1 %}</li>
+						<li>{% t servizi.sommario.cloud.box-dx.li2 %}</li>
+						<li>{% t servizi.sommario.cloud.box-dx.li3 %}</li>
+						<li>{% t servizi.sommario.cloud.box-dx.li4 %}</li>
+					</ul>
 				</div>
 			</div>
 		</div>
 	</div>
 </div>
 
-<div class="row service-section" id="test-guidance">
+<div class="row service-section" id="voip">
 	<div class="container">
-		<div class="col-sm-4 col-md-2 headline">
-			<p><i class="fa fa-phone-square fa-3x"></i></p>
-			<h2>{% t servizi.voip.icona %}</h2>
+		<div class="col-md-2 col-sm-4 headline">
+			<a class="icon" href="{{ '/servizi/voip.html' | to_absoluteurl }}">
+				<p><i class="fa fa-phone-square fa-3x"></i></p>
+				<h2>{% t servizi.sommario.voip.icona %}</h2>
+			</a>
 		</div>
 
-		<div class="col-sm-8 col-md-10">
-			<p class="lead">{% t servizi.voip.titolo %}</p>
-			<p>{% t servizi.voip.testo %}</p>
+		<div class="col-md-4 col-sm-8">
+			<p class="lead">{% t servizi.sommario.voip.titolo %}</p>
+			<p>{% t servizi.sommario.voip.testo %}</p>
 		</div>
+
+		<div class="col-md-2 col-sm-4 headline" id="controllo">
+			<a class="icon" href="{{ '/servizi/progetti.html' | to_absoluteurl }}">
+				<p><i class="fa fa-phone-square fa-3x"></i></p>
+				<h2>{% t servizi.sommario.progetti.icona %}</h2>
+			</a>
+		</div>
+
+		<div class="col-md-4 col-sm-8">
+			<p class="lead">{% t servizi.sommario.progetti.titolo %}</p>
+			<p>{% t servizi.sommario.progetti.testo %}</p>
+		</div>
+
 	</div>
 </div>
