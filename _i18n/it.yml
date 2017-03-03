@@ -149,7 +149,7 @@ servizi:
 # Seguono i contenuti delle pagine delle voci di menu secondario
 # Ciascuna pagina ha i contenuti organizzati secondo il layout sclto per quella data pagina.
 
-# PAGINA SERVIZI-->SOMMARIO (/servizi/index.html)
+# PAGINA COSA FACCIAMO-->PANORAMICA (/servizi/index.html)
     sommario:
         teaser: Ispeziona, Osserva,<br>Riporta.
 
@@ -195,7 +195,7 @@ servizi:
             testo: Testo Progetti Personalizzati da decidere
 ########################################################################
 
-# PAGINA SERVIZI--->PROTEZIONE (/servizi/protezione.html)
+# PAGINA SERVIZI--->PROTEZIONE DATI (/servizi/protezione.html)
     protezione:
         icona: Protezione dei Dati
         teaser: Proteggiamo i tuoi dati
