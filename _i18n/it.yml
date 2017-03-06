@@ -187,9 +187,9 @@ servizi:
                 li4: Notifica via mail quando si creano le condivisioni
 
         voip:
-            icona: VoIP Cifrato Modificato
-            titolo: <strong>Titolo VoIP</strong>
-            testo: Testo VoIP da decidere
+            icona: Comunicazioni Telefoniche Protette
+            titolo: <strong>Telefonia VoIP</strong>
+            testo: Realizziamo Piattaforme Telefoniche IP Center Solution che possono utilizzare uno standard di protocollo per la cifratura Anti-Intercettazione 
 
         progetti:
             icona: Progetti personalizzati
