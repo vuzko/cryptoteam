@@ -189,12 +189,12 @@ servizi:
         voip:
             icona: Comunicazioni Telefoniche Protette
             titolo: <strong>Telefonia VoIP</strong>
-            testo: Realizziamo Piattaforme Telefoniche IP Center Solution che possono utilizzare uno standard di protocollo per la cifratura Anti-Intercettazione 
+            testo: Realizziamo Piattaforme Telefoniche "IP Center Solution" che possono utilizzare uno standard di protocollo per la cifratura Anti-Intercettazione
 
         progetti:
-            icona: Progetti personalizzati
-            titolo: <strong>Titolo Progetti Personalizzati</strong>
-            testo: Testo Progetti Personalizzati da decidere
+            icona: Studio di Progetti Personalizzati
+            titolo: <strong>Studiamo e Realizziamo Progetti</strong>
+            testo: La nostra Linea Guida Progetti è specificata all'interno di questa pagina ha l'obiettivo principale della soddisfazione cliente
 ########################################################################
 
 # PAGINA SERVIZI--->PROTEZIONE DATI (/servizi/protezione.html)
