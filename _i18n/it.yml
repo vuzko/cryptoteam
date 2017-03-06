@@ -185,7 +185,7 @@ servizi:
                 li4: Notifica via mail quando si creano le condivisioni
 
         voip:
-            icona: VoIP Cifrato
+            icona: VoIP Cifrato Modificato
             titolo: <strong>Titolo VoIP</strong>
             testo: Testo VoIP da decidere
 
