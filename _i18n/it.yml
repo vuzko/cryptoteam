@@ -170,8 +170,9 @@ servizi:
         cloud:
             icona: Cloud in House
             titolo: <strong>I tuoi dati, sui tuoi server, a casa tua</strong>
-            testo: Grazie al CloudInHouse e alla crittografia inisita nel sistema si ha la certezza di avere a disposizione un canale di lavoro "Sicuro e Riservato"
-            lista:
+            box-sx:
+                titolo: Titolo box sinistro
+                descrizione: Grazie al CloudInHouse e alla crittografia inisita nel sistema si ha la certezza di avere a disposizione un canale di lavoro "Sicuro e Riservato"
                 li1: Dati Salvati sistematicamente e sincronizzati
                 li2: E' possibile dettagliare le Policy di Sicurezza
                 li3: E' possibile limitare gli apparati in condivisione
