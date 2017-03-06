@@ -177,6 +177,7 @@ servizi:
                 li2: E' possibile dettagliare le Policy di Sicurezza
                 li3: E' possibile limitare gli apparati in condivisione
                 li4: E' possibile configurare il criterio delle condivisioni
+                li5: Riga 5
             box-dx:
                 titolo: I tuoi dati al "Sicuro" sempre con te qualunque sia la piattaforma utilizzata
                 descrizione: Aperti nella condivisione e produttivi consentendo di distribuire meglio il carico dei dati informatici e stabilendo quali sono gli apparati che possono accedere al CloudInHouse
