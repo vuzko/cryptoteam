@@ -169,20 +169,20 @@ servizi:
 
         cloud:
             icona: Cloud in House
-            titolo: <strong>I tuoi dati, sui tuoi server, sempre con te</strong>
-            testo: Grazie al Cloud e alla sua crittografia solo e solanto tu potrai vedere e gestire i dati che inserisci nel Cloud in oltre potrai
+            titolo: <strong>I tuoi dati, sui tuoi server, a casa tua</strong>
+            testo: Grazie al CloudInHouse e alla crittografia inisita nel sistema si ha la certezza di avere a disposizione un canale di lavoro "Sicuro e Riservato"
             lista:
-                li1: Gestire autorizzazione e permessi
-                li2: Generare password per file specifici
-                li3: Gestire i criteri di condivisione
-                li4: Creare link protetti per condivisioni
+                li1: Dati Salvati sistematicamente e sincronizzati
+                li2: E' possibile dettagliare le Policy di Sicurezza
+                li3: E' possibile limitare gli apparati in condivisione
+                li4: E' possibile configurare il criterio delle condivisioni
             box-dx:
-                titolo: Sotto il proprio controllo canale di Lavoro "Sicuro e Riservato"
-                descrizione: Aperti nella condivisione e produttivi consentendo di distribuire meglio il carico dei dati informatici e stabilendo quali sono gli apparati che possono accedere
-                li1: Nuova descriziona riga1 box destra
-                li2: Lista 2 sinistra
-                li3: Lista 3 sinistra
-                li4: Lista 4 sinistra
+                titolo: I tuoi dati al "Sicuro" sempre con te qualunque sia la piattaforma utilizzata
+                descrizione: Aperti nella condivisione e produttivi consentendo di distribuire meglio il carico dei dati informatici e stabilendo quali sono gli apparati che possono accedere al CloudInHouse
+                li1: Federare e autorizzare i propri Partner - Server to Server - (clienti, Fornitori, Commercialista, ecc..)
+                li2: Creazione di azioni pubbliche per le persone che non sono utenti CloudInHouse
+                li3: Programmare la data di scadenza sulla condivisione pubblica
+                li4: Notifica via mail quando si creano le condivisioni
 
         voip:
             icona: VoIP Cifrato
