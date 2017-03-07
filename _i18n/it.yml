@@ -151,11 +151,11 @@ servizi:
 
 # PAGINA COSA FACCIAMO-->PANORAMICA (/servizi/index.html)
     sommario:
-        teaser: Come Proteggere il tuo Patrimonio<br>Dati.
+        teaser: Come Proteggiamo il tuo Patrimonio<br>Dati
 
         intro:
             titolo: Integriamo la Privacy nei processi informatici Aziendali
-            descrizione: Le nostre soluzioni e un riepilogo di cosa ci occupiamo
+            descrizione: Le nostre soluzioni verso la riservatezza e un riepilogo di cosa ci occupiamo
 
         protezione:
             icona: Protezione dei Dati
