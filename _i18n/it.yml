@@ -213,15 +213,15 @@ servizi:
         box1:
             headline: Privacy-Protection-Easy
             teaser:  La Privacy è diventata strategiaca per il futuro operativo delle Aziende. Lo scopo è di aumentare la sicurezza e tutelare i dati e le informazioni che viaggiano in rete.
-            description: Finalmente le istutuzioni hanno deciso responsabilmente di colmare il forte disequilibrio che riguarda il mondo dei privati nel "possesso" e nel "controllo" dei propri dati e delle proprie comunicazioni. Interi settori economici sono coinvolti e rispondenti a questo bisogno. Attualmente nel privato le comunicazioni crittografate (quindi private), non sono molto utilizzate, però esistono e funzionano bene. La crittografia è uno strumento potente da non sottovalutare se si vuole proteggere il Know-how aziendale e progredire al passo con i tempi.
+            description: Finalmente le istituzioni hanno deciso responsabilmente di colmare il forte disequilibrio che riguarda il mondo dei privati nel "possesso" e nel "controllo" dei propri dati e delle proprie comunicazioni. Interi settori economici sono coinvolti e rispondenti a questo bisogno. Attualmente nel privato le comunicazioni crittografate (quindi private), non sono molto utilizzate, però esistono e funzionano bene. La crittografia è uno strumento potente da non sottovalutare se si vuole proteggere il Know-how aziendale e progredire al passo con i tempi.
             numbers:
 
         box2:
             headline: Cosa Intendiamo per Patrimonio Dati Digitali
-            teaser: "Ecco un esempio qui di seguito non completo"
+            teaser: "Un esempio"
             list:
                 li1: Buste Paghe,Brevetti,Stato Patrimoniale,Contratti, Organigramma e Finanza Aziendale, Atti, Fidi Bancari, Elenco Soci
-                li2: Fatturazione, Clienti e Fornitori, Preventivi, Sales Strategy, Prezzi riservati, Codici Prodotto, Technical Know-up
+                li2: Fatturazione, Clienti e Fornitori, Preventivi, Sales Strategy, Prezzi Riservati, Codici Prodotto, Technical Know-up
                 li3: Dati Sensibili (Origine Razziale, Religione, Salute, Adesione Partiti e Sindacati, Sesso), Dati Identificativi e Giudiziari
                 li4: E-mail, Comunicazioni Telefonate (IP), Data Confidential,Investimenti, Debiti, Finanziamenti, Documenti interni, Policy
 
