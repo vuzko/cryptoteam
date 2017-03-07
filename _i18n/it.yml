@@ -200,9 +200,9 @@ servizi:
 # PAGINA SERVIZI--->PROTEZIONE DATI (/servizi/protezione.html)
     protezione:
         icona: Protezione dei Dati
-        teaser: Proteggiamo i tuoi dati
-        titolo: Titolo
-        sottotitolo: SottoTitolo
+        teaser: Proteggiamo Dati Ininterrottamente
+        titolo:  Privacy-Protection  
+        sottotitolo: La Tecnica Impiegata è l'Integrzione della Crittografia
         descrizione: Prova descrizione in protezione, prova, prova
 
     pd:
