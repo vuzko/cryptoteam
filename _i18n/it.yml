@@ -226,8 +226,7 @@ servizi:
                 li4: E-mail, Comunicazioni Telefoniche (IP), Data Confidential, Documenti interni, Policy, Accordi, Segreti Personali e Aziendali
 
         box3:
-            headline: Box3
-            teaser: No matter what phase of a project you find yourself in, we can help with intensive testing of specific functionalities. Even on short notice, we can offer fast, direct, effective feedback to help you proceed with development and launch.
+            headline: Perchè Proteggere i Dati
             list:
                 li1: Assessment of new features
                 li2: Verification that a site‘s features interact properly
