@@ -151,11 +151,11 @@ servizi:
 
 # PAGINA COSA FACCIAMO-->PANORAMICA (/servizi/index.html)
     sommario:
-        teaser: Ispeziona, Osserva,<br>Riporta.
+        teaser: Come Proteggiamo il tuo Patrimonio<br>Dati Aziendale
 
         intro:
-            titolo: Come possiamo aiutarti?
-            descrizione: Ecco un piccolo riepilogo di cosa ci occupiamo
+            titolo: Integriamo la Privacy nei Processi Informatici
+            descrizione: Le Nostre Soluzioni
 
         protezione:
             icona: Protezione dei Dati
