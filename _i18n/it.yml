@@ -200,8 +200,64 @@ servizi:
         icona: Protezione dei Dati
         teaser: Proteggiamo i tuoi dati
         titolo: Titolo
-        stitolo: sottoTitolo
+        sottotitolo: SottoTitolo
         descrizione: Prova descrizione in protezione, prova, prova
+
+    pd:
+        teaser: "11 Years of Quality Assurance Support for Demandware."
+        title: Xceptance – Demandware Partner
+        description: We are Demandware partner
+
+        box1:
+            headline: Box1
+            teaser: Rely on the partner who knows best how to test a Demandware site. We offer a wide range of QA services tailored to fit Demandware-based implementations.
+            description: With its flexible SaaS e-commerce platform, <a href="http://www.demandware.com/">Demandware</a> has become one of the leading providers of digital commerce solutions. As an official Demandware LINK Affiliate Partner we have received specialized training and gained professional expertise by testing both within Demandware and for Demandware’s clients.
+            numbers: Over the last decade, <strong>we have worked with more than 200 of Demandware’s clients</strong>, providing quality assurance designed for each one’s individual needs, helping them achieve the best possible quality for their e-commerce implementations.
+
+        box2:
+            headline: Box2
+            teaser: "We ensure that your implementation meets today‘s high customer expectations. We test:"
+            list:
+                li1: All storefront functionalities
+                li2: Browser and mobile device compatibility
+                li3: Internationalization and localization
+                li4: Third-party integrations
+
+        box3:
+            headline: Box3
+            teaser: No matter what phase of a project you find yourself in, we can help with intensive testing of specific functionalities. Even on short notice, we can offer fast, direct, effective feedback to help you proceed with development and launch.
+            list:
+                li1: Assessment of new features
+                li2: Verification that a site‘s features interact properly
+                li3: Rapid defect discovery
+                li4: On-the-fly test design
+
+        box4:
+            headline: Box4
+            teaser: We are the leading provider of load and performance tests for customers on the Demandware platform.
+            list:
+                li1: Comprehensive performance analysis before a site launch
+                li2: In-depth, precise test reports – not just the numbers, but also an explanation
+                li3: Discovery of load-related problems originating with third-party integrations or system processes
+                li4: Optimization of your site for predictable, fast client performance
+
+        box5:
+            headline: Box5
+            teaser: Let us automate your testing to give you a solid quality baseline, speed up your deployment process, and lower business risk.
+            list:
+                li1: Out-of-the-box SiteGenesis test cases to cover the basics
+                li2: Customized test cases to address the most important paths for your specific site
+                li3: Maintenance and expansion of the test suite as your site grows
+
+        box6:
+            headline: Box6
+            teaser: We’re intimately familiar with established security standards for Demandware implementations and can help you apply them to your store.
+            list:
+                li1: Code audits and reviews
+                li2: Set-up of your site following proven security standards
+                li3: Review of planned changes to avoid introducing security risks
+
+
 ########################################################################
 
 # PAGINA SERVIZI--->CONTROLLO (/servizi/controllo.html)
@@ -209,7 +265,7 @@ servizi:
         icona: Controllo dati
         teaser: Controllo dati
         titolo: Controlla i tuoi dati
-        stitolo: Controlla chi accede ai tuoi dati
+        sottotitolo: Controlla chi accede ai tuoi dati
         descrizione: Prova descrizione in controllo, prova, prova
 ########################################################################
 
@@ -218,7 +274,7 @@ servizi:
         icona: Cloud in House
         teaser: I tuoi dati sempre con te
         titolo: Come funziona il cloud?
-        stitolo: Un modo sicuro per avere i tuoi dati sempre con te
+        sottotitolo: Un modo sicuro per avere i tuoi dati sempre con te
         descrizione: Prova descrizione in cloud, prova, prova
 ########################################################################
 
@@ -227,7 +283,7 @@ servizi:
         icona: VoIP in House
         teaser: I tuoi dati sempre con te
         titolo: Come funziona il VoIP?
-        stitolo: Un modo sicuro per avere i tuoi dati sempre con te
+        sottotitolo: Un modo sicuro per avere i tuoi dati sempre con te
         descrizione: Prova descrizione in VoIP, prova, prova
 ########################################################################
 
@@ -236,7 +292,7 @@ servizi:
         icona: Progetti personalizzati
         teaser: I tuoi dati sempre con te
         titolo: Ti aiutiamo a realizzare i tuoi progetti
-        stitolo: Un modo sicuro per avere i tuoi dati sempre con te
+        sottotitolo: Un modo sicuro per avere i tuoi dati sempre con te
         descrizione: Prova descrizione in Progetti, prova, prova
 ########################################################################
 
