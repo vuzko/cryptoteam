@@ -151,11 +151,11 @@ servizi:
 
 # PAGINA COSA FACCIAMO-->PANORAMICA (/servizi/index.html)
     sommario:
-        teaser: Ispeziona, Osserva,<br>Riporta.
+        teaser: Come Proteggiamo il tuo Patrimonio<br>Dati Aziendale
 
         intro:
-            titolo: Come possiamo aiutarti?
-            descrizione: Ecco un piccolo riepilogo di cosa ci occupiamo
+            titolo: Integriamo la Privacy nei Processi Informatici
+            descrizione: Le Nostre Soluzioni
 
         protezione:
             icona: Protezione dei Dati
@@ -169,13 +169,15 @@ servizi:
 
         cloud:
             icona: Cloud in House
-            titolo: <strong>I tuoi dati, sui tuoi server, a casa tua</strong>
-            testo: Grazie al CloudInHouse e alla crittografia inisita nel sistema si ha la certezza di avere a disposizione un canale di lavoro "Sicuro e Riservato"
-            lista:
+            titolo: <strong>I TUOI DATI, SUI TUOI SERVER, A CASA TUA</strong>
+            box-sx:
+                titolo: CloudinHouse ha la finalità di renderti autonomo, quindi non dipendere da altri fornitori di servizi (Cloud), ma potenzialmente sfruttando il top della tecnologia e della sicurezza
+                descrizione: Grazie al CloudInHouse e alla crittografia inisita nel sistema si ha la certezza di avere a disposizione un canale di lavoro "Sicuro e Riservato"
                 li1: Dati Salvati sistematicamente e sincronizzati
                 li2: E' possibile dettagliare le Policy di Sicurezza
                 li3: E' possibile limitare gli apparati in condivisione
                 li4: E' possibile configurare il criterio delle condivisioni
+                li5: Con pochi click è possibile creare un collegamento semplice e sicuro e condividersi le cartelle
             box-dx:
                 titolo: I tuoi dati al "Sicuro" sempre con te qualunque sia la piattaforma utilizzata
                 descrizione: Aperti nella condivisione e produttivi consentendo di distribuire meglio il carico dei dati informatici e stabilendo quali sono gli apparati che possono accedere al CloudInHouse
@@ -185,14 +187,14 @@ servizi:
                 li4: Notifica via mail quando si creano le condivisioni
 
         voip:
-            icona: VoIP Cifrato
-            titolo: <strong>Titolo VoIP</strong>
-            testo: Testo VoIP da decidere
+            icona: Comunicazioni Telefoniche Protette
+            titolo: <strong>Telefonia VoIP</strong>
+            testo: Realizziamo Piattaforme Telefoniche "IP Center Solution" che possono utilizzare uno standard di protocollo per la cifratura Anti-Intercettazione
 
         progetti:
-            icona: Progetti personalizzati
-            titolo: <strong>Titolo Progetti Personalizzati</strong>
-            testo: Testo Progetti Personalizzati da decidere
+            icona: Studio di Progetti Personalizzati
+            titolo: <strong>Studiamo e Realizziamo Progetti</strong>
+            testo: La nostra Linea Guida Progetti è specificata all'interno di questa pagina ha l'obiettivo principale della soddisfazione cliente
 ########################################################################
 
 # PAGINA SERVIZI--->PROTEZIONE DATI (/servizi/protezione.html)
