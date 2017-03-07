@@ -220,10 +220,10 @@ servizi:
             headline: Cosa Intendiamo per Patrimonio Dati Digitali
             teaser: "Un esempio"
             list:
-                li1: Buste Paghe,Brevetti,Stato Patrimoniale,Contratti, Organigramma, Finanza, Atti, Fidi Bancari, Elenco Soci, Carte di Credito, Bilanci
+                li1: Buste Paghe,Brevetti,Stato Patrimoniale,Contratti, Organigramma, Finanza, Atti, Fidi Bancari, Elenco Soci, Carte di Credito, Bilanci, Investimenti, Debiti, Finanziamenti
                 li2: Fatturazione, Clienti e Fornitori, Preventivi, Sales Strategy, Prezzi Riservati, Codici Prodotto, Technical Know-up, Piano Marketing
                 li3: Dati Sensibili (Origine Razziale, Religione, Salute, Adesione Partiti e Sindacati, Sesso), Dati Identificativi, Dati Comuni (Abitudini, Gusti), Dati Giudiziari
-                li4: E-mail, Comunicazioni Telefonate (IP), Data Confidential,Investimenti, Debiti, Finanziamenti, Documenti interni, Policy
+                li4: E-mail, Comunicazioni Telefonate (IP), Data Confidential, Documenti interni, Policy, Accordi, Segreti Personali e Aziendali
 
         box3:
             headline: Box3
