@@ -202,7 +202,7 @@ servizi:
         icona: Protezione dei Dati
         teaser: Proteggiamo i tuoi dati
         titolo: Titolo
-        stitolo: sottoTitolo
+        sottotitolo: sottoTitolo
         descrizione: Prova descrizione in protezione, prova, prova
 ########################################################################
 
@@ -211,7 +211,7 @@ servizi:
         icona: Controllo dati
         teaser: Controllo dati
         titolo: Controlla i tuoi dati
-        stitolo: Controlla chi accede ai tuoi dati
+        sottotitolo: Controlla chi accede ai tuoi dati
         descrizione: Prova descrizione in controllo, prova, prova
 ########################################################################
 
@@ -220,7 +220,7 @@ servizi:
         icona: Cloud in House
         teaser: I tuoi dati sempre con te
         titolo: Come funziona il cloud?
-        stitolo: Un modo sicuro per avere i tuoi dati sempre con te
+        sottotitolo: Un modo sicuro per avere i tuoi dati sempre con te
         descrizione: Prova descrizione in cloud, prova, prova
 ########################################################################
 
@@ -229,7 +229,7 @@ servizi:
         icona: VoIP in House
         teaser: I tuoi dati sempre con te
         titolo: Come funziona il VoIP?
-        stitolo: Un modo sicuro per avere i tuoi dati sempre con te
+        sottotitolo: Un modo sicuro per avere i tuoi dati sempre con te
         descrizione: Prova descrizione in VoIP, prova, prova
 ########################################################################
 
@@ -238,7 +238,7 @@ servizi:
         icona: Progetti personalizzati
         teaser: I tuoi dati sempre con te
         titolo: Ti aiutiamo a realizzare i tuoi progetti
-        stitolo: Un modo sicuro per avere i tuoi dati sempre con te
+        sottotitolo: Un modo sicuro per avere i tuoi dati sempre con te
         descrizione: Prova descrizione in Progetti, prova, prova
 ########################################################################
 
