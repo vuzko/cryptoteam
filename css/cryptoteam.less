@@ -1474,6 +1474,98 @@ table {
 /* ---------------------------------------------------------- */
 /* --- The services page details that are different compared to
  * the general one */
+.servizi {
+
+ 	#teaser {
+
+ 		@media (min-width: @screen-xs-max) {
+             height: @homepageTeaserHeight;
+             background: url(/images/teasers/whiteboard.png) fixed center @navBarHeight no-repeat #969490;
+         }
+
+         background-color: @cDarkendLightGray;
+
+ 		.teaser-image {
+
+ 			#teaser-text {
+ 				@media (min-width: @screen-xs-max) {
+ 					margin-top: 35px;
+ 					.teaserTextDefinition;
+ 					left: 0;
+ 					right: 0;
+ 				}
+ 			}
+ 		}
+ 	}
+
+ 	.service-section {
+ 		.row-padding;
+ 		.ourStyledList;
+ 		.headlineDefinition;
+ 		.textLinkStyling;
+ 	}
+
+ 	#performance-testing {
+ 		background-color: @cDarkendLightGray;
+ 	}
+}
+
+.servizi-protezione {
+
+ 	#teaser {
+
+ 		@media (min-width: @screen-xs-max) {
+             height: @homepageTeaserHeight;
+             background: url(/images/cryptoteam/MixLoghiProtezioneDati.png) fixed center @navBarHeight no-repeat;
+         }
+
+         .dw-logo-header {
+ 	        width: 250px;
+ 	        position: relative;
+ 	        top: -65px;
+         }
+     }
+
+ 	#demandware {
+ 		.row-padding;
+ 	    .ourStyledList;
+
+ 	    #logo {
+ 		    padding-top: 1.7em;
+ 		    width: 80%;
+ 		    float: right;
+ 	    }
+
+ 	    .dw-logo-phone {
+ 		    max-width: 280px;
+ 		    margin: 0 auto 10px;
+ 	    }
+
+ 	    .facts-table {
+ 			border-spacing: 0 1em;
+ 			border-collapse: separate;
+
+ 			td {
+ 				vertical-align: top;
+ 				padding: 0.5em 0.5em 0.5em 0em;
+ 			}
+ 			.key {
+ 				border-bottom: 2px solid @cDarkendLightGray;
+
+ 				@media (min-width: @screen-sm-max) {
+ 					width: 47%;
+ 				}
+ 			}
+ 			.value {
+ 				border-bottom: 4px solid @cDarkendLightGray;
+ 				font-weight: 400;
+ 			}
+ 		}
+ 	}
+}
+
+ /* --- Seguono le vecchie definizioni per le pagine che ancora usano gli ID services */
+
 .services {
 
 	#teaser {

@@ -2,7 +2,7 @@
 <html lang="it">
 	{% include head.html hashBasedTabbing=true %}
 
-    <body class="general-page services demandware-testing local-scroll" id="page">
+    <body class="general-page servizi servizi-protezione local-scroll" id="page">
         {% include privacy-message.html %}
 
         {% include top-scroller.html %}
@@ -15,13 +15,13 @@
 
 		<div id="sub-navigation">
 			<div class="container">
-                {% include navigation.html isMainNavigation=false %}
-            </div>
-        </div>
+        {% include navigation.html isMainNavigation=false %}
+      </div>
+    </div>
 
-        <header id="teaser" class="hidden-xs">
+    <header id="teaser" class="hidden-xs">
 
-		</header>
+	</header>
 
 		<div id="main">
 			{{ content }}
