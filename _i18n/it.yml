@@ -239,8 +239,8 @@ servizi:
             headline: Security Mail
             teaser: Con semplice click è possibile comunicare in modalità riservata, allegando qualasiasi documento anch'esso protetto e riservato. La nostra proposta è rivolta a n. due tipi soluzioni.
             list:
-                li1: Soluzione 1 - OpeniX-Pki Sistema completo e molto potente. Viene integrato nei processi informatici aziendali anche per altri scopi. Gli utenti in modo automatico tramite i propri certificati digitali (Identity, Autenticazione, Autorizzazione, Firma,) si scambiano mail in sicurezza.
-                li2: Soluzione 2 - Onpen-PGP Sistema adatto per piccole aziende spesso utilizzato in modalità ibrida con la soluzioni n.1 - L'utente viene istruito e dotato di chiavetta USB univoca, all'interno della quale, vengono inserite le chiavi RSA per scambiare mail in sicurezza.
+                li1: Soluzione 1 - OpenXPKI Sistema completo e molto potente. Viene integrato nei processi informatici aziendali anche per altri scopi. Gli utenti in modo automatico tramite i propri certificati digitali (Identity, Autenticazione, Autorizzazione, Firma,) si scambiano mail in sicurezza.
+                li2: Soluzione 2 - OpenPGP Sistema adatto per piccole aziende spesso utilizzato in modalità ibrida con la soluzioni n.1 - L'utente viene istruito e dotato di chiavetta USB univoca, all'interno della quale, vengono inserite le chiavi RSA per scambiare mail in sicurezza.
                 li3: Discovery of load-related problems originating with third-party integrations or system processes
                 li4: Optimization of your site for predictable, fast client performance
 
