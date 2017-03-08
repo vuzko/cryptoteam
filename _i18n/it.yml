@@ -201,7 +201,7 @@ servizi:
     protezione:
         icona: Protezione Dati
         teaser: Proteggiamo Dati Ininterrottamente
-        titolo:  Privacy-Protection
+        titolo:  Protezione Dati Aziendali
         sottotitolo: La Tecnica Impiegata è l'Integrazione della Crittografia
         descrizione: Prova descrizione in protezione, prova, prova
 
@@ -237,7 +237,7 @@ servizi:
 
         box4:
             headline: Security Mail
-            teaser: "Con semplice click è possibile comunicare in modalità riservata, allegando qualasiasi documento anch'esso protetto e riservato. La nostra proposta è rivolta a n. due soluzioni:"
+            teaser: "Con semplice click è possibile comunicare in modalità riservata, allegando qualsiasi documento anch'esso protetto e riservato. La nostra proposta è rivolta a n. due soluzioni:"
             list:
                 li1: Soluzione 1 - OpenXPKI Sistema completo e molto potente. Viene integrato nei processi informatici aziendali anche per altri scopi. Gli utenti in modo automatico tramite i propri certificati digitali (Identity, Autenticazione, Autorizzazione, Firma,) si scambiano mail in sicurezza.
                 li2: Soluzione 2 - OpenPGP Sistema adatto per piccole aziende spesso utilizzato in modalità ibrida con la soluzioni n.1 - L'utente viene istruito e dotato di chiavetta USB univoca, all'interno della quale, vengono inserite le chiavi RSA per scambiare mail in sicurezza.
@@ -251,12 +251,10 @@ servizi:
                 li3: Eco sistema protetto da crittografia chivi Pubbliche a 4096 bit Algortmi a SHA 256
 
         box6:
-            headline: Box6
-            teaser: We’re intimately familiar with established security standards for Demandware implementations and can help you apply them to your store.
-            list:
-                li1: Code audits and reviews
-                li2: Set-up of your site following proven security standards
-                li3: Review of planned changes to avoid introducing security risks
+            headline: CiFratura Dati Memorizzati
+            teaser: I dati sono salvati sistematicamente suoi propri Server (minimo doppio Back-up), più n.1 Back-up nel Coud in-House. Quindi sincronizzati e condivisi all'interno della Piattoforma OnwnCloud.
+                li1: Tutti i processi di salvataggio dati sono automatizzati dalla Cifratura. I protocolli di cifratura utilizzati sono riportati dal Codice di Amministratozione Digitale.
+                li2: "NOTA:""Il salvataggio Dati Personali o il trasferimento da paesi appartenenti all'UE verso paesi Terzi (non UE), è vietato in linea di principio, a meno che il paese in questione garantisca un livello di protezione ADEGUATO. La commissione ha il potere di stabilire tale adeguatezza(art. 25, commma 6, della Dir. 95/46CE).
 
         box7:
             headline: Box8
