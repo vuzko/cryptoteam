@@ -41,6 +41,9 @@
 @cMainNavigationLink: lighten(@cFooterGray, 25%);
 
 @darkBlue:			#2F3F4E;
+@nice-blue:			#5B83AD;
+@light-blue:		@nice-blue + #111;
+
 @homepageTeaserHeight: 250px;
 @generalTeaserHeight: 250px;
 @navBarHeight: 90px;
@@ -1492,6 +1495,16 @@ table {
 					right: 0;
 				}
 			}
+
+			#teaser-text-protezione {
+				@media (min-width: @screen-xs-max) {
+					margin-top: 80px;
+					.teaserTextDefinition;
+					color: #0000ff;
+					left: 0;
+					right: 0;
+				}
+			}
 		}
 	}
 
@@ -1514,7 +1527,7 @@ table {
 
 		@media (min-width: @screen-xs-max) {
             height: @homepageTeaserHeight;
-            background: url(/images/teasers/green_inverted.jpg) fixed center @navBarHeight no-repeat #6d9906;
+            background: url(/images/cryptoteam/MixLoghiProtezioneDati.png) fixed center @navBarHeight no-repeat;
         }
 
         .dw-logo-header {
