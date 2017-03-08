@@ -246,6 +246,7 @@ servizi:
 
         box5:
             headline: File Sharing - Condivisione Dati Sicura
+            teaser: L'Accesso sicuro ai dati può avvenire in ogni luogo e in qualunque momento indipendentemente dalla piattaforma.
             list:
                 li2: Gli Utenti possono lavorare creando condivisioni Pubbliche sicure (OTP - One Time Password), oppure automaticamente può essere autorizzato volta per volta (Password Temporanee trasmesse via SMS).
                 li3: Eco sistema protetto da crittografia chivi Pubbliche a 4096 bit Algortmi a SHA 256
