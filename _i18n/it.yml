@@ -257,10 +257,10 @@ servizi:
                 li2: "NOTA:""Il salvataggio Dati Personali o il trasferimento da paesi appartenenti all'UE verso paesi Terzi (non UE), è vietato in linea di principio, a meno che il paese in questione garantisca un livello di protezione ADEGUATO. La commissione ha il potere di stabilire tale adeguatezza(art. 25, commma 6, della Dir. 95/46CE).
 
         box7:
-            headline: Box8
-            teaser: We’re intimately familiar with established security standards for Demandware implementations and can help you apply them to your store.
+            headline: Spostamento Fisico dei Dati
+            teaser: "Lo spostamento fisico dei dati da una sede all'altra in modalità sicura, viene offerta in n. 2 modalità:"
             list:
-                li1: Code audits and reviews
+                li1: Soluzione HD Virtuale - Applicativo di cifratura dati (multi piattaforma), installato su chiavetta USB e PC utente. In più è possibile partizionare il disco creando un ulteriore HD (Nascosto), all'interno dello stesso HD virtuale cifrato, rendondo impossibile la sua identificazione.
                 li2: Set-up of your site following proven security standards
                 li3: Review of planned changes to avoid introducing security risks
 
