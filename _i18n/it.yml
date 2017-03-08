@@ -236,18 +236,19 @@ servizi:
                 li5: Norme Ue e Codice Privacy - Gli adempimenti Normativi e le regole ferree odierne per il mercato digitale (interno e transfrontaliero), evitano gravi danni e antipatiche sanzioni.
 
         box4:
-            headline: Box4
-            teaser: We are the leading provider of load and performance tests for customers on the Demandware platform.
+            headline: Security Mail
+            teaser: Con semplice click è possibile comunicare in modalità riservata, allegando qualasiasi documento anch'esso protetto e riservato. La nostra proposta è rivolta a n. due tipi soluzioni.
             list:
-                li1: Comprehensive performance analysis before a site launch
-                li2: In-depth, precise test reports – not just the numbers, but also an explanation
+                li1: Soluzione 1 - OpeniX-Pki Sistema completo e molto potente. Viene integrato nei processi informatici aziendali anche per altri scopi. Gli utenti in modo automatico tramite i propri certificati digitali (Identity, Autenticazione, Autorizzazione, Firma,) si scambiano mail in sicurezza.
+                li2: Soluzione 2 - Onpen-PGP Sistema adatto per piccole aziende spesso utilizzato in modalità ibrida con la soluzioni n.1 - L'utente viene istruito e dotato di chiavetta USB univoca, all'interno della quale, vengono inserite le chiavi RSA per scambiare mail in sicurezza.
                 li3: Discovery of load-related problems originating with third-party integrations or system processes
                 li4: Optimization of your site for predictable, fast client performance
 
         box5:
             headline: File Sharing - Condivisione Dati Sicura
-            teaser: L'Accesso sicuro ai dati può avvenire in ogni luogo e in qualunque momento indipendentemente dalla piattaforma.
+            teaser: L' Accesso sicuro ai dati può avvenire in ogni luogo e in qualunque momento indipendentemente dalla piattaforma.
             list:
+                li1: Sono disponibili APP per apparati mobili, Smartphone e Ipad. - E' possibile Sincronizzare grossi file fino a 512Mb (se necessario questo limite può essere superato ma dipende dal File System e dal S.O.in uso).
                 li2: Gli Utenti possono lavorare creando condivisioni Pubbliche sicure (OTP - One Time Password), oppure automaticamente può essere autorizzato volta per volta (Password Temporanee trasmesse via SMS).
                 li3: Eco sistema protetto da crittografia chivi Pubbliche a 4096 bit Algortmi a SHA 256
 
