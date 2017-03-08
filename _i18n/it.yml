@@ -259,6 +259,22 @@ servizi:
                 li2: Set-up of your site following proven security standards
                 li3: Review of planned changes to avoid introducing security risks
 
+        box7:
+            headline: Box8
+            teaser: We’re intimately familiar with established security standards for Demandware implementations and can help you apply them to your store.
+            list:
+                li1: Code audits and reviews
+                li2: Set-up of your site following proven security standards
+                li3: Review of planned changes to avoid introducing security risks
+
+        box8:
+            headline: Box8
+            teaser: We’re intimately familiar with established security standards for Demandware implementations and can help you apply them to your store.
+            list:
+                li1: Code audits and reviews
+                li2: Set-up of your site following proven security standards
+                li3: Review of planned changes to avoid introducing security risks
+
 
 ########################################################################
 
