@@ -251,7 +251,7 @@ servizi:
                 li3: Eco sistema protetto da crittografia chivi Pubbliche a 4096 bit Algortmi a SHA 256
 
         box6:
-            headline: CiFratura Dati Memorizzati
+            headline: Cifratura Dati Memorizzati
             teaser: I dati sono salvati sistematicamente suoi propri Server (minimo doppio Back-up), più n.1 Back-up nel Coud in-House. Quindi sincronizzati e condivisi all'interno della Piattoforma OnwnCloud.
             list:
                 li1: Tutti i processi di salvataggio dati avvengono tramite la tecnica della Cifratura. I protocolli utilizzati sono consigliati dal Codice di Amministratozione Digitale.
