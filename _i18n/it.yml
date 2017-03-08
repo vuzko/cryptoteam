@@ -260,7 +260,7 @@ servizi:
             headline: Spostamento Fisico dei Dati
             teaser: "Lo spostamento fisico dei dati da una sede all'altra in modalità sicura, viene offerta in n. 2 modalità:"
             list:
-                li1: Soluzione HD Virtuale - Applicativo di cifratura dati (multi piattaforma), installato su chiavetta USB e PC utente. In più è possibile partizionare il disco creando un ulteriore HD (Nascosto), all'interno dello stesso HD virtuale cifrato, rendondo impossibile la sua identificazione.
+                li1: Soluzione HD Virtuale - Applicativo di cifratura dati (multi piattaforma), installato su chiavetta-HD USB e PC utente. In più è possibile partizionare il disco creando un ulteriore HD (Nascosto), all'interno dello stesso discho cifrato, rendondo impossibile la sua identificazione.
                 li2: Set-up of your site following proven security standards
                 li3: Review of planned changes to avoid introducing security risks
 
