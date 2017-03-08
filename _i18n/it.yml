@@ -245,12 +245,10 @@ servizi:
                 li4: Optimization of your site for predictable, fast client performance
 
         box5:
-            headline: Box5
-            teaser: Let us automate your testing to give you a solid quality baseline, speed up your deployment process, and lower business risk.
+            headline: File Sharing - Condivisione Dati Sicura
             list:
-                li1: Out-of-the-box SiteGenesis test cases to cover the basics
-                li2: Customized test cases to address the most important paths for your specific site
-                li3: Maintenance and expansion of the test suite as your site grows
+                li2: Gli Utenti possono lavorare creando condivisioni Pubbliche sicure (OTP - One Time Password), oppure automaticamente può essere autorizzato volta per volta (Password Temporanee trasmesse via SMS).
+                li3: Eco sistema protetto da crittografia chivi Pubbliche a 4096 bit Algortmi a SHA 256
 
         box6:
             headline: Box6
