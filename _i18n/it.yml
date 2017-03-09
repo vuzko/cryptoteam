@@ -220,10 +220,10 @@ servizi:
             headline: Cosa Intendiamo per "Patrimonio Dati Digitali"
             teaser:
             list:
-                li1: Buste Paghe,Brevetti,Stato Patrimoniale,Contratti, Organigramma, Finanza, Atti, Fidi Bancari, Elenco Soci, Carte di Credito, Bilanci, Investimenti, Debiti, Finanziamenti, Fiscalità,
-                li2: Fatturazione, Clienti e Fornitori, Preventivi, Sales Strategy, Prezzi Riservati, Codici Prodotto, Report Micro Area, Technical know-how, Piano Marketing
-                li3: Dati Sensibili (Origine Razziale, Convinzioni Religione e Filosofiche, Salute, Adesione Partiti e Sindacati, Vita Sessuale), Dati Identificativi, Dati Comuni (Abitudini, Gusti), Dati Giudiziari
-                li4: E-mail, Comunicazioni Telefoniche (IP), Data Confidential, Documenti interni, Policy, Accordi, Segreti Personali e Aziendali
+                li1: Buste Paghe,Brevetti,Stato Patrimoniale,Contratti, Organigramma, Finanza, Atti, Fidi Bancari, Elenco Soci, Carte di Credito, Bilanci, Investimenti, Debiti, Finanziamenti, Fiscalità.
+                li2: Fatturazione, Clienti e Fornitori, Preventivi, Sales Strategy, Prezzi Riservati, Codici Prodotto, Report Micro Area, Technical know-how, Piano Marketing.
+                li3: Dati Sensibili (Origine Razziale, Convinzioni Religione e Filosofiche, Salute, Adesione Partiti e Sindacati, Vita Sessuale), Dati Identificativi, Dati Comuni (Abitudini, Gusti), Dati Giudiziari.
+                li4: E-mail, Comunicazioni Telefoniche (IP), Data Confidential, Documenti interni, Policy, Accordi, Segreti Personali e Aziendali.
 
         box3:
             headline: Perchè Proteggere i Dati
@@ -240,7 +240,7 @@ servizi:
             teaser: "Con semplice click è possibile comunicare in modalità riservata, allegando qualsiasi documento anch'esso protetto e riservato. La nostra proposta si basa su due soluzioni:"
             list:
                 li1: Soluzione 1 - OpenXPKI Sistema completo e molto potente. Viene integrato nei processi informatici aziendali come Autorità di Certficazione in una rete Intranet. Gli utenti in modo automatico tramite i propri certificati digitali (Identity, Autenticazione, Autorizzazione, Firma,) si scambiano mail in assoluta riservatezza.
-                li2: Soluzione 2 - OpenPGP Sistema adatto per piccole aziende spesso utilizzato in modalità ibrida con la soluzioni 1 - L'utente viene istruito e dotato di chiavetta USB univoca, all'interno della quale vengono inserite le chiavi (RSA o Ellitiche), semplicemente associtate ala sua mail. Pertanto sarà in grado di comunicare in assuluta riservatezza.
+                li2: Soluzione 2 - OpenPGP Sistema adatto per piccole aziende spesso utilizzato in modalità ibrida con la soluzioni 1 - L'utente viene istruito e dotato di chiavetta USB univoca, all'interno della quale vengono inserite le sue chiavi (RSA o Ellitiche), semplicemente associtate alla mail. Pertanto sarà in grado di comunicare in assuluta riservatezza.
 
         box5:
             headline: File Sharing - Condivisione Dati Sicura
@@ -248,23 +248,22 @@ servizi:
             list:
                 li1: Sono disponibili APP per apparati mobili, Smartphone e Ipad. - E' possibile Sincronizzare grossi file fino a 512Mb (se necessario questo limite può essere superato ma dipende dal File System e dal S.O.in uso).
                 li2: Gli Utenti possono lavorare creando condivisioni pubbliche sicure (OTP - One Time Password), oppure può essere autorizzato volta per volta (Password Temporanee trasmesse via SMS).
-                li3: Eco sistema protetto da crittografia chivi Pubbliche a 4096 bit Algortmi a SHA 256
+                li3: Eco sistema protetto da crittografia chivi Pubbliche a 4096 bit Algortmo SHA 256.
                 li4: Il dato viene sempre tracciato in modlalità cronologica. Quindi l'amministratore di sistema è in grado di stabilire quotidianamente l'operatività dell'utente.
 
         box6:
             headline: Cifratura Dati Memorizzati
             teaser: I dati sono salvati sistematicamente suoi propri Server (minimo doppio Back-up), più n.1 Back-up nel Coud in-House. Dati sicuri sincronizzati e condivisi all'interno della Piattoforma OnwnCloud.
             list:
-                li1: I processi di salvataggio dati avvengono tramite la tecnica della Cifratura. I protocolli utilizzati sono consigliati dal Codice di Amministratozione Digitale (CAD), e dal Garante della Protezione Dati Personali.
+                li1: I processi di salvataggio dati avvengono tramite la tecnica della Cifratura. I protocolli utilizzati sono consigliati dal Codice dell' Amministratozione Digitale (CAD - digitpa.gov.it), e dal Garante della Protezione Dati Personali.
                 li2: Il salvataggio Dati Personali o il trasferimento da paesi appartenenti all'UE verso paesi Terzi (non UE), è vietato in linea di principio, a meno che il paese in questione garantisca un livello di protezione ADEGUATO. La commissione ha il potere di stabilire tale adeguatezza (art. 25, commma 6, della Dir. 95/46CE).
 
         box7:
             headline: Spostamento Fisico dei Dati
             teaser: Lo spostamento fisico dei dati da una sede all'altra in modalità sicura, viene offerta in due modalità&#58
             list:
-                li1: Soluzione HD Virtuale - Applicativo di cifratura dati (multi piattaforma), installato su chiavetta (va bene anche HD), USB e PC utente. In più è possibile partizionare il disco creando un ulteriore livello (HD Nascosto), all'interno dello stesso discho cifrato, rendondo impossibile la sua identificazione.
+                li1: Soluzione HD Virtuale - Applicativo di cifratura dati multi piattaforma, installato su chiavetta (va bene anche HD), USB e PC utente. In più è possibile partizionare il disco creando un ulteriore livello (HD Nascosto), all'interno dello stesso discho cifrato, rendondo impossibile la sua identificazione.
                 li2: Soluzione hardware Chiavetta Usb - Applicativo di cifratura nativo all'interno della chiavetta dati. I dispositivi di archiviazioni sono stati progettati per diverse organizzazioni aziendali ed hanno un gamma completa e certificata.
-                li2: In entrami i due casi (soluzione HD virtuale e soluzione Hard. Chiavetta usb), in caso di smarrimento posso essere resi inutilizzabili.
         box8:
             headline: Box8
             teaser: We’re intimately familiar with established security standards for Demandware implementations and can help you apply them to your store.
