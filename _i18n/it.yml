@@ -239,7 +239,7 @@ servizi:
             headline: Security Mail
             teaser: "Con semplice click è possibile comunicare in modalità riservata, allegando qualsiasi documento anch'esso protetto e riservato. La nostra proposta si basa su due soluzioni:"
             list:
-                li1: Soluzione 1 - OpenXPKI Sistema completo e molto potente. Viene integrato nei processi informatici aziendali come Autorità di Certficazione in una rete Intranet. Gli utenti in modo automatico tramite i propri certificati digitali (Identity, Autenticazione, Autorizzazione, Firma,) si scambiano mail in assoluta riservatezza.
+                li1: Soluzione 1 - OpenXPKI Sistema completo e molto potente. Viene integrato nei processi informatici come Autorità di Certficazione Aziendale. Gli utenti in modo automatico tramite i propri certificati digitali (Identity, Autenticazione, Autorizzazione, Firma,) si scambiano mail in assoluta riservatezza.
                 li2: Soluzione 2 - OpenPGP Sistema adatto per piccole aziende spesso utilizzato in modalità ibrida con la soluzioni 1 - L'utente viene istruito e dotato di chiavetta USB univoca, all'interno della quale vengono inserite le sue chiavi (RSA o Ellitiche), semplicemente associtate alla mail. Pertanto sarà in grado di comunicare in assuluta riservatezza.
 
         box5:
