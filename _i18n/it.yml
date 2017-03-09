@@ -199,10 +199,10 @@ servizi:
 
 # PAGINA SERVIZI--->PROTEZIONE DATI (/servizi/protezione.html)
     protezione:
-        icona: Protezione dei Dati
-        teaser: Proteggiamo i tuoi dati
-        titolo: Titolo
-        sottotitolo: SottoTitolo
+        icona: Protezione Dati
+        teaser: Proteggiamo Dati Ininterrottamente
+        titolo:  Dati Aziendali
+        sottotitolo: Forniamo soluzioni per la Privacy
         descrizione: Prova descrizione in protezione, prova, prova
 
     pd:
@@ -211,62 +211,60 @@ servizi:
         description: We are Demandware partner
 
         box1:
-            headline: Box1
-            teaser: Rely on the partner who knows best how to test a Demandware site. We offer a wide range of QA services tailored to fit Demandware-based implementations.
-            description: With its flexible SaaS e-commerce platform, <a href="http://www.demandware.com/">Demandware</a> has become one of the leading providers of digital commerce solutions. As an official Demandware LINK Affiliate Partner we have received specialized training and gained professional expertise by testing both within Demandware and for Demandware’s clients.
-            numbers: Over the last decade, <strong>we have worked with more than 200 of Demandware’s clients</strong>, providing quality assurance designed for each one’s individual needs, helping them achieve the best possible quality for their e-commerce implementations.
+            headline: Privacy-Protection-Easy
+            teaser:  La Privacy è diventata strategiaca per il futuro operativo delle Aziende. Lo scopo è di aumentare la sicurezza e tutelare i dati e le informazioni che viaggiano in rete.
+            description: Finalmente le istituzioni hanno deciso responsabilmente di colmare il forte disequilibrio che riguarda il mondo dei privati nel "possesso" e nel "controllo" dei propri dati e delle proprie comunicazioni. Interi settori economici sono coinvolti e rispondenti a questo bisogno. Attualmente nel privato le comunicazioni crittografate (quindi private), sono molto utilizzate dai grandi Gruppi, infatti sanno perfettamente che queste tecniche esistono e funzionano bene. La crittografia è uno strumento potente da non sottovalutare se si vuole proteggere il Know-how aziendale e progredire.
+            numbers:
 
         box2:
-            headline: Box2
-            teaser: "We ensure that your implementation meets today‘s high customer expectations. We test:"
+            headline: Cosa Intendiamo per "Patrimonio Dati Digitali"
+            teaser:
             list:
-                li1: All storefront functionalities
-                li2: Browser and mobile device compatibility
-                li3: Internationalization and localization
-                li4: Third-party integrations
+                li1: Buste Paghe,Brevetti,Stato Patrimoniale,Contratti, Organigramma, Finanza, Atti, Fidi Bancari, Elenco Soci, Carte di Credito, Bilanci, Investimenti, Debiti, Finanziamenti, Fiscalità.
+                li2: Fatturazione, Clienti e Fornitori, Preventivi, Sales Strategy, Prezzi Riservati, Codici Prodotto, Report Micro Area, Technical know-how, Piano Marketing.
+                li3: Dati Sensibili (Origine Razziale, Convinzioni Religione e Filosofiche, Salute, Adesione Partiti e Sindacati, Vita Sessuale), Dati Identificativi, Dati Comuni (Abitudini, Gusti), Dati Giudiziari.
+                li4: E-mail, Comunicazioni Telefoniche (IP), Data Confidential, Documenti interni, Policy, Accordi, Segreti Personali e Aziendali.
 
         box3:
-            headline: Box3
-            teaser: No matter what phase of a project you find yourself in, we can help with intensive testing of specific functionalities. Even on short notice, we can offer fast, direct, effective feedback to help you proceed with development and launch.
+            headline: Perchè Proteggere i Dati
+            teaser: Lo scambio elettronico concettualmente è una caratteristica che non tornerà indietro. L'innovazione tecnologiaca consente nuove tecniche di comunicazione "virtulizzazione, Mobile, Cloud, IP" per cui il successo della propria attività dipendente sopratutto dalla protezione dati.
             list:
-                li1: Assessment of new features
-                li2: Verification that a site‘s features interact properly
-                li3: Rapid defect discovery
-                li4: On-the-fly test design
+                li1: Cyber attackers a fini Commerciali - Nessun sistema operativo è IMMUNE, vengono inoculati dispositivi informatici all'interno della rete Aziendale che violano la riservatezza.
+                li2: Tecnica di Profilazione a fini Marketing - Le transazioni sono SEMPRE analizzate dagli algortmi cosiddetti Indicatori Alfanumerici.
+                li3: Tecnica di Protezione e Sicurezza - Se non si adottano misure di sicurezza adeguate, non si potrà MAI escludere che il Know-How Aziendale venga acquisito e compromesso.
+                li4: Incorporare la Privacy è un PLUS - Integrare le tecniche di protezione dei dati nell'eco sistema informatico Aziendale, eleva l'immagine e aumenta la fiducia tra i corrispondenti (attuali e futuri).
+                li5: Norme Ue e Codice Privacy - Gli adempimenti Normativi e le regole ferree odierne per il mercato digitale (interno e transfrontaliero), evitano gravi danni e antipatiche sanzioni.
 
         box4:
-            headline: Box4
-            teaser: We are the leading provider of load and performance tests for customers on the Demandware platform.
+            headline: Security Mail
+            teaser: "Con semplice click è possibile comunicare in modalità riservata, allegando qualsiasi documento anch'esso protetto e riservato. La nostra proposta si basa su due soluzioni:"
             list:
-                li1: Comprehensive performance analysis before a site launch
-                li2: In-depth, precise test reports – not just the numbers, but also an explanation
-                li3: Discovery of load-related problems originating with third-party integrations or system processes
-                li4: Optimization of your site for predictable, fast client performance
+                li1: Soluzione 1 - OpenXPKI Sistema completo e molto potente. Viene integrato nei processi informatici come Autorità di Certficazione Aziendale. Gli utenti in modo automatico tramite i propri certificati digitali (Identity, Autenticazione, Autorizzazione, Firma,) si scambiano mail in assoluta riservatezza.
+                li2: Soluzione 2 - OpenPGP Sistema adatto per piccole aziende spesso utilizzato in modalità ibrida con la soluzioni 1 - L'utente viene istruito e dotato di chiavetta USB univoca, all'interno della quale vengono inserite le sue chiavi (RSA o curve Ellitiche), semplicemente associtate alla mail. Pertanto sarà in grado di comunicare in assuluta riservatezza.
 
         box5:
-            headline: Box5
-            teaser: Let us automate your testing to give you a solid quality baseline, speed up your deployment process, and lower business risk.
+            headline: File Sharing - Condivisione Dati Sicura
+            teaser: L'accesso sicuro ai dati può avvenire in ogni luogo e in qualunque momento indipendentemente dalla piattaforma utilizzata.
             list:
-                li1: Out-of-the-box SiteGenesis test cases to cover the basics
-                li2: Customized test cases to address the most important paths for your specific site
-                li3: Maintenance and expansion of the test suite as your site grows
+                li1: Sono disponibili APP per apparati mobili, Smartphone e Ipad. - E' possibile Sincronizzare grossi file fino a 512Mb (se necessario questo limite può essere superato ma dipende dal File System e dal S.O.in uso).
+                li2: Gli Utenti possono lavorare creando condivisioni pubbliche sicure (OTP - One Time Password), oppure può essere autorizzato volta per volta (Password Temporanee trasmesse via SMS).
+                li3: Eco sistema protetto da crittografia chivi Pubbliche a 4096 bit Algortmo SHA 256.
+                li4: Il dato viene sempre tracciato in modlalità cronologica. Quindi l'amministratore di sistema è in grado di stabilire quotidianamente l'operatività dell'utente.
 
         box6:
-            headline: Box6
-            teaser: We’re intimately familiar with established security standards for Demandware implementations and can help you apply them to your store.
+            headline: Cifratura Dati Memorizzati
+            teaser: I dati sono salvati sistematicamente suoi propri Server (minimo doppio Back-up), più n.1 Back-up nel Coud in-House. Dati sicuri sincronizzati e condivisi all'interno della Piattoforma OnwnCloud.
             list:
-                li1: Code audits and reviews
-                li2: Set-up of your site following proven security standards
-                li3: Review of planned changes to avoid introducing security risks
+                li1: I processi di salvataggio dati avvengono tramite la tecnica della Cifratura. I protocolli utilizzati sono consigliati dal Codice dell' Amministratozione Digitale (CAD - digitpa.gov.it), e dal Garante della Protezione Dati Personali.
+                li2: Il salvataggio Dati Personali o il trasferimento da paesi appartenenti all'UE verso paesi Terzi (non UE), è vietato in linea di principio, a meno che il paese in questione garantisca un livello di protezione ADEGUATO. La commissione ha il potere di stabilire tale adeguatezza (art. 25, commma 6, della Dir. 95/46CE).
 
         box7:
-            headline: Box8
-            teaser: We’re intimately familiar with established security standards for Demandware implementations and can help you apply them to your store.
+            headline: Spostamento Fisico dei Dati
+            teaser: Lo spostamento fisico dei dati da una sede all'altra in modalità sicura, viene offerta in due modalità&#58
             list:
-                li1: Code audits and reviews
-                li2: Set-up of your site following proven security standards
-                li3: Review of planned changes to avoid introducing security risks
-
+                li1: Soluzione HD Virtuale - Applicativo di cifratura dati multi piattaforma, installato su chiavetta (va bene anche HD), USB e PC utente. In più è possibile partizionare il disco creando un ulteriore livello (HD Nascosto), all'interno dello stesso discho cifrato, rendondo impossibile la sua identificazione.
+                li2: Soluzione hardware Chiavetta Usb - Applicativo di cifratura nativo all'interno della chiavetta dati. I dispositivi di archiviazioni sono stati progettati per diverse organizzazioni aziendali ed hanno un gamma completa e certificata.
+                li3: In entrami i due casi (soluzione HD virtuale e soluzione Hard. Chiavetta usb), in caso di smarrimento SONO RESI inutilizzabili.
         box8:
             headline: Box8
             teaser: We’re intimately familiar with established security standards for Demandware implementations and can help you apply them to your store.
