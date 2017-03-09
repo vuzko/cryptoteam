@@ -227,9 +227,9 @@ servizi:
 
         box3:
             headline: Perchè Proteggere i Dati
-            teaser: Lo scambio elettronico concettualmente è una caratteristica che non tornerà indietro. La tecnologia ITC attuale permette nuove tecniche di comunicazione "virtulizzazione, Mobile, Cloud, IP" per cui il successo della propria attività dipendente sopratutto dalla protezione dati.
+            teaser: Lo scambio elettronico concettualmente è una caratteristica che non tornerà indietro. L'innovazione tecnologiaca consente nuove tecniche di comunicazione "virtulizzazione, Mobile, Cloud, IP" per cui il successo della propria attività dipendente sopratutto dalla protezione dati.
             list:
-                li1: Tecnica di Attacco a fini Commerciali - Nessuno è IMMUNE, vengono inoculati dispositivi informatici all'interno della rete Aziendale che violano la riservatezza.
+                li1: Cyber attackers a fini Commerciali - Nessun sistema operativo è IMMUNE, vengono inoculati dispositivi informatici all'interno della rete Aziendale che violano la riservatezza.
                 li2: Tecnica di Profilazione a fini Marketing - Le transazioni sono SEMPRE analizzate dagli algortmi cosiddetti Indicatori Alfanumerici.
                 li3: Tecnica di Protezione e Sicurezza - Se non si adottano misure di sicurezza adeguate, non si potrà MAI escludere che il Know-How Aziendale venga acquisito e compromesso.
                 li4: Incorporare la Privacy è un PLUS - Integrare le tecniche di protezione dei dati nell'eco sistema informatico Aziendale, eleva l'immagine e aumenta la fiducia tra i corrispondenti (attuali e futuri).
@@ -240,7 +240,7 @@ servizi:
             teaser: "Con semplice click è possibile comunicare in modalità riservata, allegando qualsiasi documento anch'esso protetto e riservato. La nostra proposta si basa su due soluzioni:"
             list:
                 li1: Soluzione 1 - OpenXPKI Sistema completo e molto potente. Viene integrato nei processi informatici come Autorità di Certficazione Aziendale. Gli utenti in modo automatico tramite i propri certificati digitali (Identity, Autenticazione, Autorizzazione, Firma,) si scambiano mail in assoluta riservatezza.
-                li2: Soluzione 2 - OpenPGP Sistema adatto per piccole aziende spesso utilizzato in modalità ibrida con la soluzioni 1 - L'utente viene istruito e dotato di chiavetta USB univoca, all'interno della quale vengono inserite le sue chiavi (RSA o Ellitiche), semplicemente associtate alla mail. Pertanto sarà in grado di comunicare in assuluta riservatezza.
+                li2: Soluzione 2 - OpenPGP Sistema adatto per piccole aziende spesso utilizzato in modalità ibrida con la soluzioni 1 - L'utente viene istruito e dotato di chiavetta USB univoca, all'interno della quale vengono inserite le sue chiavi (RSA o curve Ellitiche), semplicemente associtate alla mail. Pertanto sarà in grado di comunicare in assuluta riservatezza.
 
         box5:
             headline: File Sharing - Condivisione Dati Sicura
