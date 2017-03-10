@@ -283,7 +283,7 @@ servizi:
             numbers: Nonostante la complessità tecnica (codifica e decodifica), di autenticazione, l'utente non ha latenze operative.
 
         box2:
-            headline:Controllo
+            headline: Controllo
             teaser: Gestione Centralizzata
             list:
                 li1: Una volta impostato il sistema, l'Amministratore potrà controllare la cronologia degli eventi ed intervenire (se fosse necessario).
