@@ -313,9 +313,9 @@ servizi:
             headline: Cloud in-House integra la crittografia
             teaser: Disk Encryption
             list:
-                li1: Per la sicurezza i dati salvati (su più HD), sono sempre cifrati sincronizzati e condivisi sistematicamente per la fruibilità degli utenti.
+                li1: I protocolli di sicurezza prevedono che i dati salvati (su più HD), sono sempre cifrati sincronizzati e condivisi sistematicamente, per la fruibilità degli utenti.
                 li2: L'accesso sicuro ai tuoi dati da remoto, può essere eseguito su qualunque piattafroma e in qualsiasi momento.
-                li3: Le chiavi a protezione dei dati sono (come minimo), da 2048 bit e da 4096 bit, Algoritmo SHA 256.
+                li3: Le chiavi a protezione dei dati sono (almeno), da 2048 bit e da 4096 bit, Algoritmo SHA 256.
                 li4: Per maggiore sicurezza le chiavi possono essere protette da HSM (Hardware Security Modules).
 
         box3:
@@ -326,10 +326,33 @@ servizi:
                 li2: Con pochi click è possibile creare collegamenti sicuri (pubblici), con utenti esterni al Cloud in- House e condividersi le cartelle di lavoro.
                 li3: Per maggiore produttività è possibile federare (Server to Server), i propri partner aziendali (es. partner commerciali clienti e fornitori e amministrativi come il Commercialista).
                 li4: E' possibile programmare la data di scadenza relativa alla condivisione e proteggere la cartella o file tramite password appunto temporanee.
-                li5: L'accesso ai dati può essere autorizzato volta per volta tramite Passowrd trasmesse via sms.
+                li5: L'accesso ai dati può essere autorizzato volta per volta tramite passowrd trasmesse via sms.
                 li6: E' possibile inoltrare automaticamente le notifiche via mail.
-                li7: Reportistica il ciclo di vita del file condiviso è tracciato cronologicamente, sono tracciate le modifiche, sono tracciati gli utenti.
+                li7: Reportistica, il ciclo di vita del file condiviso è tracciato cronologicamente, sono tracciate le modifiche, sono tracciati gli utenti.
                 li8: E' possibile configurare il criterio delle condivisioni e dettagliare le policy di sicurezza.
+
+
+        box4:
+            headline: Headline box4
+            teaser: Teaser box4
+            list:
+                li1: Box4 - Riga1. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero.
+                li2: Box4 - Riga2. Reprehenderit ipsum consequatur ab nihil sint quis. Similique quis voluptas voluptas hic. Aut nihil culpa saepe alias natus animi. Ea a sunt rerum ullam laudantium odio voluptatem.
+
+        box5:
+            headline: Headline box5
+            teaser: Teaser box5
+            list:
+                li1: Box5 - Riga1. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero.
+                li2: Box5 - Riga2. Reprehenderit ipsum consequatur ab nihil sint quis. Similique quis voluptas voluptas hic. Aut nihil culpa saepe alias natus animi. Ea a sunt rerum ullam laudantium odio voluptatem.
+                li3: Box5 - Riga3. Labore dolorum rerum beatae dolores voluptatem consequuntur. Dolores ut enim et ea. Reprehenderit dolor blanditiis et. Corporis id consequatur dolorem necessitatibus voluptas. Et magnam sunt quo temporibus assumenda modi.
+
+        box6:
+            headline: Headline box6
+            teaser: Teaser box6
+            list:
+                li1: Box6 - Riga1. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero.
+                li2: Box6 - Riga2. Reprehenderit ipsum consequatur ab nihil sint quis. Similique quis voluptas voluptas hic. Aut nihil culpa saepe alias natus animi. Ea a sunt rerum ullam laudantium odio voluptatem.
 
 ########################################################################
 
