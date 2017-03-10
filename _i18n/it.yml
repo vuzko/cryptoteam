@@ -277,8 +277,8 @@ servizi:
         descrizione: Prova descrizione in controllo, prova, prova
 
         box1:
-            headline: E' possibile richiedere il supporto per un servizio personalizzato.
-            teaser:  L'utente aziendale potrà usufuire di una procedura di Accesso ai dati semplice veloce e sicura.
+            headline: L'utente aziendale potrà usufuire di una procedura di Accesso ai dati semplice veloce e sicura.
+            teaser:  
             description: Le Architetture sono progettate per impedire l'accesso ai Server e otterere l'accesso ai dati a chiunque non sia autorizzato.
             numbers: Nonostante la complessità tecnica (codifica e decodifica), di autenticazione, l'utente non ha latenze operative.
 
@@ -286,7 +286,7 @@ servizi:
             headline:
             teaser: Controllo Gestione Centralizzata
             list:
-                li1: La soluzuione di Autenticazione può essere scelta come sistema HW tipo chiavetta Usb oppure come un sistema software. In ogni caso sono modlità semplici e sicuri. 
+                li1: La soluzuione di Autenticazione può essere scelta come sistema HW tipo chiavetta Usb oppure come un sistema software. Entrambe le modalità sono semplici e sicure.
                 li2: Una volta impostato il sistema, l'Amministratore potrà controllare la cronologia degli eventi ed intervenire (se fosse necessario).
                 li3: L'Amministratore di Sistema potrà associare il tipo di autenticazione in funzione al compito designato all'utente.
                 li4: La gerarchia di autenticazione consente rapidamente all'Aministratore di sistemna, di verificare la rispondenza con i compiti stabiliti.
