@@ -279,18 +279,18 @@ servizi:
         box1:
             headline: L'utente aziendale potrà usufuire di una procedura di Accesso ai dati semplice veloce e sicura.
             teaser:
-            description: Le Architetture sono progettate per impedire l'accesso ai Server e otterere l'accesso ai dati a chiunque non sia autorizzato.
+            description: Le architetture sono progettate per impedire l'accesso ai Server e otterere l'accesso ai dati a chiunque non sia autorizzato.
             numbers: Nonostante la complessità tecnica (codifica e decodifica), di autenticazione, l'utente non ha latenze operative.
 
         box2:
             headline:
-            teaser: Controllo Gestione Centralizzata
+            teaser: Controllo e Gestione Centralizzata
             list:
-                li1: La soluzuione di Autenticazione può essere scelta come sistema HW tipo chiavetta Usb oppure come un sistema software. Entrambe le modalità sono semplici e sicure.
-                li2: Una volta impostato il sistema, l'Amministratore potrà controllare la cronologia degli eventi ed intervenire (se fosse necessario).
+                li1: La soluzuione di autenticazione può essere scelta come sistema HW tipo chiavetta Usb oppure come un sistema software. Entrambe le modalità sono semplici e sicure.
+                li2: Una volta impostato il sistema, l'amministratore potrà controllare la cronologia degli eventi ed intervenire (se fosse necessario).
                 li3: L'amministratore di Sistema potrà associare il tipo di autenticazione in funzione al compito designato all'utente.
                 li4: La gerarchia di autenticazione consente rapidamente di verificare la rispondenza ai compiti stabiliti.
-                li5: Tracciabilità degli Accessi e registrazione negli archivi Amministratore.
+                li5: Tracciabilità degli Accessi e registrazione negli archivi amministratore.
                 li6: E' possibile richiedere il supporto per un servizio personalizzato.
 
         box3:
