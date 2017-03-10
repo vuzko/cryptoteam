@@ -313,7 +313,7 @@ servizi:
             headline: Cloud in-House integra la crittografia
             teaser:
             list:
-                li1: Per sicurezza i dati salvati sono sempre cifrati e sistematicaticamente sincronizzati e condivisi per la fruibilità degli utenti.
+                li1: Per sicurezza i dati salvati sono sempre cifrati e sistematicaticamente sincronizzati, condivisi, per la fruibilità degli utenti.
                 li2: L'accesso sicuto ai tuoi dati da remoto può essere esguito su qualunque piattafroma e in qualsiasi momento.
                 li3: Le chiavi a protezione dei dati sono almento da 2048 bit (il ns. std è 4096 bit), Algoritmo SHA 256.
                 li4: Box2 -
