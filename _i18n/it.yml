@@ -273,23 +273,23 @@ servizi:
         icona: Controllo Accesso
         teaser: Controllo accesso
         titolo: Soluzioni Controllo Accessi Dati
-        sottotitolo: Proedura Semplice Sicura e Automatizzata
+        sottotitolo: Procedura Semplice Sicura e Automatizzata
         descrizione: Prova descrizione in controllo, prova, prova
 
         box1:
-            headline: Richiedi il supporto per un servizio personalizzato
-            teaser:  L'utente aziendale potrà usufuire di una procedura di Accesso ai dati semplice veloce e sicura. Una volta impostato il sistema di Accesso l'amministratore potrà controllare la cronologia degli eventi ed intervenire (se fosse necessario).
+            headline: E' possibile richiedere il supporto per un servizio personalizzato.
+            teaser:  L'utente aziendale potrà usufuire di una procedura di Accesso ai dati semplice veloce e sicura.
             description: Architettura progettata per impedire l'accesso ai Server e otterere l'accesso ai dati a chiunque non sia autorizzato.
             numbers: Nonostante la complessità tecnica (codifica e decodifica), di autenticazione, l'utente non ha latenze operative.
 
         box2:
-            headline: Headline box2
-            teaser: Teaser box2
+            headline:Controllo
+            teaser: Gestione Centralizzata
             list:
-                li1: Box2 - Riga1. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero.
-                li2: Box2 - Riga2. Reprehenderit ipsum consequatur ab nihil sint quis. Similique quis voluptas voluptas hic. Aut nihil culpa saepe alias natus animi. Ea a sunt rerum ullam laudantium odio voluptatem.
-                li3: Box2 - Riga3. Labore dolorum rerum beatae dolores voluptatem consequuntur. Dolores ut enim et ea. Reprehenderit dolor blanditiis et. Corporis id consequatur dolorem necessitatibus voluptas. Et magnam sunt quo temporibus assumenda modi.
-                li4: Box2 - Riga4. Nihil adipisci ab sint a exercitationem. Magni id omnis fugit facere molestiae sed omnis dolorum. Sit ex praesentium magni voluptatibus. At autem nemo non est est minus. Laboriosam veritatis non odit autem laudantium corporis occaecati. Quo distinctio voluptatem facere recusandae quaerat voluptates.
+                li1: Una volta impostato il sistema, l'Amministratore potrà controllare la cronologia degli eventi ed intervenire (se fosse necessario).
+                li2: L'Amministratore di Sistema potrà associare il tipo di autenticazione in funzione al compito designato all'utente.
+                li3: La gerarchia di autentixcazione consente all'Aministratore di sistemna, di verificare la rispondenza con i compiti stabiliti.
+                li4: Tracciabilità degli Accessi e registrazione negli archivi Amministratore.
 
         box3:
             headline: Headline box3
