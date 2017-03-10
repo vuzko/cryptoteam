@@ -297,58 +297,39 @@ servizi:
 
 #PAGINA SERVIZI--->CLOUD (/servizi/cloud.html)
     cloud:
-        icona: Cloud in House
+        icona: Cloud in-House
         teaser: I tuoi dati sempre con te
-        titolo: Come funziona il cloud?
-        sottotitolo: Un modo sicuro per avere i tuoi dati sempre con te
+        titolo: La tua Piattaforma Cloud
+        sottotitolo:
         descrizione: Prova descrizione in cloud, prova, prova
 
         box1:
-            headline: Headline box1
-            teaser:  Teaser box1
-            description: Box1 - Descrizione. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero.
-            numbers: Box1 - Numbers. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero.
+            headline: Un modo sicuro per avere i tuoi dati sempre con te senza problemi di dipendenza.
+            teaser: Aperti e Produttivi
+            description: Cloud in-House ha la finalità di rendirti autonomo cioè non far dipendere i tuoi dati in modo decisivo dai fornitori di servizi Cloud e dalla loro infrastruttura tecnica precludendo la tua riservatezza.
+            numbers: Inoltre Cloud in-House ha l'obiettivo di garantirti gli stessi standard di condivisione e di sicurezza.
 
         box2:
-            headline: Headline box2
-            teaser: Teaser box2
+            headline: Cloud in-House integra la crittografia
+            teaser: Disk Encryption
             list:
-                li1: Box2 - Riga1. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero.
-                li2: Box2 - Riga2. Reprehenderit ipsum consequatur ab nihil sint quis. Similique quis voluptas voluptas hic. Aut nihil culpa saepe alias natus animi. Ea a sunt rerum ullam laudantium odio voluptatem.
-                li3: Box2 - Riga3. Labore dolorum rerum beatae dolores voluptatem consequuntur. Dolores ut enim et ea. Reprehenderit dolor blanditiis et. Corporis id consequatur dolorem necessitatibus voluptas. Et magnam sunt quo temporibus assumenda modi.
-                li4: Box2 - Riga4. Nihil adipisci ab sint a exercitationem. Magni id omnis fugit facere molestiae sed omnis dolorum. Sit ex praesentium magni voluptatibus. At autem nemo non est est minus. Laboriosam veritatis non odit autem laudantium corporis occaecati. Quo distinctio voluptatem facere recusandae quaerat voluptates.
+                li1: Per la sicurezza i dati salvati (su più HD), sono sempre cifrati sincronizzati e condivisi sistematicamente per la fruibilità degli utenti.
+                li2: L'accesso sicuro ai tuoi dati da remoto, può essere eseguito su qualunque piattafroma e in qualsiasi momento.
+                li3: Le chiavi a protezione dei dati sono (come minimo), da 2048 bit e da 4096 bit, Algoritmo SHA 256.
+                li4: Per maggiore sicurezza le chiavi possono essere protette da HSM (Hardware Security Modules).
 
         box3:
-            headline: Headline box3
-            teaser: Teaser box3
+            headline: Condivisione Dati Sicura
+            teaser: File Sharing
             list:
-                li1: Box3 - Riga1. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero.
-                li2: Box3 - Riga2. Reprehenderit ipsum consequatur ab nihil sint quis. Similique quis voluptas voluptas hic. Aut nihil culpa saepe alias natus animi. Ea a sunt rerum ullam laudantium odio voluptatem.
-                li3: Box3 - Riga3. Labore dolorum rerum beatae dolores voluptatem consequuntur. Dolores ut enim et ea. Reprehenderit dolor blanditiis et. Corporis id consequatur dolorem necessitatibus voluptas. Et magnam sunt quo temporibus assumenda modi.
-                li4: Box3 - Riga4. Nihil adipisci ab sint a exercitationem. Magni id omnis fugit facere molestiae sed omnis dolorum. Sit ex praesentium magni voluptatibus. At autem nemo non est est minus. Laboriosam veritatis non odit autem laudantium corporis occaecati. Quo distinctio voluptatem facere recusandae quaerat voluptates.
-                li5: Box3 - Riga5. Assumenda est et cupiditate inventore voluptatem sit quia. Dignissimos omnis praesentium harum recusandae. Delectus ducimus dignissimos eos rerum aliquam quia et.
-
-        box4:
-            headline: Headline box4
-            teaser: Teaser box4
-            list:
-                li1: Box4 - Riga1. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero.
-                li2: Box4 - Riga2. Reprehenderit ipsum consequatur ab nihil sint quis. Similique quis voluptas voluptas hic. Aut nihil culpa saepe alias natus animi. Ea a sunt rerum ullam laudantium odio voluptatem.
-
-        box5:
-            headline: Headline box5
-            teaser: Teaser box5
-            list:
-                li1: Box5 - Riga1. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero.
-                li2: Box5 - Riga2. Reprehenderit ipsum consequatur ab nihil sint quis. Similique quis voluptas voluptas hic. Aut nihil culpa saepe alias natus animi. Ea a sunt rerum ullam laudantium odio voluptatem.
-                li3: Box5 - Riga3. Labore dolorum rerum beatae dolores voluptatem consequuntur. Dolores ut enim et ea. Reprehenderit dolor blanditiis et. Corporis id consequatur dolorem necessitatibus voluptas. Et magnam sunt quo temporibus assumenda modi.
-
-        box6:
-            headline: Headline box6
-            teaser: Teaser box6
-            list:
-                li1: Box6 - Riga1. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero.
-                li2: Box6 - Riga2. Reprehenderit ipsum consequatur ab nihil sint quis. Similique quis voluptas voluptas hic. Aut nihil culpa saepe alias natus animi. Ea a sunt rerum ullam laudantium odio voluptatem.
+                li1: E' possibile condividere i dati sullo stesso server sia come utenti sigoli che come gruppi.
+                li2: Con pochi click è possibile creare collegamenti sicuri (pubblici), con utenti esterni al Cloud in- House e condividersi le cartelle di lavoro.
+                li3: Per maggiore produttività è possibile federare (Server to Server), i propri partner aziendali (es. partner commerciali clienti e fornitori e amministrativi come il Commercialista).
+                li4: E' possibile programmare la data di scadenza relativa alla condivisione e proteggere la cartella o file tramite password appunto temporanee.
+                li5: L'accesso ai dati può essere autorizzato volta per volta tramite Passowrd trasmesse via sms.
+                li6: E' possibile inoltrare automaticamente le notifiche via mail.
+                li7: Reportistica il ciclo di vita del file condiviso è tracciato cronologicamente, sono tracciate le modifiche, sono tracciati gli utenti.
+                li8: E' possibile configurare il criterio delle condivisioni e dettagliare le policy di sicurezza.
 
 ########################################################################
 
