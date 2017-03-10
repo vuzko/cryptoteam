@@ -297,17 +297,17 @@ servizi:
 
 #PAGINA SERVIZI--->CLOUD (/servizi/cloud.html)
     cloud:
-        icona: Cloud in House
+        icona: Cloud in-House
         teaser: I tuoi dati sempre con te
         titolo: Come funziona il cloud?
-        sottotitolo: Un modo sicuro per avere i tuoi dati sempre con te
+        sottotitolo:
         descrizione: Prova descrizione in cloud, prova, prova
 
         box1:
-            headline: Headline box1
-            teaser:  Teaser box1
-            description: Box1 - Descrizione. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero.
-            numbers: Box1 - Numbers. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero.
+            headline: Un modo sicuro per avere i tuoi dati sempre con te senza problemi di dipendenza.
+            teaser:
+            description: Cloud in-House ha la finalità di rendirti autonomo cioè non far dipendere il tuo lavoro in modo decisivo dai fornitori di servizi Cloud e dalla loro infrastruttura tecnica.
+            numbers: Inoltre Cloud in-House ha l'obiettivo di garantirti gli stessi standrd di condivisione e di sicurezza.
 
         box2:
             headline: Headline box2
