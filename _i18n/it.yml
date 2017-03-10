@@ -307,17 +307,16 @@ servizi:
             headline: Un modo sicuro per avere i tuoi dati sempre con te senza problemi di dipendenza.
             teaser:
             description: Cloud in-House ha la finalità di rendirti autonomo cioè non far dipendere il tuo lavoro in modo decisivo dai fornitori di servizi Cloud e dalla loro infrastruttura tecnica.
-            numbers: Inoltre Cloud in-House ha l'obiettivo di garantirti gli stessi standrd di condivisione e di sicurezza.
+            numbers: Inoltre Cloud in-House ha l'obiettivo di garantirti gli stessi standard di condivisione e di sicurezza.
 
         box2:
-            headline: Cloud in-House e la crittografia integrata
+            headline: Cloud in-House integra la crittografia
             teaser:
             list:
-                li1: Per sicurezza i dati salvati sono sempre cifrati e sistematicaticamente sincronizzati e condivisi a disposizione degli utenti.
-                li2: Box2 - Riga2. Reprehenderit ipsum consequatur ab nihil sint quis. Similique quis voluptas voluptas hic. Aut nihil culpa saepe alias natus animi. Ea a sunt rerum ullam laudantium odio voluptatem.
-                li3: Box2 - Riga3. Labore dolorum rerum beatae dolores voluptatem consequuntur. Dolores ut enim et ea. Reprehenderit dolor blanditiis et. Corporis id consequatur dolorem necessitatibus voluptas. Et magnam sunt quo temporibus assumenda modi.
-                li4: Box2 - Riga4. Nihil adipisci ab sint a exercitationem. Magni id omnis fugit facere molestiae sed omnis dolorum. Sit ex praesentium magni voluptatibus. At autem nemo non est est minus. Laboriosam veritatis non odit autem laudantium corporis occaecati. Quo distinctio voluptatem facere recusandae quaerat voluptates.
-
+                li1: Per sicurezza i dati salvati sono sempre cifrati e sistematicaticamente sincronizzati e condivisi per la fruibilità degli utenti.
+                li2: L'accesso sicuto ai tuoi dati da remoto può essere esguito su qualunque piattafroma e in qualsiasi momento.
+                li3: Le chiavi a protezione dei dati sono almento da 2048 bit (il ns. std è 4096 bit), Algoritmo SHA 256.  
+                li4: Box2 -
         box3:
             headline: Headline box3
             teaser: Teaser box3
