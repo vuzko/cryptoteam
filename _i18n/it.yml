@@ -306,7 +306,7 @@ servizi:
         box1:
             headline: Un modo sicuro per avere i tuoi dati sempre con te senza problemi di dipendenza.
             teaser:
-            description: Cloud in-House ha la finalità di rendirti autonomo cioè non far dipendere il tuo lavoro in modo decisivo dai fornitori di servizi Cloud e dalla loro infrastruttura tecnica.
+            description: Cloud in-House ha la finalità di rendirti autonomo cioè non far dipendere il tuo lavoro in modo decisivo dai fornitori di servizi Cloud e dalla loro infrastruttura tecnica precludendo la tua riservatezza.
             numbers: Inoltre Cloud in-House ha l'obiettivo di garantirti gli stessi standard di condivisione e di sicurezza.
 
         box2:
@@ -315,7 +315,7 @@ servizi:
             list:
                 li1: Per sicurezza i dati salvati sono sempre cifrati e sistematicaticamente sincronizzati e condivisi per la fruibilità degli utenti.
                 li2: L'accesso sicuto ai tuoi dati da remoto può essere esguito su qualunque piattafroma e in qualsiasi momento.
-                li3: Le chiavi a protezione dei dati sono almento da 2048 bit (il ns. std è 4096 bit), Algoritmo SHA 256.  
+                li3: Le chiavi a protezione dei dati sono almento da 2048 bit (il ns. std è 4096 bit), Algoritmo SHA 256.
                 li4: Box2 -
         box3:
             headline: Headline box3
