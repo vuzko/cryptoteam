@@ -313,19 +313,19 @@ servizi:
             headline: Cloud in-House integra la crittografia
             teaser:
             list:
-                li1: Per sicurezza i dati salvati sono sempre cifrati e sistematicaticamente sincronizzati, condivisi, per la fruibilità degli utenti.
-                li2: L'accesso sicuto ai tuoi dati da remoto può essere esguito su qualunque piattafroma e in qualsiasi momento.
-                li3: Le chiavi a protezione dei dati sono almento da 2048 bit (il ns. std è 4096 bit), Algoritmo SHA 256.
-                li4: Box2 -
+                li1: Per la sicurezza i dati salvati sono sempre cifrati (su più HD), sistematicaticamente sincronizzati e condivisi per la fruibilità degli utenti.
+                li2: L'accesso sicuro ai tuoi dati da remoto può essere esguito su qualunque piattafroma e in qualsiasi momento.
+                li3: Le chiavi a protezione dei dati sono da 2048 bit e da 4096 bit, Algoritmo SHA 256.
+                li4: Per maggiore sicurezza le chiavi possono essere protette da HSM (Hardware Security Modules).
         box3:
-            headline: Headline box3
+            headline: COndivisione
             teaser: Teaser box3
             list:
-                li1: Box3 - Riga1. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero.
-                li2: Box3 - Riga2. Reprehenderit ipsum consequatur ab nihil sint quis. Similique quis voluptas voluptas hic. Aut nihil culpa saepe alias natus animi. Ea a sunt rerum ullam laudantium odio voluptatem.
-                li3: Box3 - Riga3. Labore dolorum rerum beatae dolores voluptatem consequuntur. Dolores ut enim et ea. Reprehenderit dolor blanditiis et. Corporis id consequatur dolorem necessitatibus voluptas. Et magnam sunt quo temporibus assumenda modi.
-                li4: Box3 - Riga4. Nihil adipisci ab sint a exercitationem. Magni id omnis fugit facere molestiae sed omnis dolorum. Sit ex praesentium magni voluptatibus. At autem nemo non est est minus. Laboriosam veritatis non odit autem laudantium corporis occaecati. Quo distinctio voluptatem facere recusandae quaerat voluptates.
-                li5: Box3 - Riga5. Assumenda est et cupiditate inventore voluptatem sit quia. Dignissimos omnis praesentium harum recusandae. Delectus ducimus dignissimos eos rerum aliquam quia et.
+                li1: E' possibile condividere i dati sullo stesso server sia come utenti sigoli che come gruppi.
+                li2: Con pochi click è possibile creare collegamenti pubblici sicuri e condividersi le cartelle di lavoro.
+                li3: Per maggiore produttività è possibile federare - Server to Server - i propri partner aziendali (es. commerciali clienti e fornitori e amministrativi es. Commercialista).
+                li4: E' possibile programmare la data di scadenza relativa alla condivisione.
+                li5: E' possibile inoltrare automaticamente le notifiche via mail.
 
         box4:
             headline: Headline box4
