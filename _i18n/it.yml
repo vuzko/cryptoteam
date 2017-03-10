@@ -293,6 +293,31 @@ servizi:
                 li5: Tracciabilità degli Accessi e registrazione negli archivi amministratore.
                 li6: E' possibile richiedere il supporto per un servizio personalizzato.
 
+########################################################################
+
+#PAGINA SERVIZI--->CLOUD (/servizi/cloud.html)
+    cloud:
+        icona: Cloud in House
+        teaser: I tuoi dati sempre con te
+        titolo: Come funziona il cloud?
+        sottotitolo: Un modo sicuro per avere i tuoi dati sempre con te
+        descrizione: Prova descrizione in cloud, prova, prova
+
+        box1:
+            headline: Headline box1
+            teaser:  Teaser box1
+            description: Box1 - Descrizione. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero.
+            numbers: Box1 - Numbers. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero.
+
+        box2:
+            headline: Headline box2
+            teaser: Teaser box2
+            list:
+                li1: Box2 - Riga1. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero.
+                li2: Box2 - Riga2. Reprehenderit ipsum consequatur ab nihil sint quis. Similique quis voluptas voluptas hic. Aut nihil culpa saepe alias natus animi. Ea a sunt rerum ullam laudantium odio voluptatem.
+                li3: Box2 - Riga3. Labore dolorum rerum beatae dolores voluptatem consequuntur. Dolores ut enim et ea. Reprehenderit dolor blanditiis et. Corporis id consequatur dolorem necessitatibus voluptas. Et magnam sunt quo temporibus assumenda modi.
+                li4: Box2 - Riga4. Nihil adipisci ab sint a exercitationem. Magni id omnis fugit facere molestiae sed omnis dolorum. Sit ex praesentium magni voluptatibus. At autem nemo non est est minus. Laboriosam veritatis non odit autem laudantium corporis occaecati. Quo distinctio voluptatem facere recusandae quaerat voluptates.
+
         box3:
             headline: Headline box3
             teaser: Teaser box3
@@ -325,15 +350,6 @@ servizi:
                 li1: Box6 - Riga1. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero.
                 li2: Box6 - Riga2. Reprehenderit ipsum consequatur ab nihil sint quis. Similique quis voluptas voluptas hic. Aut nihil culpa saepe alias natus animi. Ea a sunt rerum ullam laudantium odio voluptatem.
 
-########################################################################
-
-#PAGINA SERVIZI--->CLOUD (/servizi/cloud.html)
-    cloud:
-        icona: Cloud in House
-        teaser: I tuoi dati sempre con te
-        titolo: Come funziona il cloud?
-        sottotitolo: Un modo sicuro per avere i tuoi dati sempre con te
-        descrizione: Prova descrizione in cloud, prova, prova
 ########################################################################
 
 #PAGINA SERVIZI--->VOIP (/servizi/voip.html)
