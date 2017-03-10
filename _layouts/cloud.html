@@ -7,26 +7,29 @@
 
         {% include top-scroller.html %}
 
-				<div id="navigation" class="navbar-fixed-top">
-					<div class="container">
-						{% include navigation.html isMainNavigation=true %}
-					</div>
-				</div>
+		<div id="navigation" class="navbar-fixed-top">
+			<div class="container">
+				{% include navigation.html isMainNavigation=true %}
+			</div>
+		</div>
 
-				<div id="sub-navigation">
-					<div class="container">
-		                {% include navigation.html isMainNavigation=false %}
-		      </div>
-		    </div>
+		<div id="sub-navigation">
+			<div class="container">
+        {% include navigation.html isMainNavigation=false %}
+      </div>
+    </div>
 
-				<div id="main">
-					{{ content }}
-				</div>
+    <header id="teaser" class="hidden-xs">
+		</header>
 
-				<footer>
-					{% include footer.html %}
-				</footer>
+		<div id="main">
+			{{ content }}
+		</div>
 
-		    {% include tracking.html %}
-	</body>
+		<footer>
+			{% include footer.html %}
+		</footer>
+
+      {% include tracking.html %}
+  </body>
 </html>
