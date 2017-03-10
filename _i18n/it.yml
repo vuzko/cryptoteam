@@ -314,18 +314,19 @@ servizi:
             teaser:
             list:
                 li1: Per la sicurezza i dati salvati sono sempre cifrati (su più HD), sistematicaticamente sincronizzati e condivisi per la fruibilità degli utenti.
-                li2: L'accesso sicuro ai tuoi dati da remoto può essere eseguito su qualunque piattafroma e in qualsiasi momento.
+                li2: L'accesso sicuro ai tuoi dati da remoto, può essere eseguito su qualunque piattafroma e in qualsiasi momento.
                 li3: Le chiavi a protezione dei dati sono (come minimo), da 2048 bit e da 4096 bit, Algoritmo SHA 256.
                 li4: Per maggiore sicurezza le chiavi possono essere protette da HSM (Hardware Security Modules).
         box3:
             headline: Condivisione
-            teaser: Teaser box3
+            teaser:
             list:
                 li1: E' possibile condividere i dati sullo stesso server sia come utenti sigoli che come gruppi.
                 li2: Con pochi click è possibile creare collegamenti pubblici sicuri e condividersi le cartelle di lavoro.
                 li3: Per maggiore produttività è possibile federare (Server to Server), i propri partner aziendali (es. commerciali clienti e fornitori e amministrativi es. Commercialista).
-                li4: E' possibile programmare la data di scadenza relativa alla condivisione.
+                li4: E' possibile programmare la data di scadenza relativa alla condivisione e proteggere la cartella o file tramite password appunto temporanee.
                 li5: E' possibile inoltrare automaticamente le notifiche via mail.
+
 
         box4:
             headline: Headline box4
