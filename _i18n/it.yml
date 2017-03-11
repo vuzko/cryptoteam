@@ -372,6 +372,66 @@ servizi:
         titolo: Ti aiutiamo a realizzare i tuoi progetti
         sottotitolo: Un modo sicuro per avere i tuoi dati sempre con te
         descrizione: Prova descrizione in Progetti, prova, prova
+
+        box1:
+            headline: Box1 - Headline
+            teaser:  Box1 - Teaser
+            description: Box1 - Descrizione
+            numbers:
+
+        box2:
+            headline: Box2 - Headline
+            teaser: Box2 - Teaser
+            list:
+                li1: Box2 - Riga1
+                li2: Box2 - Riga2
+                li3: Box2 - Riga3
+                li4: Box2 - Riga4
+
+        box3:
+            headline: Box3 - Headline
+            teaser: Box3 - Teaser
+            list:
+                li1: Box3 - Riga1
+                li2: Box3 - Riga2
+                li3: Box3 - Riga3
+                li4: Box3 - Riga4
+
+        box4:
+            headline: Box4 - Headline
+            teaser: Box4 - Teaser
+            list:
+                li1: Box4 - Riga1
+                li2: Box4 - Riga2
+                li3: Box4 - Riga3
+                li4: Box4 - Riga4
+
+        box5:
+            headline: Box5 - Headline
+            teaser: Box5 - Teaser
+            list:
+                li1: Box5 - Riga1
+                li2: Box5 - Riga2
+                li3: Box5 - Riga3
+                li4: Box5 - Riga4
+
+        box6:
+            headline: Box6 - Headline
+            teaser: Box6 - Teaser
+            list:
+                li1: Box6 - Riga1
+                li2: Box6 - Riga2
+                li3: Box6 - Riga3
+                li4: Box6 - Riga4
+
+        box7:
+            headline: Box7 - Headline
+            teaser: Box7 - Teaser
+            list:
+                li1: Box7 - Riga1
+                li2: Box7 - Riga2
+                li3: Box7 - Riga3
+                li4: Box7 - Riga4
 ########################################################################
 
 
