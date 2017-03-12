@@ -369,24 +369,33 @@ servizi:
     progetti:
         icona: Progetti personalizzati
         teaser: I tuoi dati sempre con te
-        titolo: Ti aiutiamo a realizzare i tuoi progetti
-        sottotitolo: Un modo sicuro per avere i tuoi dati sempre con te
+        titolo: Ti aiutiamo a realizzare la tuo Progetto Privacy
+        sottotitolo: Siamo al tuo fianco
         descrizione: Prova descrizione in Progetti, prova, prova
 
         box1:
-            headline: Box1 - Headline
-            teaser:  Box1 - Teaser
-            description: Box1 - Descrizione
+            headline: Linea Guida
+            teaser:
+            description: Lavorare insieme significa stabilire e costruire un team che si misura per il raggiungimento di obiettivi comuni rivolti alla soddistazione di tutti.
             numbers:
 
         box2:
-            headline: Box2 - Headline Modificata su Ubuntu
-            teaser: Box2 - Teaser modificato su Ubuntu da Andrea
+            headline: Analisi Progetto
+            teaser: Come intendiamo Operare
             list:
-                li1: Box2 - Riga1
-                li2: Box2 - Riga2
-                li3: Box2 - Riga3
-                li4: Box2 - Riga4
+                li1: Cerchiamo di capire analaliticamente le richieste.
+                li2: Verifichiamo le risorse tecniche esistenti.
+                li3: Compariamo i requisiti tecnici esistenti con i requisiti necessari.
+                li4: Consideriamo la fattibilità tecnica in correlazione al badget di investimento.
+                li5: Verifichiamo la conformità agli standard.
+                li6: Eventuali funzionalità aggiuntive.
+                li7: Valutiamo i rischi prima di una qualsiasi azione.
+                li8: Cerchiamo di elaborare le migliori soluzioni.
+                li9: Tempi di consegna.
+                li10: Individuiamo il personale o il gruppo di lavoro più idoneo.
+                li11: Cerchiamo di ottenere supporto tecnico da parte cliente.
+                li12: Approvazione dell'investimento.
+                li13: Mandato e obbietivi stabili.
 
         box3:
             headline: Box3 - Headline
