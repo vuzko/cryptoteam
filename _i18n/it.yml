@@ -380,8 +380,8 @@ servizi:
             numbers:
 
         box2:
-            headline: Box2 - Headline
-            teaser: Box2 - Teaser
+            headline: Box2 - Headline Modificata su Ubuntu
+            teaser: Box2 - Teaser modificato su Ubuntu
             list:
                 li1: Box2 - Riga1
                 li2: Box2 - Riga2
