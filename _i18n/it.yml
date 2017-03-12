@@ -369,9 +369,69 @@ servizi:
     progetti:
         icona: Progetti personalizzati
         teaser: I tuoi dati sempre con te
-        titolo: Linea Guida Progetti
-        sottotitolo: Lavoriamo Insieme Condividiamo Obiettivi e Soddisfazioni
+        titolo: Ti aiutiamo a realizzare i tuoi progetti
+        sottotitolo: Un modo sicuro per avere i tuoi dati sempre con te
         descrizione: Prova descrizione in Progetti, prova, prova
+
+        box1:
+            headline: Box1 - Headline
+            teaser:  Box1 - Teaser
+            description: Box1 - Descrizione
+            numbers:
+
+        box2:
+            headline: Box2 - Headline
+            teaser: Box2 - Teaser
+            list:
+                li1: Box2 - Riga1
+                li2: Box2 - Riga2
+                li3: Box2 - Riga3
+                li4: Box2 - Riga4
+
+        box3:
+            headline: Box3 - Headline
+            teaser: Box3 - Teaser
+            list:
+                li1: Box3 - Riga1
+                li2: Box3 - Riga2
+                li3: Box3 - Riga3
+                li4: Box3 - Riga4
+
+        box4:
+            headline: Box4 - Headline
+            teaser: Box4 - Teaser
+            list:
+                li1: Box4 - Riga1
+                li2: Box4 - Riga2
+                li3: Box4 - Riga3
+                li4: Box4 - Riga4
+
+        box5:
+            headline: Box5 - Headline
+            teaser: Box5 - Teaser
+            list:
+                li1: Box5 - Riga1
+                li2: Box5 - Riga2
+                li3: Box5 - Riga3
+                li4: Box5 - Riga4
+
+        box6:
+            headline: Box6 - Headline
+            teaser: Box6 - Teaser
+            list:
+                li1: Box6 - Riga1
+                li2: Box6 - Riga2
+                li3: Box6 - Riga3
+                li4: Box6 - Riga4
+
+        box7:
+            headline: Box7 - Headline
+            teaser: Box7 - Teaser
+            list:
+                li1: Box7 - Riga1
+                li2: Box7 - Riga2
+                li3: Box7 - Riga3
+                li4: Box7 - Riga4
 ########################################################################
 
 
@@ -420,7 +480,7 @@ services:
 
 ##################################
     dw:
-        teaser: "11 Years of Quality Assurance Support for Demandware"
+        teaser: "Linea Guida Progetti"
         title: Xceptance – Demandware Partner
         description: We are Demandware partner
 
@@ -434,8 +494,8 @@ services:
                 value: "10 (in 2014)"
 
         intro:
-            headline: Partnering For Success
-            teaser: We have been providing quality assurance services for both Demandware and its clients since 2005, shortly after Demandware was founded. Take advantage of our extensive first-hand knowledge of the Demandware platform.
+            headline: Lavorare Insieme
+            teaser: Lavorare insieme significa stabilire e costrire un Team che si misura per il raggiungimento di obiettivi comuni rivolti alla soddisfazione di tutti.
         history:
             headline: We know Demandware
             teaser: Rely on the partner who knows best how to test a Demandware site. We offer a wide range of QA services tailored to fit Demandware-based implementations.
