@@ -383,7 +383,7 @@ servizi:
             headline: Analisi Progetto
             teaser: Descrizione Attività Fornite
             list:
-                li1: Analisi preliminare Cerchiamo di capire analaliticamente le richieste.
+                li1: Analisi preliminare cerchiamo di capire analaliticamente le richieste.
                 li2: Verifichiamo le risorse tecniche esistenti.
                 li3: Compariamo i requisiti tecnici esistenti con i requisiti necessari.
                 li4: Consideriamo la fattibilità tecnica in correlazione al badget di investimento.
@@ -444,8 +444,21 @@ servizi:
                 li2: Box7 - Riga2
                 li3: Box7 - Riga3
                 li4: Box7 - Riga4
-########################################################################
+###########################################################################
 
+
+
+
+
+
+
+
+# *************************************************************************
+# ATTENZIONE! Le definifizioni che seguono sono relative al sito originario
+# NON MODIFICARE OLTRE QUESTA RIGA!!!!
+# *************************************************************************
+
+###########################################################################
 
 
 # Servizi (VECCHIE definizioni)
