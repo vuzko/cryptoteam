@@ -375,36 +375,39 @@ servizi:
 
         box1:
             headline: Linea Guida
-            teaser:
+            teaser: Descrizione delle Attività
             description: Lavorare insieme significa stabilire e costruire un team che si misura per il raggiungimento di obiettivi comuni rivolti alla soddistazione di tutti.
             numbers:
 
         box2:
             headline: Analisi Progetto
-            teaser: Come intendiamo Operare
+            teaser: Descrizione Attività Fornite
             list:
-                li1: Cerchiamo di capire analaliticamente le richieste.
+                li1: Analisi preliminare Cerchiamo di capire analaliticamente le richieste.
                 li2: Verifichiamo le risorse tecniche esistenti.
                 li3: Compariamo i requisiti tecnici esistenti con i requisiti necessari.
                 li4: Consideriamo la fattibilità tecnica in correlazione al badget di investimento.
                 li5: Verifichiamo la conformità agli standard.
                 li6: Eventuali funzionalità aggiuntive.
                 li7: Valutiamo i rischi prima di una qualsiasi azione.
-                li8: Cerchiamo di elaborare le migliori soluzioni.
+                li8: Consulenza nella scelta cerchiamo di consigliare le migliori soluzioni elaborate.
                 li9: Tempi di consegna.
                 li10: Rileviamo il personale o il gruppo di lavoro più idoneo.
                 li11: Cerchiamo di ottenere supporto tecnico da parte cliente.
                 li12: Approvazione dell'investimento.
                 li13: Mandato e obbietivi stabili.
+                li14: Scaletta lavori condivisa più spunta dei lavori conseguiti volta per volta.
+                li15: Collaudo e Formazione.
 
         box3:
-            headline: Box3 - Headline
-            teaser: Box3 - Teaser
+            headline: Risore a Carico Cliente
+            teaser: Costi da concordare
             list:
-                li1: Box3 - Riga1
-                li2: Box3 - Riga2
-                li3: Box3 - Riga3
-                li4: Box3 - Riga4
+                li1: Costi Licenza.
+                li2: Eventuali Hosting e Outsourcing
+                li3: Inserimento prodotti e servizi aggiuntivi.
+                li4: Creazione testi più eventuali traduzioni.
+                li5: Tempo necessario per riunioni e gestione progetti.
 
         box4:
             headline: Box4 - Headline
