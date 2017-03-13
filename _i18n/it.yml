@@ -580,7 +580,7 @@ company:
     description: All about us.
 
     intro:
-        headline: About Us
+        headline: Chi siamo
         description: "We are dedicated experts for software testing: together we comprise more than 200 years of software testing experience and we absolutely love what we do."
 
     facts:
