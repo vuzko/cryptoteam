@@ -580,8 +580,8 @@ company:
     description: All about us.
 
     intro:
-        headline: Chi siamo
-        description: "We are dedicated experts for software testing: together we comprise more than 200 years of software testing experience and we absolutely love what we do."
+        headline: Storia
+        description: "Si tratta di 2 soci che ininterrotamente hanno operato nel settore ITC da oltre 20 anni, prima come colleghi in una grande SPA informatica, poi come soci per altro decennio."
 
     facts:
         headline: Quick Facts
