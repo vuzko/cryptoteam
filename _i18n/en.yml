@@ -299,36 +299,40 @@ servizi:
 
 #PAGINA SERVIZI--->CLOUD (/servizi/cloud.html)
     cloud:
-        icona: Cloud in House
+        icona: Cloud in-House
         teaser: I tuoi dati sempre con te
-        titolo: Come funziona il cloud?
-        sottotitolo: Un modo sicuro per avere i tuoi dati sempre con te
+        titolo: La tua Piattaforma Cloud
+        sottotitolo:
         descrizione: Prova descrizione in cloud, prova, prova
 
         box1:
-            headline: Headline box1
-            teaser:  Teaser box1
-            description: Box1 - Descrizione. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero.
-            numbers: Box1 - Numbers. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero.
+            headline: Un modo sicuro per avere i tuoi dati sempre con te senza problemi di dipendenza.
+            teaser: Aperti e Produttivi
+            description: Cloud in-House ha la finalità di rendirti autonomo cioè non far dipendere i tuoi dati in modo decisivo dai fornitori di servizi Cloud e dalla loro infrastruttura tecnica precludendo la tua riservatezza.
+            numbers: Inoltre Cloud in-House ha l'obiettivo di garantirti gli stessi standard di condivisione e di sicurezza.
 
         box2:
-            headline: Headline box2
-            teaser: Teaser box2
+            headline: Cloud in-House integra la crittografia
+            teaser: Disk Encryption
             list:
-                li1: Box2 - Riga1. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero.
-                li2: Box2 - Riga2. Reprehenderit ipsum consequatur ab nihil sint quis. Similique quis voluptas voluptas hic. Aut nihil culpa saepe alias natus animi. Ea a sunt rerum ullam laudantium odio voluptatem.
-                li3: Box2 - Riga3. Labore dolorum rerum beatae dolores voluptatem consequuntur. Dolores ut enim et ea. Reprehenderit dolor blanditiis et. Corporis id consequatur dolorem necessitatibus voluptas. Et magnam sunt quo temporibus assumenda modi.
-                li4: Box2 - Riga4. Nihil adipisci ab sint a exercitationem. Magni id omnis fugit facere molestiae sed omnis dolorum. Sit ex praesentium magni voluptatibus. At autem nemo non est est minus. Laboriosam veritatis non odit autem laudantium corporis occaecati. Quo distinctio voluptatem facere recusandae quaerat voluptates.
+                li1: I protocolli di sicurezza prevedono che i dati salvati (su più HD), sono sempre cifrati sincronizzati e condivisi sistematicamente, per la fruibilità degli utenti.
+                li2: L'accesso sicuro ai tuoi dati da remoto, può essere eseguito su qualunque piattafroma e in qualsiasi momento.
+                li3: Le chiavi a protezione dei dati sono (almeno), da 2048 bit e da 4096 bit, Algoritmo SHA 256.
+                li4: Per maggiore sicurezza le chiavi possono essere protette da HSM (Hardware Security Modules).
 
         box3:
-            headline: Headline box3
-            teaser: Teaser box3
+            headline: Condivisione Dati Sicura
+            teaser: File Sharing
             list:
-                li1: Box3 - Riga1. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero.
-                li2: Box3 - Riga2. Reprehenderit ipsum consequatur ab nihil sint quis. Similique quis voluptas voluptas hic. Aut nihil culpa saepe alias natus animi. Ea a sunt rerum ullam laudantium odio voluptatem.
-                li3: Box3 - Riga3. Labore dolorum rerum beatae dolores voluptatem consequuntur. Dolores ut enim et ea. Reprehenderit dolor blanditiis et. Corporis id consequatur dolorem necessitatibus voluptas. Et magnam sunt quo temporibus assumenda modi.
-                li4: Box3 - Riga4. Nihil adipisci ab sint a exercitationem. Magni id omnis fugit facere molestiae sed omnis dolorum. Sit ex praesentium magni voluptatibus. At autem nemo non est est minus. Laboriosam veritatis non odit autem laudantium corporis occaecati. Quo distinctio voluptatem facere recusandae quaerat voluptates.
-                li5: Box3 - Riga5. Assumenda est et cupiditate inventore voluptatem sit quia. Dignissimos omnis praesentium harum recusandae. Delectus ducimus dignissimos eos rerum aliquam quia et.
+                li1: E' possibile condividere i dati sullo stesso server sia come utenti sigoli che come gruppi.
+                li2: Con pochi click è possibile creare collegamenti sicuri (pubblici), con utenti esterni al Cloud in- House e condividersi le cartelle di lavoro.
+                li3: Per maggiore produttività è possibile federare (Server to Server), i propri partner aziendali (es. partner commerciali clienti e fornitori e amministrativi come il Commercialista).
+                li4: E' possibile programmare la data di scadenza relativa alla condivisione e proteggere la cartella o file tramite password appunto temporanee.
+                li5: L'accesso ai dati può essere autorizzato volta per volta tramite passowrd trasmesse via sms.
+                li6: E' possibile inoltrare automaticamente le notifiche via mail.
+                li7: Reportistica, il ciclo di vita del file condiviso è tracciato cronologicamente, sono tracciate le modifiche, sono tracciati gli utenti.
+                li8: E' possibile configurare il criterio delle condivisioni e dettagliare le policy di sicurezza.
+
 
         box4:
             headline: Headline box4
@@ -361,142 +365,123 @@ servizi:
         titolo: Come funziona il VoIP?
         sottotitolo: Un modo sicuro per avere i tuoi dati sempre con te
         descrizione: Prova descrizione in VoIP, prova, prova
-
-        carousel:
-            intro: "One Tool for<br/>Test Automation and Performance Testing"
-            license:
-                headline: Always Free for Functional Testing.<br/>Always Free Updates.
-                btn: Pricing &amp; Licensing
-            webdriver: Know WebDriver and Selenium already?<br/>You’re good to go.
-            report:
-                headline: Awesome Reporting. Instant, Rich, Comprehensive, Customizable.
-                btn: Browse Reports
-        intro:
-            headline: Xceptance LoadTest
-            details: The Test Automation and Load Test Tool for Software Development
-
-        box-sx:
-            headline: Box a sinistra
-            lead: "Familiar with Selenium? You will love functional testing with XLT! We extended the concept with test data management, modules, variables, and macro functionality."
-            text1: Choose your preferred way of writing tests. You can utilize our Script Developer UI or code all your tests in Java using the familiar WebDriver syntax. Of course, XLT also works perfectly with all <a href="http://docs.seleniumhq.org/projects/webdriver/">WebDrivers</a>, with <a href="http://www.browserstack.com/">BrowserStack</a>, and <a href="https://saucelabs.com/">Sauce Labs</a>.
-            features:
-                headline: What XLT Brings to the Table
-                details: "<li><strong>Script Developer</strong> as a small but flexible IDE that lets you script right in Firefox</li>
-                        <li><strong>Modules</strong> to achieve great reusability</li>
-                        <li><strong>Parameters</strong> to pass data to modules</li>
-                        <li><strong>Variables</strong> to deal with flexible test data as well as random data</li>
-                        <li><strong>Macros</strong> to generate data dynamically</li>
-                        <li><strong>Test documentation</strong> is maintained together with the scripts</li>
-                        <li>An <strong>open file format</strong> to avoid exporting to Java if not necessary</li>
-                        <li><strong>Test data sets</strong> to run</li>
-                        <li><strong>No-programming configuration</strong> of WebDrivers to simplify development</li>"
-            text2: XLT is always free for functional testing. And that includes all updates.
-
-        box-dx:
-            headline: Box a destra
-            lead: Performance is key for web applications, so you need a tool that realistically tests performance. You want to compare test runs, have instant, meaningful reports and access to raw data for even more analysis? That is XLT!
-            text1: "<p>
-                    XLT offers flexible and realistic testing of a web application's performance under load. Several different ways of composing tests allow you to choose the best way to complete a given task. 'Record &amp; Replay' mainly suits simple scenarios and basic URLs. But the power comes with Java as the scripting language, because it lets you write realistic, flexible, and data-independent scenarios.
-                   </p>
-
-                    <p>
-                        You can deploy XLT to any number of machines, with any number of test scenarios, and any number of load profile setups. The rich reports with the opportunity to time-slice them and to group requests will highlight problems in an instant.
-                    </p>
-                    <p>
-                        The result browser provides instant feedback on the test scenario while designing it. When load testing, the result browser will give you the information you need to diagnose a problem in detail.
-                    </p>"
-
-            features:
-                headline: Features and Functionality in a Nutshell
-                details: <li><strong>Realistic load profiles</strong>, like arrival rate and user rate. Combinable with ramp-up time and initial delays</li>
-                        <li><strong>Different test approaches</strong>, such as URL-based or DOM-based</li>
-                        <li><strong>Java</strong> as scripting language, if scripting is needed</li>
-                        <li><strong>Comprehensive reports</strong> out of the box. These also let you compare test runs and report trends. Configurable in content and layout</li>
-                        <li><strong>Realtime reporting</strong> using Graphite and Grafana</li>
-                        <li><strong>As many</strong> scenarios, users, and load test machines <strong>as you like</strong></li>
-                        <li>Support for <strong>SLA</strong> definitions</li>
-                        <li><strong>Test offline</strong>. Start the test and decouple the controller.</li>
-                        <li><strong>Open data formats</strong> for report and result data</li>
-                        <li><strong>Result browser</strong> shows detailed test behavior during design time and supports error diagnosis during test time</li>
-                        <li><strong>On-failure reporting</strong> captures all available data for a post-mortem analysis.</li>
-                        <li>Get <strong>full reports</strong> at any time during test execution.</li>
-                        <li><strong>External data</strong> can be captured and added to the reports.</li>
-
-            text2: Updates are always free and we do not charge for seats. You just pay for the users you need.
 ########################################################################
 
 #PAGINA SERVIZI--->PROGETTI (/servizi/progetti.html)
     progetti:
         icona: Progetti personalizzati
         teaser: I tuoi dati sempre con te
-        titolo: Ti aiutiamo a realizzare i tuoi progetti
-        sottotitolo: Un modo sicuro per avere i tuoi dati sempre con te
+        titolo: Ti aiutiamo a realizzare la tuo Progetto Privacy
+        sottotitolo: Siamo al tuo fianco
         descrizione: Prova descrizione in Progetti, prova, prova
 
         box1:
-            headline: Box1 - Headline
-            teaser:  Box1 - Teaser
-            description: Box1 - Descrizione
+            headline: Linea Guida
+            teaser: Descrizione delle Attività
+            description: Lavorare insieme significa stabilire e costruire un team che si misura per il raggiungimento di obiettivi comuni rivolti alla soddistazione di tutti.
             numbers:
 
         box2:
-            headline: Box2 - Headline
-            teaser: Box2 - Teaser
+            headline: Analisi Progetto
+            teaser: Descrizione Attività Fornite
             list:
-                li1: Box2 - Riga1
-                li2: Box2 - Riga2
-                li3: Box2 - Riga3
-                li4: Box2 - Riga4
+                li1: Analisi preliminare cerchiamo di capire analaliticamente le richieste.
+                li2: Verifichiamo le risorse tecniche esistenti.
+                li3: Compariamo i requisiti tecnici esistenti con i requisiti necessari.
+                li4: Consideriamo la fattibilità tecnica in correlazione al badget di investimento.
+                li5: Verifichiamo la conformità agli standard.
+                li6: Eventuali funzionalità aggiuntive.
+                li7: Valutiamo i rischi prima di una qualsiasi azione.
+                li8: Offriamo consulenza nella scelta consigliando le migliori soluzioni elaborate.
+                li9: Tempi di consegna.
+                li10: Individuiamo il personale o il gruppo di lavoro più idoneo.
+                li11: Cerchiamo di ottenere supporto tecnico da parte cliente.
+                li12: Approvazione dell'investimento.
+                li13: Mandato e obbietivi stabili.
+                li14: Scaletta lavori condivisa più spunta dei lavori conseguiti volta per volta.
+                li15: Collaudo e Formazione.
 
         box3:
-            headline: Box3 - Headline
-            teaser: Box3 - Teaser
+            headline: Risore a Carico Cliente
+            teaser: Costi da concordare
             list:
-                li1: Box3 - Riga1
-                li2: Box3 - Riga2
-                li3: Box3 - Riga3
-                li4: Box3 - Riga4
-
-        box4:
-            headline: Box4 - Headline
-            teaser: Box4 - Teaser
-            list:
-                li1: Box4 - Riga1
-                li2: Box4 - Riga2
-                li3: Box4 - Riga3
-                li4: Box4 - Riga4
-
-        box5:
-            headline: Box5 - Headline
-            teaser: Box5 - Teaser
-            list:
-                li1: Box5 - Riga1
-                li2: Box5 - Riga2
-                li3: Box5 - Riga3
-                li4: Box5 - Riga4
-
-        box6:
-            headline: Box6 - Headline
-            teaser: Box6 - Teaser
-            list:
-                li1: Box6 - Riga1
-                li2: Box6 - Riga2
-                li3: Box6 - Riga3
-                li4: Box6 - Riga4
-
-        box7:
-            headline: Box7 - Headline
-            teaser: Box7 - Teaser
-            list:
-                li1: Box7 - Riga1
-                li2: Box7 - Riga2
-                li3: Box7 - Riga3
-                li4: Box7 - Riga4
-########################################################################
+                li1: Costi Licenza.
+                li2: Eventuali Hosting e Outsourcing
+                li3: Inserimento prodotti e servizi aggiuntivi.
+                li4: Creazione testi più eventuali traduzioni.
+                li5: Tempo necessario per riunioni e gestione progetti.
+###########################################################################
 
 
+#PAGINA CHI SIAMO--->Chi Siamo (/servizi/index.html)
+chisiamo:
+    titolo: Cryptoteam - Chi Siamo
+    descrizione: Tutto su di noi.
 
-# Services (OLD Definitions)
+    intro:
+        headline: About Us
+        description: "We are dedicated experts for software testing: together we comprise more than 200 years of software testing experience and we absolutely love what we do."
+
+    facts:
+        headline: Quick Facts
+        founded: Founded
+        size:
+            key: Company size
+            value: 40 employees
+        headquarters:
+            key: Headquarters
+            value: "Jena (Germany)"
+        dw:
+            key: Demandware partner
+            value: Since 2005
+        offices:
+            key: Offices
+            value: "Jena (Germany) & Cambridge (USA)"
+        customers:
+            key: Customers
+            value: "110"
+
+    know:
+        headline: We Know Testing
+        details: "Every one of us has profound and hands-on experience in the domain of software quality assurance. We don’t like showing off and nobody’s perfect: to always be able to meet both our own standards and our clients’ needs, we constantly evaluate our own approach to software QA and strive for continuous improvement of our daily work."
+    flexible:
+        headline: We Are Flexible and Efficient
+        details: "It doesn't matter what you want us to do for you: we are always ready to help and strive to fulfill your individual needs. We participate in agile development projects as well as in enterprise  test projects. We are also flexible enough to serve you for just a couple of days or to engage in long-term projects. It's totally up to you!"
+    trusted:
+        headline: We Are Trusted by Many
+        details: "We serve international companies from various business sectors, such as <strong>e-commerce</strong>, <strong>telecommunications</strong>, <strong>optical industries</strong>, and <strong>finance</strong>. Currently, our clients are located in the USA, Canada, Germany, Great Britain, Austria, and Switzerland."
+    language:
+        headline: We Are Fluent in German and English
+        details: Every one of us is capable of communicating in both German and English so that we can easily participate in international projects and work with customers from around the world.
+    collaborate:
+        headline: We Collaborate
+        details: We are not a testing squad made up of pedantic nit-pickers who are out to denigrate others’ work. Rather, our goal is to be a reliable, trusted <strong>partner</strong>. To that end, we foster a relationship with our clients that is based on respectful communication and consructive cooperation, and we always keep their needs front and center. We feel comfortable behind the scenes and are satisfied when we can accompany our clients on their road to success.
+    share:
+        headline: We Share and Contribute to the Testing Community
+        details: "It is very important to us to share our knowledge and skills, which is why we work hard on developing <strong>software testing tools</strong>. Xceptance LoadTest (XLT) was created to not only enhance our own testing experience but also to serve others of our profession. Open source projects help us greatly in our efforts and we try to give something in return, such as a <a href=\"/en/xlt/licensing-and-pricing.html\">community license</a> or our <strong>open source</strong> email service<a href=\"https://github.com/Xceptance/XCMailr\" target=\"_blank\"> XCMailr</a> for testing.</i>"
+    collaborate:
+        headline: We Collaborate
+        details: We are not a testing squad made up of pedantic nit-pickers who are out to denigrate others’ work. Rather, our goal is to be a reliable, trusted <strong>partner</strong>. To that end, we foster a relationship with our clients that is based on respectful communication and constructive cooperation, and we always keep their needs front and center. We feel comfortable behind the scenes and are satisfied when we can accompany our clients on their road to success.
+    atmosphere:
+        headline: We Are a Team
+        details: "At Xceptance, we believe that a <strong>positive and supportive atmosphere</strong> is key to being good at what we do. A flat hierarchy, fun at work, and spending time together outside the office make for an environment in which we feel our best, are at our most creative, and are engaged and committed to our work."
+
+
+
+
+
+
+###########################################################################
+
+# *************************************************************************
+# ATTENZIONE! Le definifizioni che seguono sono relative al sito originario
+# NON MODIFICARE OLTRE QUESTA RIGA!!!!
+# *************************************************************************
+
+###########################################################################
+
+
+# Servizi (VECCHIE definizioni)
 services:
     teaser: Inspecting, Observing,<br>Reporting.
     title: Xceptance – Our Services
@@ -540,7 +525,7 @@ services:
 
 ##################################
     dw:
-        teaser: "11 Years of Quality Assurance Support for Demandware."
+        teaser: "Linea Guida Progetti"
         title: Xceptance – Demandware Partner
         description: We are Demandware partner
 
@@ -554,8 +539,8 @@ services:
                 value: "10 (in 2014)"
 
         intro:
-            headline: Partnering For Success
-            teaser: We have been providing quality assurance services for both Demandware and its clients since 2005, shortly after Demandware was founded. Take advantage of our extensive first-hand knowledge of the Demandware platform.
+            headline: Lavorare Insieme
+            teaser: Lavorare insieme significa stabilire e costrire un Team che si misura per il raggiungimento di obiettivi comuni rivolti alla soddisfazione di tutti.
         history:
             headline: We know Demandware
             teaser: Rely on the partner who knows best how to test a Demandware site. We offer a wide range of QA services tailored to fit Demandware-based implementations.
@@ -605,9 +590,10 @@ services:
                 li2: Set-up of your site following proven security standards
                 li3: Review of planned changes to avoid introducing security risks
 
+
+
+
 ########################################################################
-
-
 # Company pages
 company:
     title: Xceptance - Who we are
@@ -751,62 +737,60 @@ company:
 
 ##################################
     privacy:
-        title: Xceptance - Privacy Information
-        description: All about privacy, and other legal stuff.
+        title: CryptoTeam - Informativa sulla Privacy
+        description: Tutto sulla privacy, e altri aspetti legali.
 
-        info: In case of questions, feel free to <a href="/en/contact/">contact us</a>.
+        info: Per qualsiasi domanda, non esitare a <a href="/it/contatti/">contattarci</a>.
         intro:
             headline: Privacy
-            lead: We deal with your data carefully.
+            lead: E' la nostra missione. Trattiamo i tuoi dati con estrema attenzione.
         collect:
-            headline: What Information Do We Collect?
-            details: "<p>We collect information from you when you register on our site, subscribe to our newsletter or fill out a form. When registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously. In order to improve the content and format of our site, Xceptance automatically captures technical information that is then stored in our servers’ log files. This information may include, but is not limited to, user domain, the type of Internet browser being used, which of our Web pages is visited, and the amount of time spent on our site. Xceptance uses an internal Web site analytics software that doesn't transfer the data to any third party.</p>"
+            headline: Che informazioni raccogliamo?
+            details: "<p>Raccogliamo i tuoi dati nel momento in cui li metti a nostra disposizione, ad esempio quando ti registri al sito, ti iscrivi ad una newsletter o compili un modulo con i tuoi dati. Puoi sempre, comunque, visitare il nostro sito in modo anonimo. Anche in questo caso, il sito raccoglie automaticamente alcuni dati tecnici, quali ad esempio, la data e l'ora di accesso, l'IP di provenienza, le pagine visitate, la durata della visita su ciascuna pagina, ecc. CryptoTeam può utilizzare questi dati, aggregati in modo anonimo, per migliorare l'esperienza di navigazione dei propri utenti. I dati non verranno trasferiti a terze parti, salvo quanto previsto nel paragrafo <a href=\"#thirdparty\">Trasferiamo le tue informazioni a Soggetti Esterni?</a>.</p>"
         use:
-            headline: How Do We Use Your Information
-            details: "<p>Any of the information we collect from you may be used in one of the following ways:</p>"
+            headline: Come usiamo le informazioni che raccogliamo su di te
+            details: "<p>Ciascuna delle informazioni che raccogliamo su di te può essere usata in uno dei seguenti modi:</p>"
             list: "
-                <li>To personalize your experience (your information helps us to better respond to your individual needs),</li>
-                <li>To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you),</li>
-                <li>To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs),</li>
-                <li>To process transactions (Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.),</li>
-                <li>To send emails to answer your inquiries.</li>"
+                <li>Per personalizzare la tua esperienza di navigazione (i tuoi dati ci aiutano a rispondere al meglio alle tue richieste),</li>
+                <li>Per migliorare il nostro sito (cerchiamo di migliorare costantemente le informazioni offerte sul nostro sito in base al feedback che riceviamo da te),</li>
+                <li>Per migliorare il servizio ai clienti (i tuoi dati ci aiutano a rispondere in modo più efficace alle tue richieste di customer service e alle tue necessità di supporto da parte nostra),</li>
+                <li>Per elaborare le transazioni (i tuoi dati, sia pubblici che privati, non verranno venduti, scambiati, trasferiti o in alcun modo consegnati, senza il tuo consenso, al di fuori dello scopo specifico di consegnarti il servizio e/o prodotto che ci hai richiesto.),</li>
+                <li>Per inviare email di risposta alle tue richieste.</li>"
         cookies:
-            headline: Do We Use Cookies?
-            details: "<p>Yes (cookies are small blocks of information that a site transfers to your computer - if you allow). Only our analytics software uses cookies actively to recognize your browser and capture and remember certain information. If you opt-out of analytics tracking, we will set a single unpersonalized cookie to remember your decision.</p>"
+            headline: Utilizziamo i Cookies?
+            details: "<p>Si, ma con parsimonia! I cookies sono piccoli blocchi di informazioni che un sito trasferisce sul tuo computer, salvandoli in file gestiti dal browser - sempre che tu lo consenta. Molti siti salvano numerosi cookies per tracciare le abitudini di navigazione dell'utente. Coerentemente con la nostra visione, abbiamo deciso di non tracciare i nostri utenti. La normativa vigente ci impone di segnalarti la nostra politica sulla privacy: lo facciamo mostrandoti un link a questa pagina durante il primo collegamento al nostro sito. Per evitare di mostrarti l'avviso ad ogni accesso successivo salviamo, con il tuo consenso, un solo cokkie che ci conferma che tu abbia letto il nostro avviso. Una volta salvato il cookie, l'avviso non verrà riproposto, a meno di modifiche alla presente pagina. La pagine resta comunque sempre visitabile sotto la voce di menu Azienda.</p>"
         thirdparty:
-            headline: Do We Disclose any Information to Outside Parties?
-            details: "<p>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours' or others rights, property, or safety.</p>"
+            headline: Trasferiamo le tue informazioni a Soggetti Esterni?
+            details: "<p>La nostra politica aziendale è di non vendere, scambiare, trasferire le tue informazioni personali a Terze Parti. In alcuni casi abbiamo la necessità di condividere le tue informazioni con alcuni soggetti fidati che ci assistono nello svolgimento delle nostre attività. A titolo di esempio, questi soggetti possono essere:
+              - lo studio del commercialista che segue la nostra contabilità
+              - gli istituti bancari con cui intratteniamo rapporti per poter svolgere la nostra attività economica
+              - tutti gli enti pubblici che la normativa ci impone di informare in merito alla nostra attività
+              - ecc.
+            In questi casi di necessità ci assicuriamo che dette parti fidate si impegnino a trattare i tuoi dati con la dovuta confidenzialità.
+            Potremmo infine rilasciare le tue informazioni qualora ritenessimo tale rilascio appropriato al fine di ottemperare ad obblighi di legge, rafforzare le politiche del nostro sito, proteggere i nostri o gli altrui diritti intellettuali, proprietà, sicurezza.</p>"
         links:
-            headline: Third Party Links
-            details: "<p>Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.</p>"
+            headline: Collegamenti a Soggetti Terzi
+            details: "<p>Occasionalmente, a nostra discrezione, potremmo includere o offrire proddotti e/o servizi di Terze Parti. Queste Terze Parti hanno politiche di privacy diverse e separate dalla nostra, pertanto noi non avremo alcuna responsabilità per il contenuto o per le attività offerte da questi siti collegati. Ciononostante, cerchiamo sempre di proteggere 'integrità del nostro sito e qualsiasi feedback al rigurardo sarà benvenuto.</p>"
         privacy-protection:
             headline: California Online Privacy Protection Act Compliance
             details: "<p>Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.</p>"
         privacy-policy:
-            headline: Online Privacy Policy Only
-            details: "<p>This online privacy policy applies only to information collected through our website and not to information collected offline.</p>"
+            headline: Politica della Privacy solo Online
+            details: "<p>Questa policy privacy online si applica solo alle informazioni raccolte attraverso il nostro sito web e non alle informazioni raccolte offline.</p>"
         consent:
-            headline: Your Consent
-            details: "<p>By using our site, you consent to our website's privacy policy.</p>"
+            headline: Il tuo consenso
+            details: "<p>Utilizzando il nostro sito, acconsenti implicitamente alla nostra politica di privacy online.</p>"
         privacy-changes:
-            headline: Changes to Our Privacy Policy
-            details: "<p>If we decide to change our privacy policy, we will update the Privacy Policy modification date below.<br>This policy was last modified on July 31, 2014.</p>"
+            headline: Modifiche alla nostra Politica della Privacy
+            details: "<p>Qualora decidessimo di modificare la nostra politica della privacy, aggiorneremo questa pagina, evidenziando le modifiche apportate. Inoltre azzereremo il cookie di presa visione iniziale, in modo che verrà nuovamente mostrato il messaggio di avviso durante il primo accesso successivo alla modifica.<br><b>Questa policy è stata modificata il 10 febbraio 2017.</b></p>"
         sites:
             headline: Web Sites
-            details: "<p>Xceptance owns, maintains, and contributes at:
-                <a href=\"http://www.xceptance.de/\">www.xceptance.de</a>,
-                <a href=\"https://www.xceptance.com/\">www.xceptance.com</a>,
-                <a href=\"http://www.xceptance-loadtest.de/\">www.xceptance-loadtest.de</a>,
+            details: "<p>CryptoTeam possiende, mantiene e contribuisce a i seguenti websites:
+                <a href=\"http://ca.cryptoteam.it/\">ca.cryptoteam.it</a>,
+                <a href=\"https://cloud.cryptoteam.it/\">cloud.cryptoteam.it</a>,
+                <a href=\"http://crm.cryptoteam.it/\">crm.cryptoteam.it</a>,
                 <a href=\"http://www.xceptance-loadtest.com/\">www.xceptance-loadtest.com</a>,
-                <a href=\"https://blog.xceptance.de/\">blog.xceptance.de</a>,
-                <a href=\"https://twitter.com/Xceptance\">Xceptance Twitter</a>,
-                <a href=\"https://www.xing.com/companies/xceptancesoftwaretechnologiesgmbh\">Xceptance on Xing</a>,
-                <a href=\"https://www.linkedin.com/company/xceptance\">Xceptance on LinkedIn</a>,
-                <a href=\"https://github.com/Xceptance/\">Xceptance on GitHub</a>,
-                <a href=\"https://plus.google.com/+Xceptance/posts\">Xceptance on Google+</a>,
-                <a href=\"https://ask.xceptance.de/\">XLT Forum</a>,
-                <a href=\"https://xltportal.xceptance.de/\">XLT Self Service Center</a>, and all other content published on
-                <a href=\"https://lab.xceptance.de/\">lab.xceptance.de</a>, such as releases and documentation.</p>"
+                <a href=\"https://otrs.cryptoteam.it/\">otrs.cryptoteam.it</a></p>"
 
 ########################################################################
 # Jobs
@@ -869,8 +853,9 @@ jobs:
                 <li>Why you would be a good addition to our team</li>
                 <li>Possible start date and desired salary</li>
             </ul>"
-########################################################################
 
+
+########################################################################
 # Contacts
 contact:
     title: Xceptance - Contact Information
@@ -964,24 +949,23 @@ contact:
                 <a href=\"https://lab.xceptance.de/\">lab.xceptance.de</a>, such as releases and documentation.</p>"
 
 
-########################################################################
 # News
 news:
-    title: CryptoTeam – News
-    description: What is going on at CryptoTeam
+    title: Notizie CryptoTeam
+    description: Cosa c'è di nuovo in CryptoTeam
     previous:
-        headline: Previous News
-        all: All News
+        headline: Notizie Precedenti
+        all: Tutte le Notizie
     blog:
-        headline: Visit Our Blog!
-        details: Find more technical news, links and information around Privacy, Security and Cryptography.
-        btn: Start Here
-    latest: Latest News
+        headline: Visita il nostro Blog!
+        details: Scopri le ultime novità tecnologiche e le notizie dal mondo della Privacy, Sicurezza e Crittografia.
+        btn: Inizia
+    latest: Ultime Notizie
 
     archive:
-        title: News Archive
-        description: Overview of all News
-        headline: News Archive
+        title: Archivio Notizie
+        description: Sommario di tutte le Notizie
+        headline: Archivio Notizie
 
 ########################################################################
 # XLT
@@ -1522,14 +1506,13 @@ xlt:
 posts:
     news:
         1:
-            title: New website development started!
+            title: CryptoTeam prepara il lancio del nuovo sito web!
             when: 7 Febbraio 2017
-            excerpt: Based on the acclaimed Jekyll platform, Cryptoteam is preparing the new website launch. Stay tuned!
+            excerpt: Con la decisione di passare a Jekyll, Cryptoteam prepara il lancio del nuovo sito web. Stay tuned!
         2:
-            title: First tests for the new Jekyll based website
+            title: Primi test per il nuovo sito basato su Jekyll
             when: 8 Febbraio 2017
-            excerpt: We started the development of the new website.
-
+            excerpt: Sono iniziati i primi test del nuovo sito CryptoTeam in ambiente Jekyll.
 
 ########################################################################
 # EOF
