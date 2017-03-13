@@ -214,11 +214,9 @@ servizi:
             headline: Privacy-Protection-Easy
             teaser:  La Privacy è diventata strategiaca per il futuro operativo delle Aziende. Lo scopo è di aumentare la sicurezza e tutelare i dati e le informazioni che viaggiano in rete.
             description: Finalmente le istituzioni hanno deciso responsabilmente di colmare il forte disequilibrio che riguarda il mondo dei privati nel "possesso" e nel "controllo" dei propri dati e delle proprie comunicazioni. Interi settori economici sono coinvolti e rispondenti a questo bisogno. Attualmente nel privato le comunicazioni crittografate (quindi private), sono molto utilizzate dai grandi Gruppi, infatti sanno perfettamente che queste tecniche esistono e funzionano bene. La crittografia è uno strumento potente da non sottovalutare se si vuole proteggere il Know-how aziendale e progredire.
-            numbers:
 
         box2:
             headline: Cosa Intendiamo per "Patrimonio Dati Digitali"
-            teaser:
             list:
                 li1: Buste Paghe,Brevetti,Stato Patrimoniale,Contratti, Organigramma, Finanza, Atti, Fidi Bancari, Elenco Soci, Carte di Credito, Bilanci, Investimenti, Debiti, Finanziamenti, Fiscalità.
                 li2: Fatturazione, Clienti e Fornitori, Preventivi, Sales Strategy, Prezzi Riservati, Codici Prodotto, Report Micro Area, Technical know-how, Piano Marketing.
@@ -278,12 +276,10 @@ servizi:
 
         box1:
             headline: L'utente aziendale potrà usufuire di una procedura di Accesso ai dati semplice veloce e sicura.
-            teaser:
             description: Le architetture sono progettate per impedire l'accesso ai Server e otterere l'accesso ai dati a chiunque non sia autorizzato.
             numbers: Nonostante la complessità tecnica (codifica e decodifica), di autenticazione, l'utente non ha latenze operative.
 
         box2:
-            headline:
             teaser: Controllo e Gestione Centralizzata
             list:
                 li1: La soluzuione di autenticazione può essere scelta come sistema HW tipo chiavetta Usb oppure come un sistema software. Entrambe le modalità sono semplici e sicure.
@@ -300,7 +296,6 @@ servizi:
         icona: Cloud in-House
         teaser: I tuoi dati sempre con te
         titolo: La tua Piattaforma Cloud
-        sottotitolo:
         descrizione: Prova descrizione in cloud, prova, prova
 
         box1:
@@ -377,7 +372,6 @@ servizi:
             headline: Linea Guida
             teaser: Descrizione delle Attività
             description: Lavorare insieme significa stabilire e costruire un team che si misura per il raggiungimento di obiettivi comuni rivolti alla soddistazione di tutti.
-            numbers:
 
         box2:
             headline: Analisi Progetto
