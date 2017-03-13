@@ -580,8 +580,8 @@ company:
     description: All about us.
 
     intro:
-        headline: Storia
-        description: "CryptoTeam è una start-up in fase di breakeven. L'avviamento, la continuità, è garantita dai sui professionisti i quali collaborano a tutta forza con i clienti. Sviluppano progetti, idee, soluzioni su misura, offrono consulenza e realizzano piattaforme innovative per la privacy aziendale. Usufruiscono della loro piattafaorma per dimostrare alle aziende come tutelare i interessi, i propri dati e le proprie comuniczioni (scritte e parlate)."
+        headline: CryptoTeam
+        description: "CryptoTeam è una start-up in fase di breakeven. L'avviamento, la continuità, è garantita dai sui professionisti i quali collaborano a tutta forza con i clienti. Sviluppano progetti, idee, soluzioni innovative, offrono consulenza e realizzano piattaforme per la privacy aziendale. Usufruiscono della loro infrastruttura per dimostrare alle aziende come tutelare i propri interessi. Dati e comuniczioni in rete scritte e parlate."
 
     facts:
         headline: Quick Facts
