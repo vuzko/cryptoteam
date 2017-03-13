@@ -313,9 +313,9 @@ servizi:
             headline: Cloud in-House integra la crittografia
             teaser: Disk Encryption
             list:
-                li1: Per la sicurezza i dati salvati (su più HD), sono sempre cifrati sincronizzati e condivisi sistematicamente per la fruibilità degli utenti.
+                li1: I protocolli di sicurezza prevedono che i dati salvati (su più HD), sono sempre cifrati sincronizzati e condivisi sistematicamente, per la fruibilità degli utenti.
                 li2: L'accesso sicuro ai tuoi dati da remoto, può essere eseguito su qualunque piattafroma e in qualsiasi momento.
-                li3: Le chiavi a protezione dei dati sono (come minimo), da 2048 bit e da 4096 bit, Algoritmo SHA 256.
+                li3: Le chiavi a protezione dei dati sono (almeno), da 2048 bit e da 4096 bit, Algoritmo SHA 256.
                 li4: Per maggiore sicurezza le chiavi possono essere protette da HSM (Hardware Security Modules).
 
         box3:
@@ -326,10 +326,33 @@ servizi:
                 li2: Con pochi click è possibile creare collegamenti sicuri (pubblici), con utenti esterni al Cloud in- House e condividersi le cartelle di lavoro.
                 li3: Per maggiore produttività è possibile federare (Server to Server), i propri partner aziendali (es. partner commerciali clienti e fornitori e amministrativi come il Commercialista).
                 li4: E' possibile programmare la data di scadenza relativa alla condivisione e proteggere la cartella o file tramite password appunto temporanee.
-                li5: L'accesso ai dati può essere autorizzato volta per volta tramite Passowrd trasmesse via sms.
+                li5: L'accesso ai dati può essere autorizzato volta per volta tramite passowrd trasmesse via sms.
                 li6: E' possibile inoltrare automaticamente le notifiche via mail.
-                li7: Reportistica il ciclo di vita del file condiviso è tracciato cronologicamente, sono tracciate le modifiche, sono tracciati gli utenti.
+                li7: Reportistica, il ciclo di vita del file condiviso è tracciato cronologicamente, sono tracciate le modifiche, sono tracciati gli utenti.
                 li8: E' possibile configurare il criterio delle condivisioni e dettagliare le policy di sicurezza.
+
+
+        box4:
+            headline: Headline box4
+            teaser: Teaser box4
+            list:
+                li1: Box4 - Riga1. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero.
+                li2: Box4 - Riga2. Reprehenderit ipsum consequatur ab nihil sint quis. Similique quis voluptas voluptas hic. Aut nihil culpa saepe alias natus animi. Ea a sunt rerum ullam laudantium odio voluptatem.
+
+        box5:
+            headline: Headline box5
+            teaser: Teaser box5
+            list:
+                li1: Box5 - Riga1. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero.
+                li2: Box5 - Riga2. Reprehenderit ipsum consequatur ab nihil sint quis. Similique quis voluptas voluptas hic. Aut nihil culpa saepe alias natus animi. Ea a sunt rerum ullam laudantium odio voluptatem.
+                li3: Box5 - Riga3. Labore dolorum rerum beatae dolores voluptatem consequuntur. Dolores ut enim et ea. Reprehenderit dolor blanditiis et. Corporis id consequatur dolorem necessitatibus voluptas. Et magnam sunt quo temporibus assumenda modi.
+
+        box6:
+            headline: Headline box6
+            teaser: Teaser box6
+            list:
+                li1: Box6 - Riga1. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero.
+                li2: Box6 - Riga2. Reprehenderit ipsum consequatur ab nihil sint quis. Similique quis voluptas voluptas hic. Aut nihil culpa saepe alias natus animi. Ea a sunt rerum ullam laudantium odio voluptatem.
 
 ########################################################################
 
@@ -346,33 +369,45 @@ servizi:
     progetti:
         icona: Progetti personalizzati
         teaser: I tuoi dati sempre con te
-        titolo: Ti aiutiamo a realizzare i tuoi progetti
-        sottotitolo: Un modo sicuro per avere i tuoi dati sempre con te
+        titolo: Ti aiutiamo a realizzare la tuo Progetto Privacy
+        sottotitolo: Siamo al tuo fianco
         descrizione: Prova descrizione in Progetti, prova, prova
 
         box1:
-            headline: Box1 - Headline
-            teaser:  Box1 - Teaser
-            description: Box1 - Descrizione
+            headline: Linea Guida
+            teaser: Descrizione delle Attività
+            description: Lavorare insieme significa stabilire e costruire un team che si misura per il raggiungimento di obiettivi comuni rivolti alla soddistazione di tutti.
             numbers:
 
         box2:
-            headline: Box2 - Headline
-            teaser: Box2 - Teaser
+            headline: Analisi Progetto
+            teaser: Descrizione Attività Fornite
             list:
-                li1: Box2 - Riga1
-                li2: Box2 - Riga2
-                li3: Box2 - Riga3
-                li4: Box2 - Riga4
+                li1: Analisi preliminare cerchiamo di capire analaliticamente le richieste.
+                li2: Verifichiamo le risorse tecniche esistenti.
+                li3: Compariamo i requisiti tecnici esistenti con i requisiti necessari.
+                li4: Consideriamo la fattibilità tecnica in correlazione al badget di investimento.
+                li5: Verifichiamo la conformità agli standard.
+                li6: Eventuali funzionalità aggiuntive.
+                li7: Valutiamo i rischi prima di una qualsiasi azione.
+                li8: Offriamo consulenza nella scelta consigliando le migliori soluzioni elaborate.
+                li9: Tempi di consegna.
+                li10: Individuiamo il personale o il gruppo di lavoro più idoneo.
+                li11: Cerchiamo di ottenere supporto tecnico da parte cliente.
+                li12: Approvazione dell'investimento.
+                li13: Mandato e obbietivi stabili.
+                li14: Scaletta lavori condivisa più spunta dei lavori conseguiti volta per volta.
+                li15: Collaudo e Formazione.
 
         box3:
-            headline: Box3 - Headline
-            teaser: Box3 - Teaser
+            headline: Risore a Carico Cliente
+            teaser: Costi da concordare
             list:
-                li1: Box3 - Riga1
-                li2: Box3 - Riga2
-                li3: Box3 - Riga3
-                li4: Box3 - Riga4
+                li1: Costi Licenza.
+                li2: Eventuali Hosting e Outsourcing
+                li3: Inserimento prodotti e servizi aggiuntivi.
+                li4: Creazione testi più eventuali traduzioni.
+                li5: Tempo necessario per riunioni e gestione progetti.
 
         box4:
             headline: Box4 - Headline
@@ -409,8 +444,21 @@ servizi:
                 li2: Box7 - Riga2
                 li3: Box7 - Riga3
                 li4: Box7 - Riga4
-########################################################################
+###########################################################################
 
+
+
+
+
+
+
+
+# *************************************************************************
+# ATTENZIONE! Le definifizioni che seguono sono relative al sito originario
+# NON MODIFICARE OLTRE QUESTA RIGA!!!!
+# *************************************************************************
+
+###########################################################################
 
 
 # Servizi (VECCHIE definizioni)
@@ -457,7 +505,7 @@ services:
 
 ##################################
     dw:
-        teaser: "11 Years of Quality Assurance Support for Demandware."
+        teaser: "Linea Guida Progetti"
         title: Xceptance – Demandware Partner
         description: We are Demandware partner
 
@@ -471,8 +519,8 @@ services:
                 value: "10 (in 2014)"
 
         intro:
-            headline: Partnering For Success
-            teaser: We have been providing quality assurance services for both Demandware and its clients since 2005, shortly after Demandware was founded. Take advantage of our extensive first-hand knowledge of the Demandware platform.
+            headline: Lavorare Insieme
+            teaser: Lavorare insieme significa stabilire e costrire un Team che si misura per il raggiungimento di obiettivi comuni rivolti alla soddisfazione di tutti.
         history:
             headline: We know Demandware
             teaser: Rely on the partner who knows best how to test a Demandware site. We offer a wide range of QA services tailored to fit Demandware-based implementations.
