@@ -397,13 +397,13 @@ chisiamo:
 # 40 employees è una stringa e non richiede le virgolette
         riga1:
             key: Sviluppo Software
-            value: Realizzare i singoli componenti software in conformità alle specifiche ricevute.
+            value: Realizziamo i singoli componenti software secondo pecifiche ricevute.
         riga2:
-            key: Integrazione di tools
-            value: Impostare lo sviluppo di programmi software e funzioni ed integrarli tra di loro.
+            key: Integrazione Tools
+            value: Integriamo più programmi software e funzioni in conformità alle specifiche.
         riga3:
-            key: Riga3
-            value: prova
+            key: Definizioni Procedure
+            value: Redigiamo una documentazione dettagliata e contribuiamo alla condivisione di regole.
         riga4:
             key: Riga4
             value: Key4
