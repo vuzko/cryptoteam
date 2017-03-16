@@ -385,53 +385,54 @@ chisiamo:
     descrizione: Tutto su di noi.
 
     intro:
-        headline: Chi siamo
+        headline: Chi Siamo
         description: Start-Up Innovativa per la protezione dei dati aziendali
 
     facts:
-        headline: Competenze
+        headline: Competenze e Abilità
 
 # ATTENZIONE! I valori NUMERICI vanno messi tra virgolette!
 # Esempio:
 # 1990 è un valore numerico e DEVE essere messo tra virgolette
 # 40 employees è una stringa e non richiede le virgolette
         riga1:
-            key: Riga1
-            value: "1990"
+            key: Sviluppo Software
+            value: Realizziamo i singoli componenti softw.
         riga2:
-            key: Riga2
-            value: 40 employees
+            key: Integrazione Tools
+            value: Integriamo più programmi e funzioni.
         riga3:
-            key: Riga3
-            value: Key3
+            key: Convalida
+            value: Autorizzazione applicativi.
         riga4:
-            key: Riga4
-            value: Key4
+            key: Collaudo
+            value: Organiziamo le attività di collaudo.
         riga5:
-            key: Riga5
-            value: Key5
+            key: Definizioni Procedure
+            value: Redigiamo documentazione dettagliata.
         riga6:
-            key: Riga6
-            value: Key6
+            key: Consulenza
+            value: Consigliamo le soluzioni più adeguate.
 
     box1:
         headline: La Vision
         details: Sempre di più in futuro vivremo cosparsi tra oggetti componenti IoT (Internet delle Cose), che saranno in grado di captare i nostri dati, di elaborarli, e di trasmetterli ad altri oggetti. Quello che ci attende è uno scenrio davvero rivoluzionario per la protezione dei dati. Infatti oggi la <strong>Sicurezza</strong>, e la <strong>Privacy</strong>, (comunicazioni private), sono diventate fondamentali per le relazioni commerciali basate sul web. Le aziende hanno bisogno di vere garanzie. Se si vuole progredire, i dati scambiati non devono essere letti o acquisiti impropriamente. Tutti sanno che la rete è una grande occasione di business per lo sviluppo economico,  ma devono anche essere guidati verso adeguate misure di sicurezza e di Privacy nella propria infrastruttura IT. Prendiamo come esempio i grandi gruppi (Commerciali, Finaziari, industriali, ecc), la privacy insita nei loro format, ha fortemente contributio ad ottenere sempre <strong>Risultati Vincenti</strong>.
     box2:
         headline: Storia Commerciale
-        details: Inizia una nuova era di 2 ex soci che ininterrotamente hanno operato nel settore ITC da oltre 20 anni, prima come colleghi in una grande Spa informatica, poi come soci fondatori tramite la loro Srl per un altro decennio. Un esperienza positiva di crescita e soddisfazioni. Lavorando insieme intrattennero rapporti di collaborazione con grandi produttori (Cina, Europa e Stati Uniti), parteciparono a fiere e convegni di alto profilo tecnologico e innovativo. In più usufrirono di rapporti CORPORADE con 3 grandi Banche Italiane.
+        details: Inizia una nuova era di 2 ex soci che ininterrotamente hanno operato nel settore ITC da oltre 20 anni, prima come colleghi in una grande Spa informatica, poi come soci fondatori tramite la loro Srl per un altro decennio. Un esperienza positiva di crescita e soddisfazioni. Lavorando insieme intrattennero rapporti di collaborazione con grandi produttori (Cina, Europa e Stati Uniti), parteciparono a fiere e convegni di alto profilo tecnologico e innovativo. In più usufrirono di rapporti CORPORATE con 3 grandi Banche Italiane.
     box3:
         headline: Mission
-        details:  nell’ambito della protezione dei dati aziendali è quella di offrire sul mercato soluzioni innovative e sicure, garantendo l’accesso ai dati da qualsiasi piattaforma da qualunque luogo.
+        details:  Integriamo la Privacy nei processi informatici aziendali (dati a riposo, a lavoro, in movimento). Nell’ambito della protezione dei dati la nostra offerta si basa su soluzioni innovative, garantendo l’accesso ai dati sicuro da qualsiasi piattaforma e in qualunque luogo.
     box4:
         headline: Competenze
         details: Il team è in grado di programmare (svilppo software), Integrare tool, Progettare e offrire consulenza in ambito di sicurezza, di riservatezza delle comunicazioni aziendali.
     box5:
         headline: Obiettivi
-        details: Cryptoteam è una start-up in fase di Breakeven. L'avviamento, la continuità, l'assistenza tecnica è garantita dai suoi professionisti i quali collaborano a tutta forza con i clienti per il raggiungimento degli obiettivi. Usufruiscono della loro infrastruttura tecnologica per dimostrare alle aziende come tutelare i propri dati e le proprie comunicazioni rendendole riservate.
+        details: Cryptoteam è una start-up in fase di avviamento. La continuità, l'assistenza tecnica è garantita dai suoi professionisti i quali collaborano a tutta forza con i clienti per il raggiungimento degli obiettivi. <strong>Usufruiscono della loro infrastruttura tecnologica per dimostrare alle aziende come tutelare i propri dati e le proprie comunicazioni rendendole riservate.</strong>
     box6:
-        headline: Box6
-        details: "It is very important to us to share our knowledge and skills, which is why we work hard on developing <i><strong>software testing tools</strong>. Xceptance LoadTest (XLT) was created to not only enhance our own testing experience but also to serve others of our profession. Open source projects help us greatly in our efforts and we try to give something in return, such as a <a href=\"/en/xlt/licensing-and-pricing.html\">community license</a> or our <strong>open source</strong> email service<a href=\"https://github.com/Xceptance/XCMailr\" target=\"_blank\"> XCMailr</a> for testing.</i>"
+        headline: Filosofia
+        details: Privilegiamo canali di comunicazione <strong>end to end</strong>. Utiliziamo la cifratura cosi come previsto dal GDPR. Consigliamo soluzioni tipo cloud.cryptoteam.it cioè infrastruttura ridondante sotto il proprio controllo (<strong>i tuoi dati - suoi tuoi server - a casa tua</strong>). Utilizziamo tecnologia Open Source (possesso dei sorgenti). Preferiamo evitare rapporti di dipendenza con i grandi big della rete oppure consigliamo l'utilizzo solo quando è necessario e solo per informazioni innoque. Se constretti consigliamo l'utilizzo di cloud provider subordinando le tecniche di cifratura. Nell'interoperabilità quotidiana proteggiamo SEMPRE gli interessi aziendali consigliando l'utilizzo di tecniche di cifratura.
+
     collaborate:
         headline: Box7
         details: We are not a testing squad made up of pedantic nit-pickers who are out to denigrate others’ work. Rather, our goal is to be a reliable, trusted <strong>partner</strong>. To that end, we foster a relationship with our clients that is based on respectful communication and constructive cooperation, and we always keep their needs front and center. We feel comfortable behind the scenes and are satisfied when we can accompany our clients on their road to success.
