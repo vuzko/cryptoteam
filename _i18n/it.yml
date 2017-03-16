@@ -403,7 +403,7 @@ chisiamo:
             value: Integriamo più programmi e funzioni.
         riga3:
             key: Convalida
-            value: convalida e autorizzazione applicativi.
+            value: Autorizzazione applicativi.
         riga4:
             key: Collaudo
             value: Organiziamo le attività di collaudo.
@@ -431,7 +431,7 @@ chisiamo:
         details: Cryptoteam è una start-up in fase di avviamento. La continuità, l'assistenza tecnica è garantita dai suoi professionisti i quali collaborano a tutta forza con i clienti per il raggiungimento degli obiettivi. Usufruiscono della loro infrastruttura tecnologica per dimostrare alle aziende come tutelare i propri dati e le proprie comunicazioni rendendole riservate.
     box6:
         headline: Filosofia
-        details: Privilegiamo canali di comunicazione end to end. Utiliziamoo la cifratura cosi come previsto dal GDPR. Consigliamo soluzioni tipo cloud.cryptoteam.it cioè infrastruttura ridondante sotto il proprio controllo (i tuoi dati - suoi tuoi server - a casa tua). Utilizziamo tecnologia Open Source (possesso dei sorgenti). Preferiamo evitare rapporti di dipendenza con i grandi big della rete oppure consigliamo l'utilizzo solo quando è necessario e solo per informazioni innoque. Se constretti consigliamo l'utilizzo di Cloud Provider subordinati alle tecniche di cifratura. Nell'interoperabilità proteggiamo SEMPRE gli interessi aziendali proteggendo i dati.
+        details: Privilegiamo canali di comunicazione <strong>end to end</strong>. Utiliziamo la cifratura cosi come previsto dal GDPR. Consigliamo soluzioni tipo cloud.cryptoteam.it cioè infrastruttura ridondante sotto il proprio controllo (<strong>i tuoi dati - suoi tuoi server - a casa tua</strong>). Utilizziamo tecnologia Open Source (possesso dei sorgenti). Preferiamo evitare rapporti di dipendenza con i grandi big della rete oppure consigliamo l'utilizzo solo quando è necessario e solo per informazioni innoque. Se constretti consigliamo l'utilizzo di Cloud Provider subordinati alle tecniche di cifratura. Nell'interoperabilità proteggiamo SEMPRE gli interessi aziendali proteggendo i dati.
 
     collaborate:
         headline: Box7
