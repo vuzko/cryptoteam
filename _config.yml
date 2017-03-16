@@ -54,8 +54,6 @@ sitenavigation:
   - name: Azienda
     secondarynav:
         - name: Azienda
-        - name: Competenze
-        - name: Filosofia
         - name: Privacy
 #  - name: Jobs
   - name: Contatti
