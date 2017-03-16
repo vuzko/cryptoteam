@@ -97,8 +97,6 @@ navigation:
 
 # Azienda
         Azienda: Chi Siamo
-        Competenze: Competenze
-        Filosofia: Filosofia
         Privacy: Privacy
 
 # Contatti
@@ -393,24 +391,28 @@ chisiamo:
     facts:
         headline: Competenze
 
-        founded:
-            key: Founded
+# ATTENZIONE! I valori NUMERICI vanno messi tra virgolette!
+# Esempio:
+# 1990 è un valore numerico e DEVE essere messo tra virgolette
+# 40 employees è una stringa e non richiede le virgolette
+        riga1:
+            key: Riga1
             value: "1990"
-        size:
-            key: Company size
+        riga2:
+            key: Riga2
             value: 40 employees
-        headquarters:
-            key: Headquarters
-            value: "Jena (Germany)"
-        dw:
-            key: Demandware partner
-            value: Since 2005
-        offices:
-            key: Offices
-            value: "Jena (Germany) & Cambridge (USA)"
-        customers:
-            key: Customers
-            value: "110"
+        riga3:
+            key: Riga3
+            value: Key3
+        riga4:
+            key: Riga4
+            value: Key4
+        riga5:
+            key: Riga5
+            value: Key5
+        riga6:
+            key: Riga6
+            value: Key6
 
     box1:
         headline: La Vision
