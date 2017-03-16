@@ -394,7 +394,7 @@ chisiamo:
         headline: Competenze
         founded:
             key: Founded
-            value: 1990
+            value: "1990"
         size:
             key: Company size
             value: 40 employees
