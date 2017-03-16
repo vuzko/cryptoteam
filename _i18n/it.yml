@@ -325,30 +325,6 @@ servizi:
                 li6: E' possibile inoltrare automaticamente le notifiche via mail.
                 li7: Reportistica, il ciclo di vita del file condiviso è tracciato cronologicamente, sono tracciate le modifiche, sono tracciati gli utenti.
                 li8: E' possibile configurare il criterio delle condivisioni e dettagliare le policy di sicurezza.
-
-
-        box4:
-            headline: Headline box4
-            teaser: Teaser box4
-            list:
-                li1: Box4 - Riga1. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero.
-                li2: Box4 - Riga2. Reprehenderit ipsum consequatur ab nihil sint quis. Similique quis voluptas voluptas hic. Aut nihil culpa saepe alias natus animi. Ea a sunt rerum ullam laudantium odio voluptatem.
-
-        box5:
-            headline: Headline box5
-            teaser: Teaser box5
-            list:
-                li1: Box5 - Riga1. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero.
-                li2: Box5 - Riga2. Reprehenderit ipsum consequatur ab nihil sint quis. Similique quis voluptas voluptas hic. Aut nihil culpa saepe alias natus animi. Ea a sunt rerum ullam laudantium odio voluptatem.
-                li3: Box5 - Riga3. Labore dolorum rerum beatae dolores voluptatem consequuntur. Dolores ut enim et ea. Reprehenderit dolor blanditiis et. Corporis id consequatur dolorem necessitatibus voluptas. Et magnam sunt quo temporibus assumenda modi.
-
-        box6:
-            headline: Headline box6
-            teaser: Teaser box6
-            list:
-                li1: Box6 - Riga1. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero.
-                li2: Box6 - Riga2. Reprehenderit ipsum consequatur ab nihil sint quis. Similique quis voluptas voluptas hic. Aut nihil culpa saepe alias natus animi. Ea a sunt rerum ullam laudantium odio voluptatem.
-
 ########################################################################
 
 #PAGINA SERVIZI--->VOIP (/servizi/voip.html)
@@ -412,11 +388,14 @@ chisiamo:
 
     intro:
         headline: Chi siamo
-        description: "We are dedicated experts for software testing: together we comprise more than 200 years of software testing experience and we absolutely love what we do."
+        description: Start-Up Innovativa per la protezione dei dati aziendali
 
     facts:
-        headline: Alcune cifre
-        founded: Founded
+        headline: Competenze
+
+        founded:
+            key: Founded
+            value: "1990"
         size:
             key: Company size
             value: 40 employees
@@ -434,23 +413,23 @@ chisiamo:
             value: "110"
 
     box1:
-        headline: Box1
-        details: "Every one of us has profound and hands-on experience in the domain of software quality assurance. We don’t like showing off and nobody’s perfect: to always be able to meet both our own standards and our clients’ needs, we constantly evaluate our own approach to software QA and strive for continuous improvement of our daily work."
+        headline: La Vision
+        details: Sempre di più in futuro vivremo cosparsi tra oggetti componenti IoT (Internet delle Cose), che saranno in grado di captare i nostri dati, di elaborarli, e di trasmetterli ad altri oggetti. Quello che ci attende è uno scenrio davvero rivoluzionario per la protezione dei dati. Infatti oggi la <strong>Sicurezza</strong>, e la <strong>Privacy</strong>, (comunicazioni private), sono diventate fondamentali per le relazioni commerciali basate sul web. Le aziende hanno bisogno di vere garanzie. Se si vuole progredire, i dati scambiati non devono essere letti o acquisiti impropriamente. Tutti sanno che la rete è una grande occasione di business per lo sviluppo economico,  ma devono anche essere guidati verso adeguate misure di sicurezza e di Privacy nella propria infrastruttura IT. Prendiamo come esempio i grandi gruppi (Commerciali, Finaziari, industriali, ecc), la privacy insita nei loro format, ha fortemente contributio ad ottenere sempre <strong>Risultati Vincenti</strong>.
     box2:
-        headline: Box2
-        details: "It doesn't matter what you want us to do for you: we are always ready to help and strive to fulfill your individual needs. We participate in agile development projects as well as in enterprise  test projects. We are also flexible enough to serve you for just a couple of days or to engage in long-term projects. It's totally up to you!"
+        headline: Storia Commerciale
+        details: Inizia una nuova era di 2 ex soci che ininterrotamente hanno operato nel settore ITC da oltre 20 anni, prima come colleghi in una grande Spa informatica, poi come soci fondatori tramite la loro Srl per un altro decennio. Un esperienza positiva di crescita e soddisfazioni. Lavorando insieme intrattennero rapporti di collaborazione con grandi produttori (Cina, Europa e Stati Uniti), parteciparono a fiere e convegni di alto profilo tecnologico e innovativo. In più usufrirono di rapporti CORPORADE con 3 grandi Banche Italiane.
     box3:
-        headline: Box3
-        details: "We serve international companies from various business sectors, such as <strong>e-commerce</strong>, <strong>telecommunications</strong>, <strong>optical industries</strong>, and <strong>finance</strong>. Currently, our clients are located in the USA, Canada, Germany, Great Britain, Austria, and Switzerland."
+        headline: Mission
+        details:  nell’ambito della protezione dei dati aziendali è quella di offrire sul mercato soluzioni innovative e sicure, garantendo l’accesso ai dati da qualsiasi piattaforma da qualunque luogo.
     box4:
-        headline: Box4
-        details: Every one of us is capable of communicating in both German and English so that we can easily participate in international projects and work with customers from around the world.
+        headline: Competenze
+        details: Il team è in grado di programmare (svilppo software), Integrare tool, Progettare e offrire consulenza in ambito di sicurezza, di riservatezza delle comunicazioni aziendali.
     box5:
-        headline: Box5
-        details: We are not a testing squad made up of pedantic nit-pickers who are out to denigrate others’ work. Rather, our goal is to be a reliable, trusted <strong>partner</strong>. To that end, we foster a relationship with our clients that is based on respectful communication and consructive cooperation, and we always keep their needs front and center. We feel comfortable behind the scenes and are satisfied when we can accompany our clients on their road to success.
+        headline: Obiettivi
+        details: Cryptoteam è una start-up in fase di Breakeven. L'avviamento, la continuità, l'assistenza tecnica è garantita dai suoi professionisti i quali collaborano a tutta forza con i clienti per il raggiungimento degli obiettivi. Usufruiscono della loro infrastruttura tecnologica per dimostrare alle aziende come tutelare i propri dati e le proprie comunicazioni rendendole riservate.
     box6:
         headline: Box6
-        details: "It is very important to us to share our knowledge and skills, which is why we work hard on developing <strong>software testing tools</strong>. Xceptance LoadTest (XLT) was created to not only enhance our own testing experience but also to serve others of our profession. Open source projects help us greatly in our efforts and we try to give something in return, such as a <a href=\"/en/xlt/licensing-and-pricing.html\">community license</a> or our <strong>open source</strong> email service<a href=\"https://github.com/Xceptance/XCMailr\" target=\"_blank\"> XCMailr</a> for testing.</i>"
+        details: "It is very important to us to share our knowledge and skills, which is why we work hard on developing <i><strong>software testing tools</strong>. Xceptance LoadTest (XLT) was created to not only enhance our own testing experience but also to serve others of our profession. Open source projects help us greatly in our efforts and we try to give something in return, such as a <a href=\"/en/xlt/licensing-and-pricing.html\">community license</a> or our <strong>open source</strong> email service<a href=\"https://github.com/Xceptance/XCMailr\" target=\"_blank\"> XCMailr</a> for testing.</i>"
     collaborate:
         headline: Box7
         details: We are not a testing squad made up of pedantic nit-pickers who are out to denigrate others’ work. Rather, our goal is to be a reliable, trusted <strong>partner</strong>. To that end, we foster a relationship with our clients that is based on respectful communication and constructive cooperation, and we always keep their needs front and center. We feel comfortable behind the scenes and are satisfied when we can accompany our clients on their road to success.
@@ -592,8 +571,8 @@ company:
     description: All about us.
 
     intro:
-        headline: About Us
-        description: "We are dedicated experts for software testing: together we comprise more than 200 years of software testing experience and we absolutely love what we do."
+        headline: CryptoTeam
+        description: "CryptoTeam è una start-up in fase di breakeven. L'avviamento, la continuità, è garantita dai sui professionisti i quali collaborano a tutta forza con i clienti. Sviluppano progetti, idee, soluzioni innovative, offrono consulenza e realizzano piattaforme per la privacy aziendale. Usufruiscono della loro infrastruttura per dimostrare ai futuri clienti come tutelare i propri interessi. Dati e comunicazioni in rete scritte e parlate."
 
     facts:
         headline: Quick Facts
@@ -615,14 +594,14 @@ company:
             value: "110"
 
     know:
-        headline: We Know Testing
-        details: "Every one of us has profound and hands-on experience in the domain of software quality assurance. We don’t like showing off and nobody’s perfect: to always be able to meet both our own standards and our clients’ needs, we constantly evaluate our own approach to software QA and strive for continuous improvement of our daily work."
+        headline: Storia Commerciale
+        details: "Si tratta di 2 soci che ininterrotamente hanno operato nel settore ITC da oltre 20 anni, prima come colleghi in una grande Spa informatica, poi come soci per un altro decennio. Hanno intrapreso rapporti di collaborazione con grandi produttori (Cina, Europa e Stati Uniti). Hanno partecipato a fiere e convegni, di alto profilo tecnologico e innovativo. Hanno intrattenuto rapporti CORPORADE con 3 grandi Banche Italiane."
     flexible:
-        headline: We Are Flexible and Efficient
-        details: "It doesn't matter what you want us to do for you: we are always ready to help and strive to fulfill your individual needs. We participate in agile development projects as well as in enterprise  test projects. We are also flexible enough to serve you for just a couple of days or to engage in long-term projects. It's totally up to you!"
+        headline: La Vision
+        details: "Vivremo immersi tra oggetti materiali IoT (Internet delle Cose), che saranno in grado di catturare i nostri dati, di elaborarli, e di trasmetterli ad altri oggetti. Mentre oggi la <strong>Sicurezza</strong>, e la <strong>Privacy</strong>, sono diventate fondamentali per le relazioni commerciali basate sul web. Le aziende hanno bisogno di vere garanzie che i dati scambiati non vengano letti o acquisiti impropriamente. La rete è una grande occasione di business per lo sviluppo economico,  ma devono esigere adeguate misure di sicurezza. Intatti l'orientamento alla Privacy da sempre tecnica utilizzata dai grandi gruppi (Commerciali, Finaziari, ecc), ha fortemente contributio ad ottenere <strong>Risultati Vincenti</strong>."
     trusted:
-        headline: We Are Trusted by Many
-        details: "We serve international companies from various business sectors, such as <strong>e-commerce</strong>, <strong>telecommunications</strong>, <strong>optical industries</strong>, and <strong>finance</strong>. Currently, our clients are located in the USA, Canada, Germany, Great Britain, Austria, and Switzerland."
+        headline: La Vision
+        details: "Vivremo immersi tra oggetti materiali IoT (Internet delle Cose), che saranno in grado di catturare i nostri dati di elaborarli e di trasmetterli ad altri oggetti. Mentre oggi la <strong>Sicurezza</strong>, e la <strong>Privacy</strong>, sono diventate fondamentali per le relazioni commerciali basate sul web. Le aziende hanno bisogno di VERE garanzie che i dati scambiati non vengano letti o acquisiti impropriamente a loro insaputa. La rete è una grande occasione di di Business per lo sviluppo economico,  ma le aziende devono esigere adeguate misure di sicurezza. Intatti l'orientamento alla Privacy da sempre sostenuto dai grandi gruppi (Commerciali, Finaziari, ecc..), ha  in passato fortemente contributio ad ottenere <strong>risultati vincenti<strong>,."
     language:
         headline: We Are Fluent in German and English
         details: Every one of us is capable of communicating in both German and English so that we can easily participate in international projects and work with customers from around the world.
@@ -631,7 +610,7 @@ company:
         details: We are not a testing squad made up of pedantic nit-pickers who are out to denigrate others’ work. Rather, our goal is to be a reliable, trusted <strong>partner</strong>. To that end, we foster a relationship with our clients that is based on respectful communication and consructive cooperation, and we always keep their needs front and center. We feel comfortable behind the scenes and are satisfied when we can accompany our clients on their road to success.
     share:
         headline: We Share and Contribute to the Testing Community
-        details: "It is very important to us to share our knowledge and skills, which is why we work hard on developing <strong>software testing tools</strong>. Xceptance LoadTest (XLT) was created to not only enhance our own testing experience but also to serve others of our profession. Open source projects help us greatly in our efforts and we try to give something in return, such as a <a href=\"/en/xlt/licensing-and-pricing.html\">community license</a> or our <strong>open source</strong> email service<a href=\"https://github.com/Xceptance/XCMailr\" target=\"_blank\"> XCMailr</a> for testing.</i>"
+        details: "It is very important to us to share our knowledge and skills, which is why we work hard on developing <i><strong>software testing tools</strong>. Xceptance LoadTest (XLT) was created to not only enhance our own testing experience but also to serve others of our profession. Open source projects help us greatly in our efforts and we try to give something in return, such as a <a href=\"/en/xlt/licensing-and-pricing.html\">community license</a> or our <strong>open source</strong> email service<a href=\"https://github.com/Xceptance/XCMailr\" target=\"_blank\"> XCMailr</a> for testing.</i>"
     collaborate:
         headline: We Collaborate
         details: We are not a testing squad made up of pedantic nit-pickers who are out to denigrate others’ work. Rather, our goal is to be a reliable, trusted <strong>partner</strong>. To that end, we foster a relationship with our clients that is based on respectful communication and constructive cooperation, and we always keep their needs front and center. We feel comfortable behind the scenes and are satisfied when we can accompany our clients on their road to success.
