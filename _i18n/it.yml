@@ -388,7 +388,7 @@ chisiamo:
 
     intro:
         headline: Chi siamo
-        description: Start-Up Innovativa
+        description: Start-Up Innovativa per la Protezione Dati Digitali
 
     facts:
         headline: Alcune cifre
@@ -410,20 +410,20 @@ chisiamo:
             value: "110"
 
     box1:
-        headline: Box1
-        details: prova prova
+        headline: La Vision
+        details: Sempre di più in futuro vivremo cosparsi tra oggetti componenti IoT (Internet delle Cose), che saranno in grado di captare i nostri dati, di elaborarli, e di trasmetterli ad altri oggetti. Quello che ci attende è uno scenrio davvero rivoluzionario per la protezione dei dati. Infatti oggi la <strong>Sicurezza</strong>, e la <strong>Privacy</strong>, (comunicazioni private), sono diventate fondamentali per le relazioni commerciali basate sul web. Le aziende hanno bisogno di vere garanzie che i dati scambiati non vengano letti o acquisiti impropriamente. Per cui la rete è una grande occasione di business per lo sviluppo economico,  ma devono esigere adeguate misure di sicurezza. Prendiamo come esempio i grandi gruppi (Commerciali, Finaziari, industriali, ecc), la privacy inista nei loro format, ha fortemente contributio ad ottenere sempre <strong>Risultati Vincenti</strong>.
     box2:
-        headline: Box2
-        details: "It doesn't matter what you want us to do for you: we are always ready to help and strive to fulfill your individual needs. We participate in agile development projects as well as in enterprise  test projects. We are also flexible enough to serve you for just a couple of days or to engage in long-term projects. It's totally up to you!"
+        headline: Storia Commerciale
+        details: Inizia una nuova era di 2 ex soci che ininterrotamente hanno operato nel settore ITC da oltre 20 anni, prima insieme come colleghi in una grande Spa informatica, poi come soci fondatori tramite la loro Srl per un altro decennio. Un esperienza positiva di crescita e soddisfazioni. Lavorando intensamente avevano intrapreso rapporti di collaborazione con grandi produttori (Cina, Europa e Stati Uniti). Avevano partecipato a fiere e convegni di alto profilo tecnologico e innovativo. Avevano intrattenuto rapporti CORPORADE con 3 grandi Banche Italiane.
     box3:
-        headline: Box3
-        details: "We serve international companies from various business sectors, such as <strong>e-commerce</strong>, <strong>telecommunications</strong>, <strong>optical industries</strong>, and <strong>finance</strong>. Currently, our clients are located in the USA, Canada, Germany, Great Britain, Austria, and Switzerland."
+        headline: Mission
+        details:  nell’ambito della protezione dei dati aziendali è quella di offrire sul mercato soluzioni innovative e sicure, garantendo l’accesso ai dati da qualsiasi piattaforma da qualunque luogo.
     box4:
-        headline: Box4
-        details: Every one of us is capable of communicating in both German and English so that we can easily participate in international projects and work with customers from around the world.
+        headline: Competenze
+        details: Il team è in grado di programmare (svilppo software), Integrare tool, Progettare e offrire consulenza in ambito di sicurezza e di comunicazioni.
     box5:
-        headline: Box5
-        details: We are not a testing squad made up of pedantic nit-pickers who are out to denigrate others’ work. Rather, our goal is to be a reliable, trusted <strong>partner</strong>. To that end, we foster a relationship with our clients that is based on respectful communication and consructive cooperation, and we always keep their needs front and center. We feel comfortable behind the scenes and are satisfied when we can accompany our clients on their road to success.
+        headline: Obiettivi
+        details: Cryptoteam è una start-up in fase di Breakeven. L'avviamento, la continuità, l'assistenza tecnica è garantita dai suoi professionisti i quali collaborano a tutta forza con i clienti per il raggiungimento degli obiettivi a loro affidati. Usufruiscono della loro infrastruttura per dimostrare alle aziene come tutelare i propri dati e le proprie comunicazioni e rendederle riservate.
     box6:
         headline: Box6
         details: "It is very important to us to share our knowledge and skills, which is why we work hard on developing <i><strong>software testing tools</strong>. Xceptance LoadTest (XLT) was created to not only enhance our own testing experience but also to serve others of our profession. Open source projects help us greatly in our efforts and we try to give something in return, such as a <a href=\"/en/xlt/licensing-and-pricing.html\">community license</a> or our <strong>open source</strong> email service<a href=\"https://github.com/Xceptance/XCMailr\" target=\"_blank\"> XCMailr</a> for testing.</i>"
