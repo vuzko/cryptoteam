@@ -392,6 +392,7 @@ chisiamo:
 
     facts:
         headline: Competenze
+
         founded:
             key: Founded
             value: "1990"
