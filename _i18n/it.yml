@@ -214,11 +214,9 @@ servizi:
             headline: Privacy-Protection-Easy
             teaser:  La Privacy è diventata strategiaca per il futuro operativo delle Aziende. Lo scopo è di aumentare la sicurezza e tutelare i dati e le informazioni che viaggiano in rete.
             description: Finalmente le istituzioni hanno deciso responsabilmente di colmare il forte disequilibrio che riguarda il mondo dei privati nel "possesso" e nel "controllo" dei propri dati e delle proprie comunicazioni. Interi settori economici sono coinvolti e rispondenti a questo bisogno. Attualmente nel privato le comunicazioni crittografate (quindi private), sono molto utilizzate dai grandi Gruppi, infatti sanno perfettamente che queste tecniche esistono e funzionano bene. La crittografia è uno strumento potente da non sottovalutare se si vuole proteggere il Know-how aziendale e progredire.
-            numbers:
 
         box2:
             headline: Cosa Intendiamo per "Patrimonio Dati Digitali"
-            teaser:
             list:
                 li1: Buste Paghe,Brevetti,Stato Patrimoniale,Contratti, Organigramma, Finanza, Atti, Fidi Bancari, Elenco Soci, Carte di Credito, Bilanci, Investimenti, Debiti, Finanziamenti, Fiscalità.
                 li2: Fatturazione, Clienti e Fornitori, Preventivi, Sales Strategy, Prezzi Riservati, Codici Prodotto, Report Micro Area, Technical know-how, Piano Marketing.
@@ -278,12 +276,10 @@ servizi:
 
         box1:
             headline: L'utente aziendale potrà usufuire di una procedura di Accesso ai dati semplice veloce e sicura.
-            teaser:
             description: Le architetture sono progettate per impedire l'accesso ai Server e otterere l'accesso ai dati a chiunque non sia autorizzato.
             numbers: Nonostante la complessità tecnica (codifica e decodifica), di autenticazione, l'utente non ha latenze operative.
 
         box2:
-            headline:
             teaser: Controllo e Gestione Centralizzata
             list:
                 li1: La soluzuione di autenticazione può essere scelta come sistema HW tipo chiavetta Usb oppure come un sistema software. Entrambe le modalità sono semplici e sicure.
@@ -300,7 +296,6 @@ servizi:
         icona: Cloud in-House
         teaser: I tuoi dati sempre con te
         titolo: La tua Piattaforma Cloud
-        sottotitolo:
         descrizione: Prova descrizione in cloud, prova, prova
 
         box1:
@@ -377,7 +372,6 @@ servizi:
             headline: Linea Guida
             teaser: Descrizione delle Attività
             description: Lavorare insieme significa stabilire e costruire un team che si misura per il raggiungimento di obiettivi comuni rivolti alla soddistazione di tutti.
-            numbers:
 
         box2:
             headline: Analisi Progetto
@@ -408,50 +402,68 @@ servizi:
                 li3: Inserimento prodotti e servizi aggiuntivi.
                 li4: Creazione testi più eventuali traduzioni.
                 li5: Tempo necessario per riunioni e gestione progetti.
-
-        box4:
-            headline: Box4 - Headline
-            teaser: Box4 - Teaser
-            list:
-                li1: Box4 - Riga1
-                li2: Box4 - Riga2
-                li3: Box4 - Riga3
-                li4: Box4 - Riga4
-
-        box5:
-            headline: Box5 - Headline
-            teaser: Box5 - Teaser
-            list:
-                li1: Box5 - Riga1
-                li2: Box5 - Riga2
-                li3: Box5 - Riga3
-                li4: Box5 - Riga4
-
-        box6:
-            headline: Box6 - Headline
-            teaser: Box6 - Teaser
-            list:
-                li1: Box6 - Riga1
-                li2: Box6 - Riga2
-                li3: Box6 - Riga3
-                li4: Box6 - Riga4
-
-        box7:
-            headline: Box7 - Headline
-            teaser: Box7 - Teaser
-            list:
-                li1: Box7 - Riga1
-                li2: Box7 - Riga2
-                li3: Box7 - Riga3
-                li4: Box7 - Riga4
 ###########################################################################
 
 
+#PAGINA CHI SIAMO--->Chi Siamo (/servizi/index.html)
+chisiamo:
+    titolo: Cryptoteam - Chi Siamo
+    descrizione: Tutto su di noi.
+
+    intro:
+        headline: Chi siamo
+        description: "We are dedicated experts for software testing: together we comprise more than 200 years of software testing experience and we absolutely love what we do."
+
+    facts:
+        headline: Alcune cifre
+        founded: Founded
+        size:
+            key: Company size
+            value: 40 employees
+        headquarters:
+            key: Headquarters
+            value: "Jena (Germany)"
+        dw:
+            key: Demandware partner
+            value: Since 2005
+        offices:
+            key: Offices
+            value: "Jena (Germany) & Cambridge (USA)"
+        customers:
+            key: Customers
+            value: "110"
+
+    box1:
+        headline: Box1
+        details: "Every one of us has profound and hands-on experience in the domain of software quality assurance. We don’t like showing off and nobody’s perfect: to always be able to meet both our own standards and our clients’ needs, we constantly evaluate our own approach to software QA and strive for continuous improvement of our daily work."
+    box2:
+        headline: Box2
+        details: "It doesn't matter what you want us to do for you: we are always ready to help and strive to fulfill your individual needs. We participate in agile development projects as well as in enterprise  test projects. We are also flexible enough to serve you for just a couple of days or to engage in long-term projects. It's totally up to you!"
+    box3:
+        headline: Box3
+        details: "We serve international companies from various business sectors, such as <strong>e-commerce</strong>, <strong>telecommunications</strong>, <strong>optical industries</strong>, and <strong>finance</strong>. Currently, our clients are located in the USA, Canada, Germany, Great Britain, Austria, and Switzerland."
+    box4:
+        headline: Box4
+        details: Every one of us is capable of communicating in both German and English so that we can easily participate in international projects and work with customers from around the world.
+    box5:
+        headline: Box5
+        details: We are not a testing squad made up of pedantic nit-pickers who are out to denigrate others’ work. Rather, our goal is to be a reliable, trusted <strong>partner</strong>. To that end, we foster a relationship with our clients that is based on respectful communication and consructive cooperation, and we always keep their needs front and center. We feel comfortable behind the scenes and are satisfied when we can accompany our clients on their road to success.
+    box6:
+        headline: Box6
+        details: "It is very important to us to share our knowledge and skills, which is why we work hard on developing <strong>software testing tools</strong>. Xceptance LoadTest (XLT) was created to not only enhance our own testing experience but also to serve others of our profession. Open source projects help us greatly in our efforts and we try to give something in return, such as a <a href=\"/en/xlt/licensing-and-pricing.html\">community license</a> or our <strong>open source</strong> email service<a href=\"https://github.com/Xceptance/XCMailr\" target=\"_blank\"> XCMailr</a> for testing.</i>"
+    collaborate:
+        headline: Box7
+        details: We are not a testing squad made up of pedantic nit-pickers who are out to denigrate others’ work. Rather, our goal is to be a reliable, trusted <strong>partner</strong>. To that end, we foster a relationship with our clients that is based on respectful communication and constructive cooperation, and we always keep their needs front and center. We feel comfortable behind the scenes and are satisfied when we can accompany our clients on their road to success.
+    atmosphere:
+        headline: Box8
+        details: "At Xceptance, we believe that a <strong>positive and supportive atmosphere</strong> is key to being good at what we do. A flat hierarchy, fun at work, and spending time together outside the office make for an environment in which we feel our best, are at our most creative, and are engaged and committed to our work."
 
 
 
 
 
+
+###########################################################################
 
 # *************************************************************************
 # ATTENZIONE! Le definifizioni che seguono sono relative al sito originario
