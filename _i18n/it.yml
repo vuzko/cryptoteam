@@ -391,8 +391,10 @@ chisiamo:
         description: Start-Up Innovativa per la protezione dei dati aziendali
 
     facts:
-        headline: Alcune cifre
-        founded: Founded
+        headline: Competenze
+        founded:
+            key: Founded
+            value: 1990
         size:
             key: Company size
             value: 40 employees
