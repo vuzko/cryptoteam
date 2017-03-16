@@ -385,7 +385,7 @@ chisiamo:
     descrizione: Tutto su di noi.
 
     intro:
-        headline: Chi siamo
+        headline: Chi Siamo
         description: Start-Up Innovativa per la protezione dei dati aziendali
 
     facts:
@@ -396,11 +396,11 @@ chisiamo:
 # 1990 è un valore numerico e DEVE essere messo tra virgolette
 # 40 employees è una stringa e non richiede le virgolette
         riga1:
-            key: Riga1
-            value: "1990"
+            key: Sviluppo Software
+            value: Realizzare i singoli componenti software in conformità alle specifiche ricevute.
         riga2:
-            key: Riga2
-            value: 40 employees
+            key: Integrazione di tools
+            value: Impostare lo sviluppo di programmi software e funzioni ed integrarli tra di loro.
         riga3:
             key: Riga3
             value: Inizia una nuova era di 2 ex soci che ininterrotamente hanno operato nel settore ITC da oltre 20 anni, prima come colleghi in una grande Spa informatica, poi come soci fondatori tramite la loro Srl per un altro decennio. Un esperienza positiva di crescita e soddisfazioni. Lavorando insieme intrattennero rapporti di collaborazione con grandi produttori (Cina, Europa e Stati Uniti), parteciparono a fiere e convegni di alto profilo tecnologico e innovativo. In più usufrirono di rapporti CORPORADE con 3 grandi Banche Italiane.
