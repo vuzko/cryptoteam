@@ -412,7 +412,7 @@ chisiamo:
             value: Redigiamo documentazione dettagliata.
         riga6:
             key: Consulenza
-            value: Conssigliamo le soluzioni più adeguate. 
+            value: Consigliamo le soluzioni più adeguate.
 
     box1:
         headline: La Vision
@@ -422,7 +422,7 @@ chisiamo:
         details: Inizia una nuova era di 2 ex soci che ininterrotamente hanno operato nel settore ITC da oltre 20 anni, prima come colleghi in una grande Spa informatica, poi come soci fondatori tramite la loro Srl per un altro decennio. Un esperienza positiva di crescita e soddisfazioni. Lavorando insieme intrattennero rapporti di collaborazione con grandi produttori (Cina, Europa e Stati Uniti), parteciparono a fiere e convegni di alto profilo tecnologico e innovativo. In più usufrirono di rapporti CORPORATE con 3 grandi Banche Italiane.
     box3:
         headline: Mission
-        details:  nell’ambito della protezione dei dati aziendali è quella di offrire sul mercato soluzioni innovative e sicure, garantendo l’accesso ai dati da qualsiasi piattaforma da qualunque luogo.
+        details:  Integriamo la Privacy nei processi informatici aziendali (dati a riposo, a lavoro, in movimento). Nell’ambito della protezione dei dati la nostra offerta si basa su soluzioni innovative, garantendo l’accesso ai dati sicuro da qualsiasi piattaforma e in qualunque luogo.
     box4:
         headline: Competenze
         details: Il team è in grado di programmare (svilppo software), Integrare tool, Progettare e offrire consulenza in ambito di sicurezza, di riservatezza delle comunicazioni aziendali.
@@ -430,8 +430,8 @@ chisiamo:
         headline: Obiettivi
         details: Cryptoteam è una start-up in fase di Breakeven. L'avviamento, la continuità, l'assistenza tecnica è garantita dai suoi professionisti i quali collaborano a tutta forza con i clienti per il raggiungimento degli obiettivi. Usufruiscono della loro infrastruttura tecnologica per dimostrare alle aziende come tutelare i propri dati e le proprie comunicazioni rendendole riservate.
     box6:
-        headline: Box6
-        details: "It is very important to us to share our knowledge and skills, which is why we work hard on developing <i><strong>software testing tools</strong>. Xceptance LoadTest (XLT) was created to not only enhance our own testing experience but also to serve others of our profession. Open source projects help us greatly in our efforts and we try to give something in return, such as a <a href=\"/en/xlt/licensing-and-pricing.html\">community license</a> or our <strong>open source</strong> email service<a href=\"https://github.com/Xceptance/XCMailr\" target=\"_blank\"> XCMailr</a> for testing.</i>"
+        headline: Filosofia
+
     collaborate:
         headline: Box7
         details: We are not a testing squad made up of pedantic nit-pickers who are out to denigrate others’ work. Rather, our goal is to be a reliable, trusted <strong>partner</strong>. To that end, we foster a relationship with our clients that is based on respectful communication and constructive cooperation, and we always keep their needs front and center. We feel comfortable behind the scenes and are satisfied when we can accompany our clients on their road to success.
