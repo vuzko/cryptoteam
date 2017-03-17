@@ -83,13 +83,12 @@ navigation:
         ProgettiPersonalizzati: Progetti Personalizzati
 
 # Offerta
-        Offerta: Panoramica
+        Offerta: Cloud in-House
+        Crittografia: Cifratura Dati
         PiattaformaPKI: Piattaforma PKI
-        Crittografia: Crittografia
-        CancellazioneSicura: Cancellazione Sicura
-        Cloud: Cloud
         VoIPPBX: VoIP PBX
         IDS: IDS
+        CancellazioneSicura: Cancellazione Sicura
 
 # Normativa
         Notizie: Ultime Notizie
@@ -104,7 +103,11 @@ navigation:
         Tecnico: Tecnico
 ########################################################################
 
-# Da qui in avanti sono riportati i testi contenuti nelle varie pagine.
+
+
+# *************************************************************************
+# INIZIO CONTENUTI HOMEPAGE (accesso diretto al sito http oppure cliccando sul logo)
+# *************************************************************************
 
 # The homepage
 homepage:
@@ -140,6 +143,12 @@ homepage:
         headline: Benvenuto in CryptoTeam!<br/>Vieni a conoscerci.
         action_button: Scopri
 ########################################################################
+
+
+
+# *************************************************************************
+# INIZIO CONTENUTI MENU COSA FACCIAMO
+# *************************************************************************
 
 # Inizio dei contenuti delle pagine della voce di menu principale Servizi
 servizi:
@@ -379,6 +388,54 @@ servizi:
 ###########################################################################
 
 
+
+# *************************************************************************
+# INIZIO CONTENUTI MENU OFFERTA
+# *************************************************************************
+offerta:
+
+# Pagina OFFERTA -> Cloud In-House (/offerta/index.html)
+    cloud:
+        titolo: Cloud in-House
+        descrizione: CryptoTeam, gli esperti in sicurezza dei dati e privacy.
+
+        carousel:
+            service_slide:
+                text: Carousel Slide 1<br/>Perché la tua sicurezza è importante
+                btn: Scopri
+            dw_slide: Carousel Slide 2<br/>Carousel Slide 2
+            load_slide: Carousel Slide 3<br/>Carousel Slide 3
+
+        intro:
+            headline: Cloud in-House
+            details: Aiutiamo i nostri clienti a proteggere uno dei patrimoni più preziosi, l'insieme globale dei dati aziendali.
+
+        riquadri:
+            box1:
+                headline: Protezione dei dati
+                details: La protezione dei dati aziendali non è soltanto necessaria per adeguarsi alle normative sulla privacy, è una scelta di tutela del patrimonio aziendale.
+            box2:
+                headline: Piattaforma PKI
+                details: Scopri come gestire, in piena autonomia, l'emissione dei certificati a chiave pubblica X509 per la tua azienda.
+            box3:
+                headline: Cloud in House
+                details: È un canale di lavoro sicuro e riservato. Questa soluzione consente di distribuire in modo sicuro i dati sensibili all'interno dell'azienda
+            box4:
+                headline: Crittografia SUPER
+                details: Scrittura convenzionale segreta, decifrabile solo da chi sia a conoscenza del codice. Come la usiamo?
+
+        welcome_teaser:
+            headline: Benvenuto in CryptoTeam!<br/>Vieni a conoscerci.
+            action_button: Scopri
+########################################################################
+
+
+
+
+# *************************************************************************
+# INIZIO CONTENUTI MENU CHI SIAMO
+# *************************************************************************
+
 #PAGINA CHI SIAMO--->Chi Siamo (/servizi/index.html)
 chisiamo:
     titolo: Cryptoteam - Chi Siamo
@@ -391,10 +448,10 @@ chisiamo:
     facts:
         headline: Competenze e Abilità
 
-# ATTENZIONE! I valori NUMERICI vanno messi tra virgolette!
-# Esempio:
-# 1990 è un valore numerico e DEVE essere messo tra virgolette
-# 40 employees è una stringa e non richiede le virgolette
+        # ATTENZIONE! I valori NUMERICI vanno messi tra virgolette!
+        # Esempio:
+        # 1990 è un valore numerico e DEVE essere messo tra virgolette
+        # 40 employees è una stringa e non richiede le virgolette
         riga1:
             key: Sviluppo Software
             value: Realizziamo i singoli componenti software
