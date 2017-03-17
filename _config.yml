@@ -40,13 +40,12 @@ sitenavigation:
         - name: Progetti Personalizzati
   - name: Offerta
     secondarynav:
-        - name: Offerta
-        - name: Piattaforma PKI
-        - name: Crittografia
-        - name: Cancellazione Sicura
         - name: Cloud
+        - name: Crittografia
+        - name: Piattaforma PKI
         - name: VoIP PBX
         - name: IDS
+        - name: Cancellazione Sicura
   - name: Notizie
     secondarynav:
         - name: Notizie
