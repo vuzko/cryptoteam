@@ -40,7 +40,7 @@ sitenavigation:
         - name: Progetti Personalizzati
   - name: Offerta
     secondarynav:
-        - name: Cloud
+        - name: Offerta
         - name: Crittografia
         - name: Piattaforma PKI
         - name: VoIP PBX
