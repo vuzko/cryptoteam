@@ -431,11 +431,12 @@ offerta:
         descrizione: CryptoTeam, gli esperti in sicurezza dei dati e privacy.
 
         carousel:
-            service_slide:
-                text: Carousel Slide 1<br/>Perché la tua sicurezza è importante
-                btn: Scopri
-            dw_slide: Carousel Slide 2<br/>Carousel Slide 2
-            load_slide: Carousel Slide 3<br/>Carousel Slide 3
+            slide1:
+                text: Carousel Slide 1<br/>La sicurezza dei tuoi dati è importante
+            slide2:
+                text: Carousel Slide 2<br/>Sottotitolo Slide 2
+            slide3:
+                text: Carousel Slide 3<br/>Sottotitolo Slide 3
 
         intro:
             headline: Cloud in-House
