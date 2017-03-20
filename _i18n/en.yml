@@ -462,6 +462,290 @@ offerta:
 ########################################################################
 
 
+# Pagina OFFERTA -> Cifratura Dati (/offerta/crypto.html)
+    cifratura:
+        title: Cifratura Dati
+        description: The most flexible load and performance testing tool for Engineering.
+
+        intro:
+            headline: Cifratura Dati
+            details: Dettagli Offerta Cifratura Dati.
+
+        technologies:
+            headline: Known Technologies
+            lead: "XLT utilizes what you already know: Java, JUnit4, Selenium WebDriver. Absolutely platform-independent."
+            details:
+                lead: Because it takes time to learn new things and because you have established tools and processes, we
+                    built XLT on well-known and tested foundations.
+                text: "<p>All this gives you the tools to get the most out of XLT. It integrates well, you can extend it well, and you won't have a hard time mastering it.</p>
+
+                <ul>
+                    <li><strong>Java</strong> is the scripting language when scripting is required. Use your favourite IDE, profilers, and debuggers.</li>
+                    <li><strong>JUnit</strong> allows easy integration into test automation processes.</li>
+                    <li>Result data is delivered as <strong>CSV</strong> for optional post-processing.</li>
+                    <li>Reports are <strong>HTML</strong> for easy sharing.</li>
+                    <li>Reports are rendered from <strong>XML via XSL</strong> for easy adjustments of content and layout.</li>
+                    <li>Reports feature an <strong>XML data file</strong> for machine-based evaluation.</li>
+                    <li>The <strong>command line</strong> helps you automate everything quickly.</li>
+                    <li><strong>WebDriver</strong> is used for functional testing as well as client-performance testing.</li>
+                </ul>
+
+                <p>
+                    And last but not least, XLT is platform-independent. Write on Windows, run on Linux. Compose on Mac, deploy on Windows. The possibilities are endless.
+                </p>"
+
+        ui:
+            headline: Intuitive UI
+            lead: The Script Developer is your intuitive UI for creating and maintaining functional tests. Use our open file format or export to Java.
+            details:
+                lead: The Script Developer is your IDE for composing functional tests. It‘s your place to record, edit, and replay tests with Firefox. The generated scripts can later be used with any WebDriver.
+                text:
+                    keyfeatures:
+                        headline: Key Features
+                        text: Script Developer is a Firefox extension that lets you record, edit, and replay Selenium-style scripts with all the benefits of XLT test automation.
+                        list: "<li><strong>Record & Replay</strong> test scripts in Firefox.</li>
+                                <li><strong>Edit</strong> scripts.</li>
+                                <li><strong>Debug</strong> scripts with the integrated debugger, highlighter, and assertion evaluator.</li>
+                                <li>Add <strong>comments</strong>.</li>
+                                <li>Extract <strong>reusable modules</strong>.</li>
+                                <li>Manage global and local <strong>test data</strong>.</li>
+                                <li><strong>Document</strong> test cases and code.</li>
+                                <li>Execute <strong>batch tests</strong>.</li>"
+                    download:
+                        headline: Free Download
+                        text: You can download the XLT Script Developer independently of the full Xceptance LoadTest package. That enables you to design and run tests in Firefox. <strong>It‘s free and updates come automatically</strong>.
+
+        deployment:
+            headline: Deployment &amp; Cloud
+            lead: XLT is easy to install and start, no OS dependencies whatsoever. Ready-to-use Amazon-EC2 images are available.
+            details:
+                lead: XLT is platform-independent and you just have to unzip it. If you need ready-to-go cloud images, we provide Amazon Web Services EC2-AMIs free of charge.
+                text: "<p>
+                    You can deploy XLT to any cloud provider and use any OS that has support for Java 7 or 8. We strongly recommend Unix server environments for running large tests.
+                </p>
+
+                <p>
+                    XLT runs HTTPS-based communication. You can use proxies, authentication, and your proven tools to deploy and run XLT. Our goal was to keep it as simple as
+                    possible, to make it as flexible as possible.
+                </p>"
+
+        reporting:
+            headline: Awesome Reporting
+            lead: Out-of-the-box reporting that is just right. No configuration work, all numbers at a glance. Comparison and trend reporting included.
+            details:
+                lead: Are you tired of configuring your reports manually? Are the provided data-sets just not what you want or do they hide crucial details? We‘ve got you covered! XLT provides best-practice reports out of the box, based on over a decade of load and performance testing experience.
+                text:
+                    loadtestreport:
+                        headline: Load Test Reports
+                        text: " <p>
+                                    The XLT performance report includes everything you need to know about your application.
+                                </p>
+                                <p>
+                                    Besides the obvious data such as runtime totals, averages, and medians, you can find projections for hourly or daily traffic. It also features service-level-agreement numbers, lists the configuration of your test as well as all errors and problems, and includes links to the result browser for quick analysis.
+                                    <a href=\"/demo-reports/report/\" target=\"_blank\">Open an example here</a>.
+                                </p>"
+                        link:
+                            alt: LoadTest Report Image
+                            title: Overview of a LoadTest Report
+                    comparisonreports:
+                        headline: Comparison Reports
+                        text: "<p>
+                                    <a href=\"/demo-reports/comparison-report/\" target=\"_blank\">View here. </a>If you run a test again and you want to know if the later round was in fact better, you can generate a comparison report.
+                                </p>
+                                <p>
+                                    Color codes and percentages help you quickly determine what changed between the test runs.
+                                </p>"
+                        link:
+                            alt: Comparison Report Example Table
+                            title: Color Codes and Percentages For Easy Comparison
+                    trendreports:
+                        headline: Trend Reports
+                        text: "<p>
+                                    <a href=\"/demo-reports/trend-report/\" target=\"_blank\">View here. </a>A trend report shows how performance developed over many test runs. It also uses color codes to visualize the changes.
+                                </p>
+                                <p>
+                                    The trend report visualizes two performance trends: first, a baseline comparison showing you the performance changes compared to your first test run; and second, a comparison to the previous run telling you what happened at a specific point in time.
+                                </p>"
+                        link:
+                            alt: Example Trend Chart
+                            title: Trend Performance Over Different Runs
+
+
+        realtime:
+            headline: Instant Feedback
+            lead: Realtime monitoring capabilties give you instant insights into progress and health of your running load test.
+            details:
+                lead: XLT realtime monitoring gives you quick and realible insights into your running tests by utilizing known technologies.
+                text: <p>By supporting the well known and established open source tools Graphite and Grafana, XLT enables you to get all the needed insights into running tests instantly.</p><p>You can also correlate XLT data with all your infrastructure data, if you use Graphite for your monitoring already.</p>
+                image:
+                    alt: Grafana Views of an running XLT test
+                    title: Realtime Monitoring with XLT
+
+        adjustable:
+            headline: Easily Adjustable
+            lead: Add new data sources, modify the report content and layout, build powerful test suites as frameworks for even more testing.
+            details:
+                lead: A good tool has to be adjustable to the environment it is used in. Thus, XLT supports many ways to be extended or modified to fit your needs even better.
+                reports:
+                    headline: Reports
+                    text: <p>All reports can be adjusted in content and layout, because we deliver the CSS and the render templates as part of XLT. So if you need custom layouts of reports, you are covered. You want to have your own summary of data? Not a problem. You want to reduce the data? Fine as well.</p>
+
+                data:
+                    headline: Custom and External Data
+                    text: "<p>
+                            During a load test, XLT logs a large amount of data relevant to the test run. Nevertheless, sometimes it comes in handy to log additional information about the system under test. For this purpose, XLT provides custom values.
+                        </p>
+                        <p>
+                            The XLT report generator lets you include external data files in the report. This can be used if it’s impossible to directly access the external data source during the load test runtime.
+                        </p>"
+
+                java:
+                    headline: Use Java
+                    text: <p>If there is anything that is not part of XLT, you can use Java to make it happen. Of course there are limits, because you can influence the measurements or limit the scaling, but with that in mind, a lot of things are possible.</p>
+
+
+        automation:
+            headline: Made for Automation
+            lead: Java as script language, open data formats, command lines, JUnit test principle, WebDriver support, and much more.
+            details:
+                lead: XLT is made to be integrated into all kinds of automation processes. No matter if it‘s just a shell script or a full build process.
+                text: <p>We built XLT in a way that perfectly gets along with your preferred IDE, the command line, build processes, or just with a little bit of shell scripting. Engineers need things to work smoothly and quickly. We have that in mind.</p>
+
+        profiles:
+            headline: Load Profiles
+            lead: Arrival rate or steady user rate, ramp-ups, and flexible profiles over the course of a test run. Realistic or predictable, your choice.
+            details:
+                lead: XLT supports a very flexible setup of load profiles ranging from steady user rates to arrival rates. Compose long-running test setups to reflect what happens during a day, absolutely freely configurable.
+                text: "<h3>Load Profile Features</h3>
+                <ul>
+                    <li><strong>Arrival rate model</strong> for realistic simulations.</li>
+                    <li><strong>Steady user rate</strong> for predictable measurements.</li>
+                    <li><strong>Ramp-up</strong> for gradually increasing traffic.</li>
+                    <li><strong>Free configuration</strong> to compile challenging tests.</li>
+                </ul>
+
+                <h3>Freely Configurable</h3>
+                <p>
+                    Do you need to have a test where, after a slow ramp-up of low traffic, the load jumps within a minute to peak traffic, stays on that level for 10 minutes to then come back in waves? Well, XLT lets you do so. No limits. It works for arrival rate-based tests as well as for user-based tests.
+                </p>
+
+                <p>
+                    <img src=\"/images/xlt/free-load-profile.png\" class=\"img-responsive\" alt=\"Example View of a Load Profile\" title=\"Wave Pattern of a Load Profile\" />
+                </p>"
+
+        scenarios:
+            headline: User Scenarios
+            lead: Unlimited number of user scenarios that can be part of a test. Each scenario can have a different configuration or load profile.
+            details:
+                lead: Reality is versatile and your test should reflect that. You can set up as many different scenarios as you need and run them together.
+                text: <p>Each scenario can be everything from a single pageview to a long-running call center operation. You can give each scenario an individual configuration that includes the load profile. The start of scenarios can be delayed in relation to other scenarios if needed.</p>
+
+        resultbrowser:
+            headline: See Everything
+            lead: The result browser precisely shows you what happens in a scenario. It visualizes any failure situation for a post-mortem analysis as well.
+            details:
+                lead: The result browser is your tool to visually check the loaded pages and debug problems during test execution.
+                text:
+                    block1:
+                        image:
+                            alt: Start View of the Result Browser
+                            title: The Result Browser
+                        text: "<p>
+                                    During script development, the result browser shows you all details about your recently executed script, so you can make sure that you covered everything and that the requests match the real traffic.
+                                </p>
+                                <p>
+                                    When executing WebDriver tests, the right side displays the web page as a screenshot. When
+                                    executing with XLT's built-in HtmlUnit, the right side is an estimated rendering of the downloaded data.
+                                </p>"
+                    block2:
+                        image:
+                            alt: Details View of the Result Browser
+                            title: Detailed Information About Application Errors
+                        text: "<p>
+                                    Imagine a long-running test and you see three errors during the execution but thousands of transactions went just fine. XLT provides deep insights into the moments when the
+                                    application misbehaves.
+                                </p>
+                                <p>
+                                    When errors occur during load testing, the last moments of the transaction are saved, including the downloaded data and all technical details. You can thus see what was sent and received. When you use the request-ID feature of XLT, you even get a unique ID you can match against your server logs.
+                                </p>
+                                <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Open an example here</a>.</p>"
+
+        verify:
+            headline: Verify Everything
+            lead: Assertions permit you to verify everything in detail to ensure that your test is valid.
+            details:
+                lead: A test is only as good as its verifications. XLT supports and encourages as much validation as possible to really make sure that the pages loaded match the expectations.
+                text: <p>You can use the full syntax of assertions known from JUnit and Selenium. If you like Hamcrest, include it, XLT gives you that flexibility. XLT also provides access to all sub-requests of a page, so you can run even more detailed validations.
+                    The XLT Action API allows you to include validations before and after each activity.</p>
+
+        scalable:
+            headline: Scalable
+            lead: Run load tests from any number of machines, different locations, and with nearly unlimited users.
+            details:
+                lead: You can utilize an unlimited number of machines for your load testing. Scale up across datacenters easily. XLT orchestrates the load distribution, uploads, and downloads on its own.
+                text: "<p>
+                            Scale up XLT per machine by bringing up more processes for perfect hardware utilization. Scale up across machines easily by adding more locations. XLT uses differential and concurrent up- and downloads for maximum speed.
+                        </p>
+                        <p>
+                            The load is automatically distributed across all agents. If you use heterogenous hardware, you can attach a weight to each machine to indicate a different speed or size.
+                        </p>
+                        <p>
+                            Installing XLT is easy and only takes a few minutes. It leverages HTTPS and authentication for protecting your agents. Bind XLT to any port you wish.
+                        </p>
+                        <p>
+                            Preconfigured Amazon Web Service Images (AMIs) get you started quickly on Amazon EC2. Just start it and you are good to go.
+                        </p>"
+
+        configurable:
+            headline: Configurable
+            lead: Set timeouts, keep-alive, compression, image loading, permitted hosts, thinktimes, error handling, and much more.
+            details:
+                lead: To match the behavior with your testing needs, lots of parameters can be adjusted.
+                text: "<p>
+                            XLT offers a richt set of options to modify the behavior so that all kinds of different
+                            configurations can be tested. For example:
+                        </p>
+
+                        <ul>
+                            <li><strong>Keep-alive</strong></li>
+                            <li><strong>Timeouts</strong></li>
+                            <li><strong>Content compression</strong></li>
+                            <li><strong>Header fields</strong></li>
+                            <li><strong>Thinktimes</strong></li>
+                            <li><strong>Content loading</strong></li>
+                            <li><strong>Error handling</strong></li>
+                            <li><strong>Maximum error count</strong></li>
+                            <li><strong>Permitted hosts</strong></li>
+                            <li><strong>User agent</strong></li>
+                        </ul>
+
+                        <p>
+                            If XLT does not provide a property for a certain parameter, it can also be influenced programmatically.
+                        </p>"
+        archivable:
+            headline: Archivable
+            lead: Open formats for reports and results to archive them. Go back later for reanalysis. Test configurations are stored with the reports.
+            details:
+                lead: XLT uses open formats for results and reports. Perfectly suited for storing them anywhere.
+                text: "<p>
+                       Result data and reports are separated so you can easily make a decision if you want to store a lot of data or just the final outcome. Stored result data can be turned into reports anytime again on any machine.
+                    </p>
+                    <p>
+                        Reports and results store your full test configuration. Repeating the exact same run days or weeks later is a matter of seconds.
+                    </p>"
+
+        shareable:
+            headline: Shareable
+            lead: Test suites and configurations can be shared easily. Reports are plain HTML and perfect for quick sharing.
+            details:
+                lead: XLT reports are easily sharable with anyone. They are not connected to XLT anymore after they have been created.
+                text: "<p>
+                            All reports are plain HTML. So you can zip them up, mail them, upload them, attach them, and share them with whatever system you prefer.
+                        </p>
+                        <p>
+                            Did you know that you can start your load test on one machine, and collect the results on another? Or maybe your co-worker can collect the data later and analyze it for you, while you're already on your way to a meeting.</p>"
+
+
 
 # *************************************************************************
 # INIZIO CONTENUTI MENU CHI SIAMO
