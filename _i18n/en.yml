@@ -437,6 +437,8 @@ offerta:
                 text: Carousel Slide 2<br/>Sottotitolo Slide 2
             slide3:
                 text: Carousel Slide 3<br/>Sottotitolo Slide 3
+            slide4:
+                text: Cloud Privato <br/>Concordiamo il servizio di Housing & Outsorsing
 
         intro:
             headline: Cloud in-House
