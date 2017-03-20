@@ -401,13 +401,13 @@ offerta:
 
         carousel:
             slide1:
-                text: Carousel Slide 1<br/>La sicurezza dei tuoi dati è importante
+                text: Protezione Dati <br/>Cloud Privato Data Encryption
             slide2:
-                text: Carousel Slide 2<br/>Sottotitolo Slide 2
+                text: Acquista Storage <br/>Cloud CryptoTeam Data Encryption
             slide3:
-                text: Carousel Slide 3<br/>Sottotitolo Slide 3
+                text:  Cloud CryptoTeam <br/>Condivisione Gratuita 30 Giorni
             slide4:
-                text: Carousel Slide 4<br/>Sottotitolo Slide 4
+                text: Cloud Privato <br/>Concordiamo il servizio di Housing & Outsorsing
 
         intro:
             headline: Cloud in-House
@@ -415,17 +415,17 @@ offerta:
 
         riquadri:
             box1:
-                headline: Protezione dei dati
-                details: La protezione dei dati aziendali non è soltanto necessaria per adeguarsi alle normative sulla privacy, è una scelta di tutela del patrimonio aziendale.
+                headline: Acquista Cloud Privato
+                details:  Progettiamo e realizziamo piattaforme Cloud Privati per la protezione dei dati aziendali. La crittografia inisita nel sistema garantisce, tramite chiavi a 2048 bit e algoritmo SHA256, riservatezza e condivisione sicura.
             box2:
-                headline: Piattaforma PKI
-                details: Scopri come gestire, in piena autonomia, l'emissione dei certificati a chiave pubblica X509 per la tua azienda.
+                headline: Acquista Storage CryptoTeam
+                details: Verifica il piano tariffario basato sul costo fisso mensile della risorsa scelta e la sua capacità. Ti permetterà di avere una gestione di Back-up e di condivisione dei dati in sicurezza con chiavi a 2048 bit algoritmo SHA256.
             box3:
-                headline: Cloud in House
-                details: È un canale di lavoro sicuro e riservato. Questa soluzione consente di distribuire in modo sicuro i dati sensibili all'interno dell'azienda
+                headline: Prova Condivisione Gratuita
+                details: Ottimizza il tuo lavoro prova il servizio gratuito Cloud CryptoTeam di 30 giorni. I responsabili aziendali con pochi click potranno creare collegamenti di condivisione, programmare password e date di scadenza.
             box4:
-                headline: Crittografia SUPER
-                details: Scrittura convenzionale segreta, decifrabile solo da chi sia a conoscenza del codice. Come la usiamo?
+                headline: Servizio di Housing & Outsorsing
+                details: Il servizio di Housing è costituito dalla possibilità di concordare con il cliente di ottenere uno spazio delocalizzato nel quale ospitare i suoi server, mentre l’outsourcing è la possibilità di concordare il solo servizio.
 
         welcome_teaser:
             headline: Benvenuto in CryptoTeam!<br/>Vieni a conoscerci.
@@ -741,22 +741,22 @@ chisiamo:
         # 40 employees è una stringa e non richiede le virgolette
         riga1:
             key: Sviluppo Software
-            value: Realizziamo i singoli componenti software
+            value:
         riga2:
-            key: Integrazione Tools
-            value: Integriamo più programmi e funzioni
+            key: Integrazione di più Tools
+            value:
         riga3:
-            key: Convalida
-            value: Autorizzazione applicativi
-        riga4:
-            key: Collaudo
-            value: Organiziamo le attività di collaudo
-        riga5:
-            key: Definizioni Procedure
-            value: Redigiamo documentazione dettagliata
-        riga6:
             key: Consulenza
-            value: Consigliamo le soluzioni più adeguate
+            value:
+        riga4:
+            key:
+            value:
+        riga5:
+            key:
+            value:
+        riga6:
+            key:
+            value:
 
     box1:
         headline: La Vision
