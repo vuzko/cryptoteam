@@ -406,6 +406,8 @@ offerta:
                 text: Carousel Slide 2<br/>Sottotitolo Slide 2
             slide3:
                 text: Carousel Slide 3<br/>Sottotitolo Slide 3
+            slide4:
+                text: Carousel Slide 4<br/>Sottotitolo Slide 4
 
         intro:
             headline: Cloud in-House
