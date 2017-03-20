@@ -443,8 +443,8 @@ offerta:
             details: Dettagli Offerta Cifratura Dati.
 
         technologies:
-            headline: Known Technologies
-            lead: "XLT utilizes what you already know: Java, JUnit4, Selenium WebDriver. Absolutely platform-independent."
+            headline: Security Mail OpenXPKI
+            lead: "Richiedi un preventivo per una piattaforma PKI Public Key infrastructure in grado di gestire e di soddisfare le esigenze di grandi e medie organizzazioni."
             details:
                 lead: Because it takes time to learn new things and because you have established tools and processes, we
                     built XLT on well-known and tested foundations.
@@ -577,7 +577,7 @@ offerta:
 
         automation:
             headline: Made for Automation
-            lead: Java as script language, open data formats, command lines, JUnit test principle, WebDriver support, and much more.
+              lead: Java as script language, open data formats, command lines, JUnit test principle, WebDriver support, and much more.
             details:
                 lead: XLT is made to be integrated into all kinds of automation processes. No matter if it‘s just a shell script or a full build process.
                 text: <p>We built XLT in a way that perfectly gets along with your preferred IDE, the command line, build processes, or just with a little bit of shell scripting. Engineers need things to work smoothly and quickly. We have that in mind.</p>
