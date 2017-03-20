@@ -401,9 +401,9 @@ offerta:
 
         carousel:
             slide1:
-                text: Protezione Dati <br/>Cloud Data Encryption sul tuo Server
+                text: Protezione Dati <br/>Cloud Privato Data Encryption
             slide2:
-                text: Acquista <br/>Cloud Storage Data Encryption
+                text: Acquista Storage <br/>Cloud CryptoTeam Data Encryption
             slide3:
                 text:  Cloud CryptoTeam <br/>Condivisione Gratuita 30 Giorni
             slide4:
@@ -415,8 +415,8 @@ offerta:
 
         riquadri:
             box1:
-                headline: Private Cloud Data Encryption
-                details:  Progettiamo e realizziamo piattaforme Cloud in-House sicure per la protezione dei dati Aziendali. La crittografia inisita nel sistema garantisce riservatezza e condivisione.    
+                headline: Cloud Privato Data Encryption
+                details:  Progettiamo e realizziamo piattaforme Cloud Private sicure per la protezione dei dati Aziendali. La crittografia inisita nel sistema garantisce riservatezza e condivisione.
             box2:
                 headline: Piattaforma PKI
                 details: Scopri come gestire, in piena autonomia, l'emissione dei certificati a chiave pubblica X509 per la tua azienda.
