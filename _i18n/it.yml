@@ -415,14 +415,14 @@ offerta:
 
         riquadri:
             box1:
-                headline: Cloud Privato Data Encryption
+                headline: Cloud Privato
                 details:  Progettiamo e realizziamo piattaforme Cloud Privati per la protezione dei dati aziendali. La crittografia inisita nel sistema garantisce riservatezza e condivisione.
             box2:
                 headline: Acquista Storage
-                details: Verifica il piano tariffario a consumo basato sul costo fisso della risorsa scelta e la sua capacità. Ti permetterà di cifrare dati con chiavi a 2048 bit Algoritmo SHA256.
+                details: Verifica il piano tariffario a consumo basato sul costo fisso mensile della risorsa scelta e la sua capacità. Ti permetterà di avere protezione dei dati con chiavi a 2048 bit algoritmo SHA256, e condiderli in sicurezza.
             box3:
-                headline: Cloud in House
-                details: È un canale di lavoro sicuro e riservato. Questa soluzione consente di distribuire in modo sicuro i dati sensibili all'interno dell'azienda
+                headline: Condivisione Grautita 30 GG.
+                details:
             box4:
                 headline: Crittografia SUPER
                 details: Scrittura convenzionale segreta, decifrabile solo da chi sia a conoscenza del codice. Come la usiamo?
