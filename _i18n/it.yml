@@ -416,13 +416,13 @@ offerta:
         riquadri:
             box1:
                 headline: Cloud Privato
-                details:  Progettiamo e realizziamo piattaforme Cloud Privati per la protezione dei dati aziendali. La crittografia inisita nel sistema garantisce riservatezza e condivisione.
+                details:  Progettiamo e realizziamo piattaforme Cloud Privati per la protezione dei dati aziendali. La crittografia inisita nel sistema garantisce,tramite chiavi a 2048 bit e algoritmo SHA256, riservatezza e condivisione sicura.
             box2:
                 headline: Acquista Storage
                 details: Verifica il piano tariffario basato sul costo fisso mensile della risorsa scelta e la sua capacità. Ti permetterà di avere una protezione dei dati con chiavi a 2048 bit algoritmo SHA256, e condiderli in sicurezza.
             box3:
                 headline: Prova Condivisione Gratuita
-                details: Ottimizza il tuo lavoro prova il servizio gratuito Cloud CryptoTeam 30 giorni. Potrai salvare dati in modalità sicura, con pochi click creare collegamenti semplici di condivisione, programmare password e date di scadenza. 
+                details: Ottimizza il tuo lavoro prova il servizio gratuito Cloud CryptoTeam di 30 giorni. Potrai salvare dati in modalità sicura, con pochi click creare collegamenti semplici di condivisione, programmare password e date di scadenza.
             box4:
                 headline: Crittografia SUPER
                 details: Scrittura convenzionale segreta, decifrabile solo da chi sia a conoscenza del codice. Come la usiamo?
