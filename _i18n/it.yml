@@ -415,8 +415,8 @@ offerta:
 
         riquadri:
             box1:
-                headline: Protezione dei dati
-                details: La protezione dei dati aziendali non è soltanto necessaria per adeguarsi alle normative sulla privacy, è una scelta di tutela del patrimonio aziendale.
+                headline: Private Cloud Data Encryption
+                details:  Progettiamo e realizziamo piattaforme Cloud in-House sicure per la protezione dei dati Aziendali. La crittografia inisita nel sistema garantisce riservatezza e condivisione.    
             box2:
                 headline: Piattaforma PKI
                 details: Scopri come gestire, in piena autonomia, l'emissione dei certificati a chiave pubblica X509 per la tua azienda.
