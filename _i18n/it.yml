@@ -416,9 +416,10 @@ offerta:
         riquadri:
             box1:
                 headline: Cloud Privato Data Encryption
+                details:  Progettiamo e realizziamo piattaforme Cloud Privati per la protezione dei dati aziendali. La crittografia inisita nel sistema garantisce riservatezza e condivisione.
             box2:
-                headline: Piattaforma PKI
-                details: Scopri come gestire, in piena autonomia, l'emissione dei certificati a chiave pubblica X509 per la tua azienda.
+                headline: Acquista Storage
+                details: Verifica il piano tariffario a consumo basato sul costo fisso della risorsa scelta e la sua capacità. Ti permetterà di cifrare dati con chiavi a 2048 bit Algoritmo SHA256.
             box3:
                 headline: Cloud in House
                 details: È un canale di lavoro sicuro e riservato. Questa soluzione consente di distribuire in modo sicuro i dati sensibili all'interno dell'azienda
