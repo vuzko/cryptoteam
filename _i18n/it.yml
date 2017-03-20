@@ -415,17 +415,17 @@ offerta:
 
         riquadri:
             box1:
-                headline: Cloud Privato
+                headline: Acquista Cloud Privato
                 details:  Progettiamo e realizziamo piattaforme Cloud Privati per la protezione dei dati aziendali. La crittografia inisita nel sistema garantisce, tramite chiavi a 2048 bit e algoritmo SHA256, riservatezza e condivisione sicura.
             box2:
-                headline: Acquista Storage
+                headline: Acquista Storage CryptoTeam
                 details: Verifica il piano tariffario basato sul costo fisso mensile della risorsa scelta e la sua capacità. Ti permetterà di avere una gestione di Back-up e di condivisione dei dati in sicurezza con chiavi a 2048 bit algoritmo SHA256.
             box3:
                 headline: Prova Condivisione Gratuita
                 details: Ottimizza il tuo lavoro prova il servizio gratuito Cloud CryptoTeam di 30 giorni. I responsabili aziendali con pochi click potranno creare collegamenti di condivisione, programmare password e date di scadenza.
             box4:
                 headline: Servizio di Housing & Outsorsing
-                details: Il servizio di Housing è costituito dalla possibilità di concordare con il cliente di ottenere uno spazio delocalizzato nel quale ospitare i suoi server, mentre l’outsourcing è la possibilità di concordare il solo servizio. 
+                details: Il servizio di Housing è costituito dalla possibilità di concordare con il cliente di ottenere uno spazio delocalizzato nel quale ospitare i suoi server, mentre l’outsourcing è la possibilità di concordare il solo servizio.
 
         welcome_teaser:
             headline: Benvenuto in CryptoTeam!<br/>Vieni a conoscerci.
