@@ -407,7 +407,7 @@ offerta:
             slide3:
                 text:  Cloud CryptoTeam <br/>Condivisione Gratuita 30 Giorni
             slide4:
-                text: Acquista Cloud su Misura<br/>Servizio di Housing & Outsorsing
+                text: Cloud Privato <br/>Concordiamo il servizio di Housing & Outsorsing
 
         intro:
             headline: Cloud in-House
@@ -422,10 +422,10 @@ offerta:
                 details: Verifica il piano tariffario basato sul costo fisso mensile della risorsa scelta e la sua capacità. Ti permetterà di avere una gestione di Back-up e di condivisione dei dati in sicurezza con chiavi a 2048 bit algoritmo SHA256.
             box3:
                 headline: Prova Condivisione Gratuita
-                details: Ottimizza il tuo lavoro prova il servizio gratuito Cloud CryptoTeam di 30 giorni. I responsabili aziendali con pochi click potranno creare collegamenti di condivisione, programmare password e date di scadenza.  
+                details: Ottimizza il tuo lavoro prova il servizio gratuito Cloud CryptoTeam di 30 giorni. I responsabili aziendali con pochi click potranno creare collegamenti di condivisione, programmare password e date di scadenza.
             box4:
-                headline: Crittografia SUPER
-                details: Scrittura convenzionale segreta, decifrabile solo da chi sia a conoscenza del codice. Come la usiamo?
+                headline: Servizio di Housing & Outsorsing
+                details: Il servizio di Housing è costituito dalla possibilità di concordare con il cliente di ottenere uno spazio delocalizzato nel quale ospitare i suoi server, mentre l’outsourcing è la possibilità di concordare il solo servizio. 
 
         welcome_teaser:
             headline: Benvenuto in CryptoTeam!<br/>Vieni a conoscerci.
