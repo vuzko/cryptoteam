@@ -582,8 +582,7 @@ offerta:
                 text: <p>We built XLT in a way that perfectly gets along with your preferred IDE, the command line, build processes, or just with a little bit of shell scripting. Engineers need things to work smoothly and quickly. We have that in mind.</p>
 
         profiles:
-            headline: Load Profiles
-            lead: Arrival rate or steady user rate, ramp-ups, and flexible profiles over the course of a test run. Realistic or predictable, your choice.
+            headline: Security Mail OpenPGP
             details:
                 lead: XLT supports a very flexible setup of load profiles ranging from steady user rates to arrival rates. Compose long-running test setups to reflect what happens during a day, absolutely freely configurable.
                 text: "<h3>Load Profile Features</h3>
@@ -591,6 +590,8 @@ offerta:
                     <li><strong>Arrival rate model</strong> for realistic simulations.</li>
                     <li><strong>Steady user rate</strong> for predictable measurements.</li>
                     <li><strong>Ramp-up</strong> for gradually increasing traffic.</li>
+                    <li><strong>Free configuration</strong> to compile challenging tests.</li>
+                    <li><strong>Free configuration</strong> to compile challenging tests.</li>
                     <li><strong>Free configuration</strong> to compile challenging tests.</li>
                 </ul>
 
