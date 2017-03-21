@@ -583,6 +583,7 @@ offerta:
 
         profiles:
             headline: Security Mail OpenPGP
+            lead: Richiedi un prevento per il Security Mail OpenPGP in grado di soddisfare le esigenti di piccole e medie organizzazioni. Tramite chiavetta Usb gli utenti saranno abilitati a trasmettere mail in modalità sicura.
             details:
                 lead: XLT supports a very flexible setup of load profiles ranging from steady user rates to arrival rates. Compose long-running test setups to reflect what happens during a day, absolutely freely configurable.
                 text: "<h3>Load Profile Features</h3>
