@@ -592,15 +592,15 @@ offerta:
                     <li><strong>Generazione della propria coppia di Chiavi RSA (chiave Pubblica e Privata)</strong></li>
                     <li><strong>Generazioni delle sotto Chiavi RSA (Firma, Autenticazione, Cifratura)</strong></li>
                     <li><strong>Copia di Sicurezza delle Chiavi e sottochiavi in contenitore cifrato (doppia Cifratura)</strong></li>
-                    <li><strong>Trasferimento della Chiave Primaria su smartcard</strong></li>
+                    <li><strong>Trasferimento della Chiave Primaria su Smartcard</strong></li>
                     <li><strong>Trasferimento delle sottochiavi su Token Usb</strong></li>
                     <li><strong>Inserimento delle Chiavi nel Keyring</strong></li>
                     <li><strong>Test di Funzionamento</strong></li>
                     <li><strong>Trasferimento delle competenze teoriche per assicurare l'azienda un corretto utilizzo degli strumenti</strong></li>
-                    <li><strong>Assistenza Tecnica 7+7</strong></li>
+                    <li><strong>Assistenza Tecnica</strong></li>
                 </ul>
 
-                <h3>Procedura Certificata CryptoTeam </h3>
+                <h3>Procedura Certificata CryptoTeam</h3>
                 <p>
                     Protocollata come linea guida per tecnici esperti di crittografia. Le chiavi sono relaizzate in modo sicuro in assenza di possibili attacchi come ad esempio il Virus, Malware o altri simili.
                 </p>
