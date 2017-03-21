@@ -444,15 +444,15 @@ offerta:
 
         technologies:
             headline: Security E-mail OpenXPKI
-            lead: "Richiedi un preventivo per una piattaforma PKI (Public Key Infrastructure), in grado di gestire e di soddisfare le esigenze di grandi e medie organizzazioni."
+            lead: "Richiedi un preventivo per una piattaforma PKI (Public Key Infrastructure), in grado di gestire e di soddisfare le esigenze di grandi e medie organizzazioni per gestire il ciclo di vita dei certificati."
             details:
                 lead: "Si tratta di un sistema completo teconologicamente scalabile integrato nella rete aziendale. In automatico garantisce la riservatezza delle informazioni, oltre a soddisfare esigenze di firma e di autenticazione."
                 text: "<p>E'una Governace centralizzata che punta a transazioni quotidiane sicure e riservate sotto il proprio controllo.</p>
 
                 <ul>
                     <li><strong>Gestione Mail</strong> controllo automatico dei mittenti autorizzati DNS lista Host in formato TXT.</li>
-                    <li><strong>Domainkeys Identified Mail</strong>(DKIM), consente di autenticare il mittente attraverso la sua firma digitale (chiave Privata).</li>
-                    <li>Result data is delivered as <strong>Reporting</strong>aggiunge un livello di dettagli in modo che i gestori dei server possono ricevere informazioni.</li>
+                    <li><strong>Domainkeys Identified Mail</strong> (DKIM), consente di autenticare il mittente attraverso la sua firma digitale (chiave Privata).</li>
+                    <li><strong>Reporting</strong> aggiunge un livello di dettagli in modo che i gestori dei server possono ricevere informazioni sui tentativi di spoofing e spam.</li>
                     <li>Reports are <strong>HTML</strong> for easy sharing.</li>
                     <li>Reports are rendered from <strong>XML via XSL</strong> for easy adjustments of content and layout.</li>
                     <li>Reports feature an <strong>XML data file</strong> for machine-based evaluation.</li>
