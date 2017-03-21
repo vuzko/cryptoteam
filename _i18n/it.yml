@@ -443,8 +443,8 @@ offerta:
             details: Dettagli Offerta Cifratura Dati.
 
         technologies:
-            headline: Security E-mail OpenXPKI
-            lead: "Richiedi un preventivo per una piattaforma PKI (Public Key Infrastructure), in grado di gestire e di soddisfare le esigenze di grandi e medie organizzazioni per gestire il ciclo di vita dei certificati."
+            headline: Security E-mail
+            lead: "Richiedi un preventivo per una piattaforma PKI (Public Key Infrastructure), OpenXPKI in grado di gestire e soddisfare le esigenze di grandi e medie organizzazioni per la gestione del ciclo di vita dei certificati digitali."
             details:
                 lead: "Si tratta di un sistema completo teconologicamente scalabile integrato nella rete aziendale. In automatico garantisce la riservatezza delle informazioni, oltre a soddisfare esigenze di firma e di autenticazione."
                 text: "<p>E'una Governace centralizzata che punta a transazioni quotidiane sicure e riservate sotto il proprio controllo.</p>
