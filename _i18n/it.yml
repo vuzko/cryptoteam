@@ -585,7 +585,7 @@ offerta:
             headline: Security Mail OpenPGP
             lead: Richiedi un prevento per il Security Mail OpenPGP in grado di soddisfare le esigenze di piccole e medie organizzazioni. Tramite chiavetta Usb gli utenti saranno abilitati a trasmettere mail e allegati in modalità sicura.
             details:
-                lead: Il sistema Security Mail OpenPGP spesso e preferito in copia alla soluzione OpenXPKI dal board aziendale per un uso esclusivo. La cifratura a 4096 Bit algoritmo SHA256 garantisce un livello Militar Grade di comunicazione sicura tra i corrispondenti.
+                lead: Il sistema Security Mail OpenPGP spesso e preferito in copia alla soluzione OpenXPKI dal board aziendale per un uso esclusivo. La cifratura a 4096 Bit algoritmo SHA256 garantisce un alto livello di protezione (Militar Grade), di comunicazione tra i corrispondenti.
                 text: "<h3>Load Profile Features</h3>
                 <ul>
                     <li><strong>Arrival rate model</strong> for realistic simulations.</li>
