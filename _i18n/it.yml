@@ -714,8 +714,48 @@ offerta:
                         </p>
                         <p>
                             Did you know that you can start your load test on one machine, and collect the results on another? Or maybe your co-worker can collect the data later and analyze it for you, while you're already on your way to a meeting.</p>"
+########################################################################
 
-##################################
+
+
+# Pagina OFFERTA -> Piattaforma PKI (/offerta/pki.html)
+    pki:
+        titolo: PKI
+        descrizione: CryptoTeam, gli esperti in sicurezza dei dati e privacy.
+
+        carousel:
+            slide1:
+                text: Piattaforma PKI<br/>Sottotitolo Slide 1
+            slide2:
+                text: Slide2<br/>Sottotitolo Slide 2
+            slide3:
+                text: Slide3<br/>Sottotitolo Slide 3
+            slide4:
+                text: Slide4<br/>Sottotitolo Slide 4
+
+        intro:
+            headline: PKI
+            details: Details
+
+        riquadri:
+            box1:
+                headline: Titolo Box1
+                details:  Dettagli Box1.
+            box2:
+                headline: Titolo Box2
+                details:  Dettagli Box2.
+            box3:
+                headline: Titolo Box3
+                details:  Dettagli Box3.
+            box4:
+                headline: Titolo Box4
+                details:  Dettagli Box4.
+
+        welcome_teaser:
+            headline: Benvenuto in CryptoTeam!<br/>Vieni a conoscerci.
+            action_button: Scopri
+########################################################################
+
 
 
 # *************************************************************************
