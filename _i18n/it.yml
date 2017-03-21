@@ -590,7 +590,7 @@ offerta:
                 <ul>
                     <li><strong>Inserimento dei dati Utente per la generazione delle chiavi</strong></li>
                     <li><strong>Generazione della propria coppia di Chiavi RSA (chiave Pubblica e Privata)</strong></li>
-                    <li><strong>Generazioni delle sotto Chiavi RSA (Firma, Autenticazione, Cifratura)</strong></li>
+                    <li><strong>Generazioni delle sottochiavi RSA (Firma, Autenticazione, Cifratura)</strong></li>
                     <li><strong>Copia di Sicurezza delle Chiavi e sottochiavi in contenitore cifrato (doppia Cifratura)</strong></li>
                     <li><strong>Trasferimento della Chiave Primaria su Smartcard</strong></li>
                     <li><strong>Trasferimento delle sottochiavi su Token Usb</strong></li>
