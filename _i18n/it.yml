@@ -446,6 +446,7 @@ offerta:
             headline: Security E-mail OpenXPKI
             lead: "Richiedi un preventivo per una piattaforma PKI (Public Key Infrastructure), in grado di gestire e di soddisfare le esigenze di grandi e medie organizzazioni."
             details:
+                lead: "Si tratta di un sistema completo teconologicamente scalabile integrato nella rete aziendale. In automatico garantisce la riservatezza delle informazioni, oltre a soddisfare esigenze di firma e di autenticazione."
                 text: "<p>All this gives you the tools to get the most out of XLT. It integrates well, you can extend it well, and you won't have a hard time mastering it.</p>
 
                 <ul>
