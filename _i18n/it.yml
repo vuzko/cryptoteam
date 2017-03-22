@@ -468,7 +468,7 @@ offerta:
             headline: Cifratura Dati a Riposo
             lead: Richiedi un preventivo per la cifratura dati a riposo. Possiamo creare una tua piattafroma Cloud Privata nella quale i dati a riposo saranno salvati, cifrati e condivisi sistematicamente in sicurezza.
             details:
-                lead: Vogliamo aiutarvi nella gestione dei dati sicura. Tutte le aziende hanno a che fare un enorme quantità di dati che si muovo o sono a riposo. Molti di questi dati sono vitali per l'azienda stessa.
+                lead: Vogliamo aiutarvi nella gestione dei dati sicura. Tutte le aziende hanno a che fare con un enorme quantità di dati che si muovo o sono a riposo. Molti di questi dati sono vitali per l'azienda stessa.
                 text:
                     keyfeatures:
                         headline: Soluzione
@@ -482,8 +482,8 @@ offerta:
                                 <li><strong>Document</strong> test cases and code.</li>
                                 <li>Execute <strong>batch tests</strong>.</li>"
                     download:
-                        headline: Controllo Centralizzato
-                        text: E'importante garantirsi che i dati non vengano difusi con leggerezza il controllo centralizzato impedisce il download non autorizzato.<strong></strong>.
+                        headline: Fatevi Aiutrare
+                        text: E'importante garantirsi una Governace dei dati centralizzata. Il controllo impedisce il download non autorizzato e una difusine eseguita con leggerezza.<strong></strong>
 
         deployment:
             headline: Deployment &amp; Cloud
