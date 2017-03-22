@@ -472,7 +472,7 @@ offerta:
                 text:
                     keyfeatures:
                         headline: Crittografia
-                        text: Standard SHA256 2048.
+                        text: Standard SHA256 e 2048 Bit.
                         list: "<li><strong>Dati Salvati Sistematicamente</strong></li>
                                 <li><strong>Dati Cifrati Sistematicamente</strong></li>
                                 <li><strong>Dati Condivisi</strong></li>
@@ -482,8 +482,8 @@ offerta:
                                 <li><strong>Document</strong> test cases and code.</li>
                                 <li>Execute <strong>batch tests</strong>.</li>"
                     download:
-                        headline: Free Download
-                        text: You can download the XLT Script Developer independently of the full Xceptance LoadTest package. That enables you to design and run tests in Firefox. <strong>It‘s free and updates come automatically</strong>.
+                        headline: Controllo delle attività
+                        text: E'importante garantirsi che i dati non vengano difusi con leggerezza la Policy nella gestione delle permission rimane fondamentale<strong>It‘s free and updates come automatically</strong>.
 
         deployment:
             headline: Deployment &amp; Cloud
