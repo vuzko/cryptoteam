@@ -282,19 +282,19 @@ servizi:
         descrizione: Prova descrizione in controllo, prova, prova
 
         box1:
-            headline: Il sitema si basa su tecnologia specificatamente per il riconoscimento univoco e autenticazione come fattore forte. Riconosce tutti gli apparati di rete. Server, Client, Utenti Interni, Utenti esterni.
+            headline: Il sistema si basa su tecnologia specificatamente per il riconoscimento univoco e autenticazione come fattore forte. Riconosce tutti gli apparati di rete. Server, Client, utenti interni, utenti esterni.
             description: Le architetture sono progettate per impedire l'accesso ai Server e validare l'accesso ai servizi (Posta, Cloud, Dati), esclusivamente agli utenti autorizzati.
-            numbers: L'aumento della complessità tecnica (codifica e decodifica), di riconoscimento e di autenticazione semplifica la vita agli utenti e agli amministratori di sistema.
+            numbers: L' aumento della complessità tecnica (codifica e decodifica), di riconoscimento e di identificazione semplifica la vita agli utenti e agli amministratori di sistema.
 
         box2:
             teaser: Governace Centralizzata
             list:
                 li1: Riconoscimento Univoco.
-                li2: Riconoscimento dei profili e dove posso accedere.
-                li3: Accesso ai dati semplice e veloce.
+                li2: Riconoscimento dei profili (dove posso accedere e cosa possono fare).
+                li3: Accesso ai servizi automatico.
                 li4: Semplicità di controllo si potrà controllare la cronologia degli eventi mettendoli in relazione tra di loro.
                 li5: Tracciabilità degli Accessi e registrazione negli archivi.
-                li6: E' possibile richiedere il supporto per un servizio personalizzato.
+                li6: Compliance alle normative.
 
 ########################################################################
 
