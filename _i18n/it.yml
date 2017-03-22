@@ -466,9 +466,9 @@ offerta:
 
         ui:
             headline: Cifratura Dati a Riposo
-            lead: Richiedi un preventi per la cifratura dati a riposo. Possiamo creare una tua piattafroma Cloud Privata nella quale i dati a riposo saranno salvati e cifrati sistematicamente.
+            lead: Richiedi un preventivo per la cifratura dati a riposo. Possiamo creare una tua piattafroma Cloud Privata nella quale i dati a riposo saranno salvati e cifrati sistematicamente.
             details:
-                lead: The Script Developer is your IDE for composing functional tests. It‘s your place to record, edit, and replay tests with Firefox. The generated scripts can later be used with any WebDriver.
+                lead: In caso di attacchi la tecnica di cifratura integrata Data Encryption nel sistema permette di non compromettere le informazioni aziendali sensibili.
                 text:
                     keyfeatures:
                         headline: Key Features
