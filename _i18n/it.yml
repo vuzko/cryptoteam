@@ -275,23 +275,23 @@ servizi:
 
 # PAGINA SERVIZI--->CONTROLLO (/servizi/controllo.html)
     controllo:
-        icona: Controllo Accesso
+        icona: Controllo Accesso Strong
         teaser: Controllo accesso
-        titolo: Soluzioni Controllo Accessi Dati
-        sottotitolo: Procedura Sicura e Automatizzata
+        titolo: Soluzioni Controllo Accessi Sicuro
+        sottotitolo: Riconoscimento Automatomatico
         descrizione: Prova descrizione in controllo, prova, prova
 
         box1:
-            headline: L'utente aziendale potrà usufuire di una procedura di Accesso ai dati semplice veloce e sicura.
-            description: Le architetture sono progettate per impedire l'accesso ai Server e otterere l'accesso ai dati a chiunque non sia autorizzato.
-            numbers: Nonostante la complessità tecnica (codifica e decodifica), di autenticazione, l'utente non ha latenze operative.
+            headline: Il sitema si basa su tecnologia specificatamente per il riconoscimento e autenticazione forte. Riconosce tutti gli apparati di rete. Server, Client, Utenti Interni, Utenti esterni.
+            description: Le architetture sono progettate per impedire l'accesso ai Server e validare l'accesso ai dati esclusivamente agli utenti autorizzati.
+            numbers: L'aumento della complessità tecnica (codifica e decodifica), di riconoscimento e di autenticazione semplifica la vita agli utenti e agli amministratori di sistema.
 
         box2:
             teaser: Controllo e Gestione Centralizzata
             list:
                 li1: La soluzuione di autenticazione può essere scelta come sistema HW tipo chiavetta Usb oppure come un sistema software. Entrambe le modalità sono semplici e sicure.
-                li2: Una volta impostato il sistema, l'amministratore potrà controllare la cronologia degli eventi ed intervenire (se fosse necessario).
-                li3: L'amministratore di Sistema potrà associare il tipo di autenticazione in funzione al compito designato all'utente.
+                li2: Una volta impostato il sistema, l'amministratore potrà controllare la cronologia degli eventi mettendoli in relazione tra di loro.
+                li3: Accesso ai dati semplice veloce
                 li4: La gerarchia di autenticazione consente rapidamente di verificare la rispondenza ai compiti stabiliti.
                 li5: Tracciabilità degli Accessi e registrazione negli archivi amministratore.
                 li6: E' possibile richiedere il supporto per un servizio personalizzato.
