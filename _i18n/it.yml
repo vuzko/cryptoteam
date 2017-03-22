@@ -465,25 +465,25 @@ offerta:
                 </p>"
 
         ui:
-            headline: Intuitive UI
-            lead: The Script Developer is your intuitive UI for creating and maintaining functional tests. Use our open file format or export to Java.
+            headline: Cifratura Dati a Riposo
+            lead: Richiedi un preventivo per la cifratura dati a riposo. Possiamo creare una tua piattafroma Cloud Privata nella quale i dati a riposo saranno salvati, cifrati e condivisi sistematicamente in sicurezza. Oppure acquista il servizio Storage CryptoTeam e verifica il piano tariffario più adatto alla tua azienda.
             details:
-                lead: The Script Developer is your IDE for composing functional tests. It‘s your place to record, edit, and replay tests with Firefox. The generated scripts can later be used with any WebDriver.
+                lead: Vogliamo aiutarvi nella gestione dei dati sicura. Tutte le aziende hanno a che fare con un enorme quantità di dati che si muovono o sono a riposo. Molti di questi dati sono vitali per l'azienda stessa.
                 text:
                     keyfeatures:
-                        headline: Key Features
-                        text: Script Developer is a Firefox extension that lets you record, edit, and replay Selenium-style scripts with all the benefits of XLT test automation.
-                        list: "<li><strong>Record & Replay</strong> test scripts in Firefox.</li>
-                                <li><strong>Edit</strong> scripts.</li>
-                                <li><strong>Debug</strong> scripts with the integrated debugger, highlighter, and assertion evaluator.</li>
-                                <li>Add <strong>comments</strong>.</li>
-                                <li>Extract <strong>reusable modules</strong>.</li>
+                        headline: Soluzione
+                        text: In caso di attacchi o di errori nella gestione delle password eseguiti dagli utenti, la tecnica di cifratura integrata Data Encryption nel sistema permette di non compromettere le informazioni aziendali sensibili.
+                        list: "<li><strong>Crittografia SHA256 e 2048 Bit</strong></li>
+                                <li><strong>Dati Cifrati Sistematicamente</strong></li>
+                                <li><strong>Dati Salvati Sistematicamente</strong></li>
+                                <li><strong>Policy per la Condivisione</strong></li>
+                                <li><strong>Compliance Normative</strong>.</li>
                                 <li>Manage global and local <strong>test data</strong>.</li>
                                 <li><strong>Document</strong> test cases and code.</li>
                                 <li>Execute <strong>batch tests</strong>.</li>"
                     download:
-                        headline: Free Download
-                        text: You can download the XLT Script Developer independently of the full Xceptance LoadTest package. That enables you to design and run tests in Firefox. <strong>It‘s free and updates come automatically</strong>.
+                        headline: Fatevi Aiutare
+                        text: Possiamo garantirvi una Governace dei dati centralizzata. Il controllo impedisce il download non autorizzato e una difusione eseguita con leggerezza.<strong></strong>
 
         deployment:
             headline: Deployment &amp; Cloud
