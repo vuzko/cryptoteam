@@ -466,16 +466,16 @@ offerta:
 
         ui:
             headline: Cifratura Dati a Riposo
-            lead: Richiedi un preventivo per la cifratura dati a riposo. Possiamo creare una tua piattafroma Cloud Privata nella quale i dati a riposo saranno salvati e cifrati sistematicamente.
+            lead: Richiedi un preventivo per la cifratura dati a riposo. Possiamo creare una tua piattafroma Cloud Privata nella quale i dati a riposo saranno salvati, cifrati e condivisi sistematicamente in sicurezza.
             details:
                 lead: In caso di attacchi la tecnica di cifratura integrata Data Encryption nel sistema permette di non compromettere le informazioni aziendali sensibili.
                 text:
                     keyfeatures:
-                        headline: Key Features
-                        text: Script Developer is a Firefox extension that lets you record, edit, and replay Selenium-style scripts with all the benefits of XLT test automation.
-                        list: "<li><strong>Record & Replay</strong> test scripts in Firefox.</li>
-                                <li><strong>Edit</strong> scripts.</li>
-                                <li><strong>Debug</strong> scripts with the integrated debugger, highlighter, and assertion evaluator.</li>
+                        headline: Crittografia
+                        text: Standard SHA256 2048.
+                        list: "<li><strong>Dati Salvati Sistematicamente</strong></li>
+                                <li><strong>Dati Cifrati Sistematicamente</strong></li>
+                                <li><strong>Dati Condivisi</strong></li>
                                 <li>Add <strong>comments</strong>.</li>
                                 <li>Extract <strong>reusable modules</strong>.</li>
                                 <li>Manage global and local <strong>test data</strong>.</li>
