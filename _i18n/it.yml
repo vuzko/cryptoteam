@@ -631,7 +631,7 @@ offerta:
                                     <strong>Soluzione Sofware HD Virtuale</strong>. L'applicativo è installato sulla chiavetta o HD (USB), personale dell'Utente. A questo punto partizionando il disco avrà la possibilità di cifrare o nascondere (disco Hidden), tutti i dati salvati. In più potrà scegliere in fase d'installazione quale sia l'algoritmo di cifratura più adatto alle sue esigenze. Inoltre in caso di smarrimento la chiavetta o HD (usb), non potranno essere utilizzabile.
                                 </p>
                                 <p>
-                                    When executing WebDriver tests, the right side displays the web page as a screenshot. When
+                                    <strong>Secondo Passo</strong>. Lo stesso applicativo verrà installato sul client postazione sede 1 e sede 2 dell'utente (modalità da concordare). infine Corso di 1 ora all'utilizzo delgli strumenti.   
                                     executing with XLT's built-in HtmlUnit, the right side is an estimated rendering of the downloaded data.
                                 </p>"
                     block2:
