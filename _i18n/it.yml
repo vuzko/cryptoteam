@@ -639,11 +639,10 @@ offerta:
                             alt: Details View of the Result Browser
                             title: Detailed Information About Application Errors
                         text: "<p>
-                                    <strong>Soluzione Hardware Chiavetta USB</strong> Utente potrà scegliere la chiavetta e la capicità più adatta alle sue esigenze lavorative. L'aplicativo di cifratura è nativo all'interno della chiavetta di archiviazione dati. Si tratta di una gamma completa e certiifcata per diverse organizzazionei aziendali.
+                                    <strong>Soluzione Hardware Chiavetta USB</strong> Utente potrà scegliere la chiavetta e la capicità più adatta, alle proprie esigenze lavorative. L'applicativo di cifratura è nativo all'interno della chiavetta di archiviazione dati. <strong>Offriamo</strong> una gamma completa e certiifcata per diverse organizzazionei aziendali.
                                     application misbehaves.
                                 </p>
                                 <p>
-                                    When errors occur during load testing, the last moments of the transaction are saved, including the downloaded data and all technical details. You can thus see what was sent and received. When you use the request-ID feature of XLT, you even get a unique ID you can match against your server logs.
                                 </p>
                                 <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Open an example here</a>.</p>"
 
