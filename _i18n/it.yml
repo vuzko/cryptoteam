@@ -467,8 +467,8 @@ offerta:
         ui:
             headline: Cifratura Dati a Riposo
             lead: Richiedi un preventivo per la cifratura dati a riposo. Possiamo creare una tua piattafroma Cloud Privata nella quale i dati a riposo saranno salvati, cifrati e condivisi sistematicamente in sicurezza.
-            details: Pippo
-                lead:
+            details:
+                lead: Pippo prova
                 text:
                     keyfeatures:
                         headline: Crittografia Standard SHA256 e 2048 Bit
