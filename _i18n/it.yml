@@ -282,8 +282,8 @@ servizi:
         descrizione: Prova descrizione in controllo, prova, prova
 
         box1:
-            headline: Il sitema si basa su tecnologia specificatamente per il riconoscimento e autenticazione forte. Riconosce tutti gli apparati di rete. Server, Client, Utenti Interni, Utenti esterni.
-            description: Le architetture sono progettate per impedire l'accesso ai Server e validare l'accesso ai dati esclusivamente agli utenti autorizzati.
+            headline: Il sitema si basa su tecnologia specificatamente per il riconoscimento univoco e autenticazione forte. Riconosce tutti gli apparati di rete. Server, Client, Utenti Interni, Utenti esterni.
+            description: Le architetture sono progettate per impedire l'accesso ai Server e validare l'accesso ai servizi (Posta, Cloud, Dati), esclusivamente agli utenti autorizzati.
             numbers: L'aumento della complessità tecnica (codifica e decodifica), di riconoscimento e di autenticazione semplifica la vita agli utenti e agli amministratori di sistema.
 
         box2:
