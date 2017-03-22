@@ -472,7 +472,7 @@ offerta:
                 text:
                     keyfeatures:
                         headline: Soluzione
-                        text: In caso di attacchi o di errori nella gestione delle password eseguiti dagli utenti privilegiati, la tecnica di cifratura integrata Data Encryption nel sistema permette di non compromettere le informazioni aziendali sensibili.
+                        text: In caso di attacchi o di errori nella gestione delle password eseguiti dagli utenti, la tecnica di cifratura integrata Data Encryption nel sistema permette di non compromettere le informazioni aziendali sensibili.
                         list: "<li><strong>Crittografia SHA256 e 2048 Bit</strong></li>
                                 <li><strong>Dati Cifrati Sistematicamente</strong></li>
                                 <li><strong>Dati Salvati Sistematicamente</strong></li>
@@ -483,7 +483,7 @@ offerta:
                                 <li>Execute <strong>batch tests</strong>.</li>"
                     download:
                         headline: Fatevi Aiutare
-                        text: Possiamo garantirsi una Governace dei dati centralizzata. Il controllo impedisce il download non autorizzato e una difusione eseguita con leggerezza.<strong></strong>
+                        text: Possiamo garantirvi una Governace dei dati centralizzata. Il controllo impedisce il download non autorizzato e una difusione eseguita con leggerezza.<strong></strong>
 
         deployment:
             headline: Deployment &amp; Cloud
