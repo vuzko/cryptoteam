@@ -488,7 +488,7 @@ offerta:
 
         deployment:
             headline: Cambiato Tamplay Spostamento Fisico dei Dati
-            lead: Nel pieno controllo aziendale, queste souzione sono state concepite per utenti, che spostano fisicamente i dati da lavorare da una sede all'altra.
+            lead: Provaaaa.
             details:
                 lead: XLT is platform-independent and you just have to unzip it. If you need ready-to-go cloud images, we provide Amazon Web Services EC2-AMIs free of charge.
                 text: "<p>
@@ -618,8 +618,8 @@ offerta:
                 text: <p>Each scenario can be everything from a single pageview to a long-running call center operation. You can give each scenario an individual configuration that includes the load profile. The start of scenarios can be delayed in relation to other scenarios if needed.</p>
 
         resultbrowser:
-            headline: See Everything
-            lead: The result browser precisely shows you what happens in a scenario. It visualizes any failure situation for a post-mortem analysis as well.
+            headline: Spostamente Fisico dei Dati (Dati in Movimento)
+            lead: Nel pieno controllo aziendale, queste souzione sono state concepite per utenti, che spostano fisicamente i dati da lavorare da una sede all'altra.
             details:
                 lead: The result browser is your tool to visually check the loaded pages and debug problems during test execution.
                 text:
