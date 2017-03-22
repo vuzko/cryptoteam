@@ -473,13 +473,14 @@ offerta:
                     keyfeatures:
                         headline: Soluzione
                         text: In caso di attacchi o di errori nella gestione delle password eseguiti dagli utenti, la tecnica di cifratura integrata Data Encryption nel sistema, permette di non compromettere le informazioni aziendali.
-                        list: "<li><strong>Crittografia SHA256 e 2048 Bit</strong></li>
+                        list:  <li><strong>Crittografia SHA256 e 2048 Bit</strong></li>
                                 <li><strong>Dati Cifrati Sistematicamente</strong></li>
                                 <li><strong>Dati Salvati Sistematicamente</strong></li>
                                 <li><strong>Policy per la Condivisione</strong></li>
                                 <li><strong>Compliance Normative</strong>.</li>
                                 <li><strong>Classificazione dei dati </strong>.</li>
                                 <li><strong>Identificazione dei Dati</strong>.</li>
+                                <li><strong>Privacy by Design. Integriamo la privacy nei processi informatici aziendale</strong> test cases and co</li>
 
                     download:
                         headline: Fatevi Aiutare
