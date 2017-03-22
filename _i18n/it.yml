@@ -482,8 +482,8 @@ offerta:
                                 <li><strong>Document</strong> test cases and code.</li>
                                 <li>Execute <strong>batch tests</strong>.</li>"
                     download:
-                        headline: Controllo delle attività
-                        text: E'importante garantirsi che i dati non vengano difusi con leggerezza la Policy nella gestione delle permission rimane fondamentale.<strong></strong>.
+                        headline: Controllo Centralizzato
+                        text: E'importante garantirsi che i dati non vengano difusi con leggerezza il controllo centralizzato impedisce il download non autorizzato.<strong></strong>.
 
         deployment:
             headline: Deployment &amp; Cloud
