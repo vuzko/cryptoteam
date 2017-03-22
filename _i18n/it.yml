@@ -465,8 +465,8 @@ offerta:
                 </p>"
 
         ui:
-            headline: Intuitive UI
-            lead: The Script Developer is your intuitive UI for creating and maintaining functional tests. Use our open file format or export to Java.
+            headline: Cifratura Dati a Riposo
+            lead: Richiedi un preventi per la cifratura dati a riposo. Possiamo creare una tua piattafroma Cloud Privata nella quale i dati a riposo saranno salvati e cifrati sistematicamente.
             details:
                 lead: The Script Developer is your IDE for composing functional tests. It‘s your place to record, edit, and replay tests with Firefox. The generated scripts can later be used with any WebDriver.
                 text:
