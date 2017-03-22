@@ -275,14 +275,14 @@ servizi:
 
 # PAGINA SERVIZI--->CONTROLLO (/servizi/controllo.html)
     controllo:
-        icona: Controllo Accesso Strong
+        icona: Controllo Accesso
         teaser: Controllo accesso
-        titolo: Soluzioni Controllo Accessi Sicuro
+        titolo: Soluzione Controllo Accessi Sicuro
         sottotitolo: Riconoscimento Automatomatico
         descrizione: Prova descrizione in controllo, prova, prova
 
         box1:
-            headline: Il sistema si basa su tecnologia specificatamente per il riconoscimento univoco e autenticazione come fattore forte. Riconosce tutti gli apparati di rete. Server, Client, utenti interni, utenti esterni.
+            headline: Il sistema si basa su tecnologia specifica per il riconoscimento univoco o identificazione come fattore forte. Riconosce tutti i device di rete e utenti. Server, client, utenti interni, utenti esterni.
             description: Le architetture sono progettate per impedire l'accesso ai Server e validare l'accesso ai servizi (Posta, Cloud, Dati), esclusivamente agli utenti autorizzati.
             numbers: L' aumento della complessità tecnica (codifica e decodifica), di riconoscimento e di identificazione semplifica la vita agli utenti e agli amministratori di sistema.
 
