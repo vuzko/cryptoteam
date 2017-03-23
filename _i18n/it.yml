@@ -651,7 +651,7 @@ offerta:
             headline: Controllo Accessi Sicuro
             lead: Queste 2 soluzioni consentono di automatizzare i processi di accesso in modalità sicura. Di assicurarsi una gestione semplice verso i servizi aziendali (Cloud, Posta, Accessso ai Dati, ecc..), da parte degli utenti interni ed esterni.
             details:
-                lead: La soluzione piattoforma OpenXPKI è una soluzione tecnologica avanzata progettata per medie e grandi organizzazioni. Fornisce tutti i componenti software necessari per un accesso sicuro e un controllo centralizzato basato sul riconoscemto o identificazione dell'utente in modalità univoca. Mentre la soluzione OpenPGP altrettanto sicura e valida, è studiata per piccole organizzazioni ma non consente una gestione centralizzata.
+                lead: La soluzione piattoforma OpenXPKI è una soluzione tecnologica avanzata progettata per medie e grandi organizzazioni. Fornisce tutti i componenti software necessari per un accesso sicuro e un controllo centralizzato basato sul riconoscemto o identificazione dell'utente in modalità univoca. Mentre la soluzione OpenPGP altrettanto sicura e valida, è studiata per piccole organizzazioni.
                 text:
                     block1:
                         image:
@@ -680,7 +680,7 @@ offerta:
             headline: Autenticazione
             lead: Queste 2 soluzioni (Cerchiamo di garantire una strong Autentication), consentono di Autenticare gli utenti aziendali in modalità più forte, automatica e sicura. Aiutano le aziende a gestire le password che gruppi di dipendenti adottano durante le attività lavorative. Hanno anche il vantaggio di essere ottimizzate per l'efficenza dei processi senza introdurre latenze. La gestione delle password tradizionali per l'IT Manager sono altamente onerose. Più sono complesse più sono pericolose.
             details:
-                lead: La soluzione Piattaforma OpenXPKI è una soluzione Tecnologiaca avanzata progettata per medie e grandi organizzazioni. Fornisce tutti i componenti software un autenticazione sicura basata sul riconoscimento o identificazione univoca dell'utente.
+                lead: La soluzione Piattaforma OpenXPKI è una soluzione Tecnologica avanzata progettata per medie e grandi organizzazioni. Fornisce tutti i componenti software per una autenticazione sicura basata sul riconoscimento o identificazione univoca dell'utente. Mentre la soluzione OpenPGP altrettanto sicura e valida, è studiata per per piccole organizzazioni.
                 text:
                     block1:
                         image:
