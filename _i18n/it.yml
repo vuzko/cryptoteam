@@ -672,13 +672,13 @@ offerta:
 
                                 </p>
                                 <p>
-                                    <strong>Entrambe le soluzioni sono sono fornite con TOKEN HSM (Hardware Security Module). Il sistema HSM serve per innalzare il livello di sicurezza. E un apparato crittografico tenuto off line che contiene le chiavi private degli utenti.</strong>
+                                    <strong>Entrambe le soluzioni sono sono fornite con TOKEN HSM (Hardware Security Module). Il sistema HSM serve a innalzare il livello di sicurezza. E' un sistema di Crittografia tenuto OFF Line che contiene le Chiavi Private più le informazioni rigurdante gli utenti.</strong>
                                 </p>
                                 <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Open an example here</a>.</p>"
 
         resultbrowser3:
-            headline: FASCIONE AGGIUNTIVO 2 IDENTICO A -- Spostamente Fisico dei Dati (Dati in Movimento)
-            lead: Nel pieno controllo aziendale, queste due soluzione sono state concepite per utenti, che spostano fisicamente i dati (da lavorare), da una sede all'altra.
+            headline: Autenticazione
+            lead: Una volta che l'utende aziendale è ricosciuto e identificato ha bisogno di essere autenticato (strong Autentication) e.
             details:
                 lead: I metodi operativi di saltaggio dati garantiscono sicurezza e riservatezza all'azienda. Il nostro compito non è solo fornire un prodotto, ma è di guidare l'utente ad un corretto uso dei strumenti.
                 text:
