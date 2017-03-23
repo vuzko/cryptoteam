@@ -651,14 +651,14 @@ offerta:
             headline: Controllo Accessi Sicuro
             lead: Queste 2 soluzioni consentono di automatizzare i processi di accesso in modalità sicura. Di assicurarsi una gestione semplice verso i servizi aziendali (Cloud, Posta, Accessso ai Dati, ecc..), da parte degli utenti interni ed esterni.
             details:
-                lead: La soluzione piattoforma OpenXPKI è una soluzione tecnologica avanzata progettata per medie e grandi organizzazioni. Fornisce tutti i componenti software necessari per un accesso sicuro e un controllo centralizzato basato sul riconoscemto o identificazione dell'utente in modalità univoca. Mentre la soluzione Ciavetta USB altrettanto sicura e valida è studiata per piccole organizzazioni ma non consente una gestione centralizzata.
+                lead: La soluzione piattoforma OpenXPKI è una soluzione tecnologica avanzata progettata per medie e grandi organizzazioni. Fornisce tutti i componenti software necessari per un accesso sicuro e un controllo centralizzato basato sul riconoscemto o identificazione dell'utente in modalità univoca. Mentre la soluzione Ciavetta USB altrettanto sicura e valida, è studiata per piccole organizzazioni ma non consente una gestione centralizzata.
                 text:
                     block1:
                         image:
                             alt: Start View of the Result Browser
                             title: The Result Browser
                         text: "<p>
-                                    <strong>Soluzione Sofware HD Virtuale</strong>. <strong>Primo Passo.</strong>L'applicativo è installato sulla chiavetta o HD (USB), personale dell'Utente. A questo punto partizionando il disco avrà la possibilità di cifrare o nascondere (disco Hidden), tutti i dati salvati. In più potrà scegliere in fase d'installazione quale sia l'algoritmo di cifratura più adatto alle sue esigenze. Inoltre in caso di smarrimento la chiavetta o HD (usb), non potranno essere utilizzabile.
+                                    <strong>Soluzione OpneXPKI</strong>. Sistema avanzato dispone di molte funioni finalizzate alla tutela dei dati e alla riservatezza delle informazioni. Gestisce il ciclo di vita dei certificati digitali utilizza standard X509 e crittografia a 2048 Bit algoritmo 256. Per quanto riguarda gli ACCESSI il certificato digitale contiene informazioni univoche sull'utente che permettono il riconoscimento specifico. Validità del certicato, num. di serie, nome del soggetto, chiave pubblica, usi consentiti, eventuali estensioni, Firma Digitale,
                                 </p>
                                 <p>
                                     <strong>Secondo Passo.</strong> Lo stesso applicativo verrà installato sul client postazione sede 1 e sede 2 dell'utente (modalità da concordare). <strong>Terzo Passo.</strong> Corso di 1 ora all'utilizzo delgli strumenti.
