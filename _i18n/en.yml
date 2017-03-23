@@ -85,13 +85,12 @@ navigation:
         ProgettiPersonalizzati: Bespoke
 
 # Offerta
-        Offerta: Overview
-        PiattaformaPKI: PKI
-        Crittografia: Criptography
-        CancellazioneSicura: Secure Erase
-        Cloud: Cloud
+        Offerta: Cloud in-House
+        Crittografia: Cifratura Dati
+        PiattaformaPKI: Piattaforma PKI
         VoIPPBX: VoIP PBX
         IDS: IDS
+        CancellazioneSicura: Cancellazione Sicura
 
 # News
         Notizie: News
@@ -99,8 +98,6 @@ navigation:
 
 # Azienda
         Azienda: About
-        Competenze: Experience
-        Filosofia: philosophy
         Privacy: Privacy
 
 # Contatti
@@ -108,7 +105,11 @@ navigation:
         Tecnico: Tech Dep.
 ########################################################################
 
-# All pages contents start from here below
+
+
+# *************************************************************************
+# INIZIO CONTENUTI HOMEPAGE (accesso diretto al sito http oppure cliccando sul logo)
+# *************************************************************************
 
 # The homepage
 homepage:
@@ -145,6 +146,12 @@ homepage:
         action_button: Learn more
 ########################################################################
 
+
+
+# *************************************************************************
+# INIZIO CONTENUTI MENU COSA FACCIAMO
+# *************************************************************************
+
 # Content of Main Menu Servizi pages starts here
 servizi:
 
@@ -153,11 +160,11 @@ servizi:
 
 # PAGINA SERVIZI-->SOMMARIO (/servizi/index.html)
     sommario:
-        teaser: Ispeziona, Osserva,<br>Riporta.
+        teaser: Come Proteggiamo il tuo Patrimonio<br>Dati Aziendale
 
         intro:
-            titolo: Come possiamo aiutarti?
-            descrizione: Ecco un piccolo riepilogo di cosa ci occupiamo
+            titolo: Integriamo la Privacy nei Processi Informatici
+            descrizione: Le Nostre Soluzioni
 
         protezione:
             icona: Protezione dei Dati
@@ -171,57 +178,190 @@ servizi:
 
         cloud:
             icona: Cloud in House
-            titolo: <strong>I tuoi dati, sui tuoi server, sempre con te</strong>
-            testo: Grazie al Cloud e alla sua crittografia solo e solanto tu potrai vedere e gestire i dati che inserisci nel Cloud in oltre potrai
-            lista:
-                li1: Gestire autorizzazione e permessi
-                li2: Generare password per file specifici
-                li3: Gestire i criteri di condivisione
-                li4: Creare link protetti per condivisioni
+            titolo: <strong>I TUOI DATI, SUI TUOI SERVER, A CASA TUA</strong>
+            box-sx:
+                titolo: Cloud in-House ha la finalità di renderti autonomo, quindi non dipendere da altri fornitori di servizi (Cloud), ma potenzialmente sfruttando il top della tecnologia e della sicurezza
+                descrizione: Grazie al Cloud in-House e alla crittografia inisita nel sistema si ha la certezza di avere a disposizione un canale di lavoro "Sicuro e Riservato"
+                li1: Dati Salvati sistematicamente e sincronizzati
+                li2: E' possibile dettagliare le Policy di Sicurezza
+                li3: E' possibile limitare gli apparati in condivisione
+                li4: E' possibile configurare il criterio delle condivisioni
+                li5: Con pochi click è possibile creare un collegamento semplice e sicuro e condividersi le cartelle
             box-dx:
-                titolo: Prova
-                descrizione: Prova, prova, prova, prova, prova, prova, prova, prova, prova, prova, prova, prova, prova, prova, prova, prova, prova, prova
-                li1: Lista 1 sinistra
-                li2: Lista 2 sinistra
-                li3: Lista 3 sinistra
-                li4: Lista 4 sinistra
+                titolo: I tuoi dati al "Sicuro" sempre con te qualunque sia la piattaforma utilizzata
+                descrizione: Aperti nella condivisione e produttivi consentendo di distribuire meglio il carico dei dati informatici e stabilendo quali sono gli apparati che possono accedere al Cloud in-House
+                li1: Federare e autorizzare i propri Partner - Server to Server - (clienti, Fornitori, Commercialista, ecc..)
+                li2: Creazione di azioni pubbliche per le persone che non sono utenti Cloud in-House
+                li3: Programmare la data di scadenza sulla condivisione pubblica
+                li4: Notifica via mail quando si creano le condivisioni
 
         voip:
-            icona: VoIP Cifrato
-            titolo: <strong>Titolo VoIP</strong>
-            testo: Testo VoIP da decidere
+            icona: Comunicazioni Telefoniche Protette
+            titolo: <strong>Telefonia VoIP</strong>
+            testo: Realizziamo Piattaforme Telefoniche "IP Center Solution" che possono utilizzare uno standard di protocollo per la cifratura Anti-Intercettazione
 
         progetti:
-            icona: Progetti personalizzati
-            titolo: <strong>Titolo Progetti Personalizzati</strong>
-            testo: Testo Progetti Personalizzati da decidere
+            icona: Studio di Progetti Personalizzati
+            titolo: <strong>Studiamo e Realizziamo Progetti</strong>
+            testo: La nostra Linea Guida Progetti è specificata all'interno di questa pagina ha l'obiettivo principale della soddisfazione cliente
 ########################################################################
 
-# PAGINA SERVIZI--->PROTEZIONE (/servizi/protezione.html)
+# PAGINA SERVIZI--->PROTEZIONE DATI (/servizi/protezione.html)
     protezione:
-        icona: Protezione dei Dati
-        teaser: Proteggiamo i tuoi dati
-        titolo: Titolo
-        sottotitolo: sottoTitolo
+        icona: Protezione Dati
+        teaser: Proteggiamo Dati Ininterrottamente
+        titolo:  Dati Aziendali
+        sottotitolo: Forniamo soluzioni per la Privacy
         descrizione: Prova descrizione in protezione, prova, prova
+
+    pd:
+        teaser: "11 Years of Quality Assurance Support for Demandware."
+        title: Xceptance – Demandware Partner
+        description: We are Demandware partner
+
+        box1:
+            headline: Privacy-Protection-Easy
+            teaser:  La Privacy è diventata strategiaca per il futuro operativo delle Aziende. Lo scopo è di aumentare la sicurezza e tutelare i dati e le informazioni che viaggiano in rete.
+            description: Finalmente le istituzioni hanno deciso responsabilmente di colmare il forte disequilibrio che riguarda il mondo dei privati nel "possesso" e nel "controllo" dei propri dati e delle proprie comunicazioni. Interi settori economici sono coinvolti e rispondenti a questo bisogno. Attualmente nel privato le comunicazioni crittografate (quindi private), sono molto utilizzate dai grandi Gruppi, infatti sanno perfettamente che queste tecniche esistono e funzionano bene. La crittografia è uno strumento potente da non sottovalutare se si vuole proteggere il Know-how aziendale e progredire.
+            numbers:
+
+        box2:
+            headline: Cosa Intendiamo per "Patrimonio Dati Digitali"
+            teaser:
+            list:
+                li1: Buste Paghe,Brevetti,Stato Patrimoniale,Contratti, Organigramma, Finanza, Atti, Fidi Bancari, Elenco Soci, Carte di Credito, Bilanci, Investimenti, Debiti, Finanziamenti, Fiscalità.
+                li2: Fatturazione, Clienti e Fornitori, Preventivi, Sales Strategy, Prezzi Riservati, Codici Prodotto, Report Micro Area, Technical know-how, Piano Marketing.
+                li3: Dati Sensibili (Origine Razziale, Convinzioni Religione e Filosofiche, Salute, Adesione Partiti e Sindacati, Vita Sessuale), Dati Identificativi, Dati Comuni (Abitudini, Gusti), Dati Giudiziari.
+                li4: E-mail, Comunicazioni Telefoniche (IP), Data Confidential, Documenti interni, Policy, Accordi, Segreti Personali e Aziendali.
+
+        box3:
+            headline: Perchè Proteggere i Dati
+            teaser: Lo scambio elettronico concettualmente è una caratteristica che non tornerà indietro. L'innovazione tecnologiaca consente nuove tecniche di comunicazione "virtulizzazione, Mobile, Cloud, IP" per cui il successo della propria attività dipendente sopratutto dalla protezione dati.
+            list:
+                li1: Cyber attackers a fini Commerciali - Nessun sistema operativo è IMMUNE, vengono inoculati dispositivi informatici all'interno della rete Aziendale che violano la riservatezza.
+                li2: Tecnica di Profilazione a fini Marketing - Le transazioni sono SEMPRE analizzate dagli algortmi cosiddetti Indicatori Alfanumerici.
+                li3: Tecnica di Protezione e Sicurezza - Se non si adottano misure di sicurezza adeguate, non si potrà MAI escludere che il Know-How Aziendale venga acquisito e compromesso.
+                li4: Incorporare la Privacy è un PLUS - Integrare le tecniche di protezione dei dati nell'eco sistema informatico Aziendale, eleva l'immagine e aumenta la fiducia tra i corrispondenti (attuali e futuri).
+                li5: Norme Ue e Codice Privacy - Gli adempimenti Normativi e le regole ferree odierne per il mercato digitale (interno e transfrontaliero), evitano gravi danni e antipatiche sanzioni.
+
+        box4:
+            headline: Security Mail
+            teaser: "Con semplice click è possibile comunicare in modalità riservata, allegando qualsiasi documento anch'esso protetto e riservato. La nostra proposta si basa su due soluzioni:"
+            list:
+                li1: Soluzione 1 - OpenXPKI Sistema completo e molto potente. Viene integrato nei processi informatici come Autorità di Certficazione Aziendale. Gli utenti in modo automatico tramite i propri certificati digitali (Identity, Autenticazione, Autorizzazione, Firma,) si scambiano mail in assoluta riservatezza.
+                li2: Soluzione 2 - OpenPGP Sistema adatto per piccole aziende spesso utilizzato in modalità ibrida con la soluzioni 1 - L'utente viene istruito e dotato di chiavetta USB univoca, all'interno della quale vengono inserite le sue chiavi (RSA o curve Ellitiche), semplicemente associtate alla mail. Pertanto sarà in grado di comunicare in assuluta riservatezza.
+
+        box5:
+            headline: File Sharing - Condivisione Dati Sicura
+            teaser: L'accesso sicuro ai dati può avvenire in ogni luogo e in qualunque momento indipendentemente dalla piattaforma utilizzata.
+            list:
+                li1: Sono disponibili APP per apparati mobili, Smartphone e Ipad. - E' possibile Sincronizzare grossi file fino a 512Mb (se necessario questo limite può essere superato ma dipende dal File System e dal S.O.in uso).
+                li2: Gli Utenti possono lavorare creando condivisioni pubbliche sicure (OTP - One Time Password), oppure può essere autorizzato volta per volta (Password Temporanee trasmesse via SMS).
+                li3: Eco sistema protetto da crittografia chivi Pubbliche a 4096 bit Algortmo SHA 256.
+                li4: Il dato viene sempre tracciato in modlalità cronologica. Quindi l'amministratore di sistema è in grado di stabilire quotidianamente l'operatività dell'utente.
+
+        box6:
+            headline: Cifratura Dati Memorizzati
+            teaser: I dati sono salvati sistematicamente suoi propri Server (minimo doppio Back-up), più n.1 Back-up nel Coud in-House. Dati sicuri sincronizzati e condivisi all'interno della Piattoforma OnwnCloud.
+            list:
+                li1: I processi di salvataggio dati avvengono tramite la tecnica della Cifratura. I protocolli utilizzati sono consigliati dal Codice dell' Amministratozione Digitale (CAD - digitpa.gov.it), e dal Garante della Protezione Dati Personali.
+                li2: Il salvataggio Dati Personali o il trasferimento da paesi appartenenti all'UE verso paesi Terzi (non UE), è vietato in linea di principio, a meno che il paese in questione garantisca un livello di protezione ADEGUATO. La commissione ha il potere di stabilire tale adeguatezza (art. 25, commma 6, della Dir. 95/46CE).
+
+        box7:
+            headline: Spostamento Fisico dei Dati
+            teaser: Lo spostamento fisico dei dati da una sede all'altra in modalità sicura, viene offerta in due modalità&#58
+            list:
+                li1: Soluzione HD Virtuale - Applicativo di cifratura dati multi piattaforma, installato su chiavetta (va bene anche HD), USB e PC utente. In più è possibile partizionare il disco creando un ulteriore livello (HD Nascosto), all'interno dello stesso discho cifrato, rendondo impossibile la sua identificazione.
+                li2: Soluzione hardware Chiavetta Usb - Applicativo di cifratura nativo all'interno della chiavetta dati. I dispositivi di archiviazioni sono stati progettati per diverse organizzazioni aziendali ed hanno un gamma completa e certificata.
+                li3: In entrami i due casi (soluzione HD virtuale e soluzione Hard. Chiavetta usb), in caso di smarrimento SONO RESI inutilizzabili.
+
 ########################################################################
 
 # PAGINA SERVIZI--->CONTROLLO (/servizi/controllo.html)
     controllo:
-        icona: Controllo dati
-        teaser: Controllo dati
-        titolo: Controlla i tuoi dati
-        sottotitolo: Controlla chi accede ai tuoi dati
+        icona: Controllo Accesso
+        teaser: Controllo accesso
+        titolo: Soluzioni Controllo Accessi Dati
+        sottotitolo: Procedura Sicura e Automatizzata
         descrizione: Prova descrizione in controllo, prova, prova
+
+        box1:
+            headline: L'utente aziendale potrà usufuire di una procedura di Accesso ai dati semplice veloce e sicura.
+            teaser:
+            description: Le architetture sono progettate per impedire l'accesso ai Server e otterere l'accesso ai dati a chiunque non sia autorizzato.
+            numbers: Nonostante la complessità tecnica (codifica e decodifica), di autenticazione, l'utente non ha latenze operative.
+
+        box2:
+            headline:
+            teaser: Controllo e Gestione Centralizzata
+            list:
+                li1: La soluzuione di autenticazione può essere scelta come sistema HW tipo chiavetta Usb oppure come un sistema software. Entrambe le modalità sono semplici e sicure.
+                li2: Una volta impostato il sistema, l'amministratore potrà controllare la cronologia degli eventi ed intervenire (se fosse necessario).
+                li3: L'amministratore di Sistema potrà associare il tipo di autenticazione in funzione al compito designato all'utente.
+                li4: La gerarchia di autenticazione consente rapidamente di verificare la rispondenza ai compiti stabiliti.
+                li5: Tracciabilità degli Accessi e registrazione negli archivi amministratore.
+                li6: E' possibile richiedere il supporto per un servizio personalizzato.
+
 ########################################################################
 
 #PAGINA SERVIZI--->CLOUD (/servizi/cloud.html)
     cloud:
-        icona: Cloud in House
+        icona: Cloud in-House
         teaser: I tuoi dati sempre con te
-        titolo: Come funziona il cloud?
-        sottotitolo: Un modo sicuro per avere i tuoi dati sempre con te
+        titolo: La tua Piattaforma Cloud
+        sottotitolo:
         descrizione: Prova descrizione in cloud, prova, prova
+
+        box1:
+            headline: Un modo sicuro per avere i tuoi dati sempre con te senza problemi di dipendenza.
+            teaser: Aperti e Produttivi
+            description: Cloud in-House ha la finalità di rendirti autonomo cioè non far dipendere i tuoi dati in modo decisivo dai fornitori di servizi Cloud e dalla loro infrastruttura tecnica precludendo la tua riservatezza.
+            numbers: Inoltre Cloud in-House ha l'obiettivo di garantirti gli stessi standard di condivisione e di sicurezza.
+
+        box2:
+            headline: Cloud in-House integra la crittografia
+            teaser: Disk Encryption
+            list:
+                li1: I protocolli di sicurezza prevedono che i dati salvati (su più HD), sono sempre cifrati sincronizzati e condivisi sistematicamente, per la fruibilità degli utenti.
+                li2: L'accesso sicuro ai tuoi dati da remoto, può essere eseguito su qualunque piattafroma e in qualsiasi momento.
+                li3: Le chiavi a protezione dei dati sono (almeno), da 2048 bit e da 4096 bit, Algoritmo SHA 256.
+                li4: Per maggiore sicurezza le chiavi possono essere protette da HSM (Hardware Security Modules).
+
+        box3:
+            headline: Condivisione Dati Sicura
+            teaser: File Sharing
+            list:
+                li1: E' possibile condividere i dati sullo stesso server sia come utenti sigoli che come gruppi.
+                li2: Con pochi click è possibile creare collegamenti sicuri (pubblici), con utenti esterni al Cloud in- House e condividersi le cartelle di lavoro.
+                li3: Per maggiore produttività è possibile federare (Server to Server), i propri partner aziendali (es. partner commerciali clienti e fornitori e amministrativi come il Commercialista).
+                li4: E' possibile programmare la data di scadenza relativa alla condivisione e proteggere la cartella o file tramite password appunto temporanee.
+                li5: L'accesso ai dati può essere autorizzato volta per volta tramite passowrd trasmesse via sms.
+                li6: E' possibile inoltrare automaticamente le notifiche via mail.
+                li7: Reportistica, il ciclo di vita del file condiviso è tracciato cronologicamente, sono tracciate le modifiche, sono tracciati gli utenti.
+                li8: E' possibile configurare il criterio delle condivisioni e dettagliare le policy di sicurezza.
+
+        box4:
+            headline: Headline box4
+            teaser: Teaser box4
+            list:
+                li1: Box4 - Riga1. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero.
+                li2: Box4 - Riga2. Reprehenderit ipsum consequatur ab nihil sint quis. Similique quis voluptas voluptas hic. Aut nihil culpa saepe alias natus animi. Ea a sunt rerum ullam laudantium odio voluptatem.
+
+        box5:
+            headline: Headline box5
+            teaser: Teaser box5
+            list:
+                li1: Box5 - Riga1. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero.
+                li2: Box5 - Riga2. Reprehenderit ipsum consequatur ab nihil sint quis. Similique quis voluptas voluptas hic. Aut nihil culpa saepe alias natus animi. Ea a sunt rerum ullam laudantium odio voluptatem.
+                li3: Box5 - Riga3. Labore dolorum rerum beatae dolores voluptatem consequuntur. Dolores ut enim et ea. Reprehenderit dolor blanditiis et. Corporis id consequatur dolorem necessitatibus voluptas. Et magnam sunt quo temporibus assumenda modi.
+
+        box6:
+            headline: Headline box6
+            teaser: Teaser box6
+            list:
+                li1: Box6 - Riga1. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero.
+                li2: Box6 - Riga2. Reprehenderit ipsum consequatur ab nihil sint quis. Similique quis voluptas voluptas hic. Aut nihil culpa saepe alias natus animi. Ea a sunt rerum ullam laudantium odio voluptatem.
+
 ########################################################################
 
 #PAGINA SERVIZI--->VOIP (/servizi/voip.html)
@@ -237,14 +377,558 @@ servizi:
     progetti:
         icona: Progetti personalizzati
         teaser: I tuoi dati sempre con te
-        titolo: Ti aiutiamo a realizzare i tuoi progetti
-        sottotitolo: Un modo sicuro per avere i tuoi dati sempre con te
+        titolo: Ti aiutiamo a realizzare la tuo Progetto Privacy
+        sottotitolo: Siamo al tuo fianco
         descrizione: Prova descrizione in Progetti, prova, prova
+
+        box1:
+            headline: Linea Guida
+            teaser: Descrizione delle Attività
+            description: Lavorare insieme significa stabilire e costruire un team che si misura per il raggiungimento di obiettivi comuni rivolti alla soddistazione di tutti.
+            numbers:
+
+        box2:
+            headline: Analisi Progetto
+            teaser: Descrizione Attività Fornite
+            list:
+                li1: Analisi preliminare cerchiamo di capire analaliticamente le richieste.
+                li2: Verifichiamo le risorse tecniche esistenti.
+                li3: Compariamo i requisiti tecnici esistenti con i requisiti necessari.
+                li4: Consideriamo la fattibilità tecnica in correlazione al badget di investimento.
+                li5: Verifichiamo la conformità agli standard.
+                li6: Eventuali funzionalità aggiuntive.
+                li7: Valutiamo i rischi prima di una qualsiasi azione.
+                li8: Offriamo consulenza nella scelta consigliando le migliori soluzioni elaborate.
+                li9: Tempi di consegna.
+                li10: Individuiamo il personale o il gruppo di lavoro più idoneo.
+                li11: Cerchiamo di ottenere supporto tecnico da parte cliente.
+                li12: Approvazione dell'investimento.
+                li13: Mandato e obbietivi stabili.
+                li14: Scaletta lavori condivisa più spunta dei lavori conseguiti volta per volta.
+                li15: Collaudo e Formazione.
+
+        box3:
+            headline: Risore a Carico Cliente
+            teaser: Costi da concordare
+            list:
+                li1: Costi Licenza.
+                li2: Eventuali Hosting e Outsourcing
+                li3: Inserimento prodotti e servizi aggiuntivi.
+                li4: Creazione testi più eventuali traduzioni.
+                li5: Tempo necessario per riunioni e gestione progetti.
+###########################################################################
+
+
+
+# *************************************************************************
+# INIZIO CONTENUTI MENU OFFERTA
+# *************************************************************************
+offerta:
+
+# Pagina OFFERTA -> Cloud In-House (/offerta/index.html)
+    cloud:
+        titolo: Cloud in-House
+        descrizione: CryptoTeam, gli esperti in sicurezza dei dati e privacy.
+
+        carousel:
+            slide1:
+                text: Carousel Slide 1<br/>La sicurezza dei tuoi dati è importante
+            slide2:
+                text: Carousel Slide 2<br/>Sottotitolo Slide 2
+            slide3:
+                text: Carousel Slide 3<br/>Sottotitolo Slide 3
+            slide4:
+                text: Cloud Privato <br/>Concordiamo il servizio di Housing & Outsorsing
+
+        intro:
+            headline: Cloud in-House
+            details: Aiutiamo i nostri clienti a proteggere uno dei patrimoni più preziosi, l'insieme globale dei dati aziendali.
+
+        riquadri:
+            box1:
+                headline: Protezione dei dati
+                details: La protezione dei dati aziendali non è soltanto necessaria per adeguarsi alle normative sulla privacy, è una scelta di tutela del patrimonio aziendale.
+            box2:
+                headline: Piattaforma PKI
+                details: Scopri come gestire, in piena autonomia, l'emissione dei certificati a chiave pubblica X509 per la tua azienda.
+            box3:
+                headline: Cloud in House
+                details: È un canale di lavoro sicuro e riservato. Questa soluzione consente di distribuire in modo sicuro i dati sensibili all'interno dell'azienda
+            box4:
+                headline: Crittografia SUPER
+                details: Scrittura convenzionale segreta, decifrabile solo da chi sia a conoscenza del codice. Come la usiamo?
+
+        welcome_teaser:
+            headline: Benvenuto in CryptoTeam!<br/>Vieni a conoscerci.
+            action_button: Scopri
+########################################################################
+
+
+# Pagina OFFERTA -> Cifratura Dati (/offerta/crypto.html)
+    cifratura:
+        title: Cifratura Dati
+        description: The most flexible load and performance testing tool for Engineering.
+
+        intro:
+            headline: Cifratura Dati
+            details: Dettagli Offerta Cifratura Dati.
+
+        technologies:
+            headline: Known Technologies
+            lead: "XLT utilizes what you already know: Java, JUnit4, Selenium WebDriver. Absolutely platform-independent."
+            details:
+                lead: Because it takes time to learn new things and because you have established tools and processes, we
+                    built XLT on well-known and tested foundations.
+                text: "<p>All this gives you the tools to get the most out of XLT. It integrates well, you can extend it well, and you won't have a hard time mastering it.</p>
+
+                <ul>
+                    <li><strong>Java</strong> is the scripting language when scripting is required. Use your favourite IDE, profilers, and debuggers.</li>
+                    <li><strong>JUnit</strong> allows easy integration into test automation processes.</li>
+                    <li>Result data is delivered as <strong>CSV</strong> for optional post-processing.</li>
+                    <li>Reports are <strong>HTML</strong> for easy sharing.</li>
+                    <li>Reports are rendered from <strong>XML via XSL</strong> for easy adjustments of content and layout.</li>
+                    <li>Reports feature an <strong>XML data file</strong> for machine-based evaluation.</li>
+                    <li>The <strong>command line</strong> helps you automate everything quickly.</li>
+                    <li><strong>WebDriver</strong> is used for functional testing as well as client-performance testing.</li>
+                </ul>
+
+                <p>
+                    And last but not least, XLT is platform-independent. Write on Windows, run on Linux. Compose on Mac, deploy on Windows. The possibilities are endless.
+                </p>"
+
+        ui:
+            headline: Intuitive UI
+            lead: The Script Developer is your intuitive UI for creating and maintaining functional tests. Use our open file format or export to Java.
+            details:
+                lead: The Script Developer is your IDE for composing functional tests. It‘s your place to record, edit, and replay tests with Firefox. The generated scripts can later be used with any WebDriver.
+                text:
+                    keyfeatures:
+                        headline: Key Features
+                        text: Script Developer is a Firefox extension that lets you record, edit, and replay Selenium-style scripts with all the benefits of XLT test automation.
+                        list: "<li><strong>Record & Replay</strong> test scripts in Firefox.</li>
+                                <li><strong>Edit</strong> scripts.</li>
+                                <li><strong>Debug</strong> scripts with the integrated debugger, highlighter, and assertion evaluator.</li>
+                                <li>Add <strong>comments</strong>.</li>
+                                <li>Extract <strong>reusable modules</strong>.</li>
+                                <li>Manage global and local <strong>test data</strong>.</li>
+                                <li><strong>Document</strong> test cases and code.</li>
+                                <li>Execute <strong>batch tests</strong>.</li>"
+                    download:
+                        headline: Free Download
+                        text: You can download the XLT Script Developer independently of the full Xceptance LoadTest package. That enables you to design and run tests in Firefox. <strong>It‘s free and updates come automatically</strong>.
+
+        deployment:
+            headline: Deployment &amp; Cloud
+            lead: XLT is easy to install and start, no OS dependencies whatsoever. Ready-to-use Amazon-EC2 images are available.
+            details:
+                lead: XLT is platform-independent and you just have to unzip it. If you need ready-to-go cloud images, we provide Amazon Web Services EC2-AMIs free of charge.
+                text: "<p>
+                    You can deploy XLT to any cloud provider and use any OS that has support for Java 7 or 8. We strongly recommend Unix server environments for running large tests.
+                </p>
+
+                <p>
+                    XLT runs HTTPS-based communication. You can use proxies, authentication, and your proven tools to deploy and run XLT. Our goal was to keep it as simple as
+                    possible, to make it as flexible as possible.
+                </p>"
+
+        reporting:
+            headline: Awesome Reporting
+            lead: Out-of-the-box reporting that is just right. No configuration work, all numbers at a glance. Comparison and trend reporting included.
+            details:
+                lead: Are you tired of configuring your reports manually? Are the provided data-sets just not what you want or do they hide crucial details? We‘ve got you covered! XLT provides best-practice reports out of the box, based on over a decade of load and performance testing experience.
+                text:
+                    loadtestreport:
+                        headline: Load Test Reports
+                        text: " <p>
+                                    The XLT performance report includes everything you need to know about your application.
+                                </p>
+                                <p>
+                                    Besides the obvious data such as runtime totals, averages, and medians, you can find projections for hourly or daily traffic. It also features service-level-agreement numbers, lists the configuration of your test as well as all errors and problems, and includes links to the result browser for quick analysis.
+                                    <a href=\"/demo-reports/report/\" target=\"_blank\">Open an example here</a>.
+                                </p>"
+                        link:
+                            alt: LoadTest Report Image
+                            title: Overview of a LoadTest Report
+                    comparisonreports:
+                        headline: Comparison Reports
+                        text: "<p>
+                                    <a href=\"/demo-reports/comparison-report/\" target=\"_blank\">View here. </a>If you run a test again and you want to know if the later round was in fact better, you can generate a comparison report.
+                                </p>
+                                <p>
+                                    Color codes and percentages help you quickly determine what changed between the test runs.
+                                </p>"
+                        link:
+                            alt: Comparison Report Example Table
+                            title: Color Codes and Percentages For Easy Comparison
+                    trendreports:
+                        headline: Trend Reports
+                        text: "<p>
+                                    <a href=\"/demo-reports/trend-report/\" target=\"_blank\">View here. </a>A trend report shows how performance developed over many test runs. It also uses color codes to visualize the changes.
+                                </p>
+                                <p>
+                                    The trend report visualizes two performance trends: first, a baseline comparison showing you the performance changes compared to your first test run; and second, a comparison to the previous run telling you what happened at a specific point in time.
+                                </p>"
+                        link:
+                            alt: Example Trend Chart
+                            title: Trend Performance Over Different Runs
+
+
+        realtime:
+            headline: Instant Feedback
+            lead: Realtime monitoring capabilties give you instant insights into progress and health of your running load test.
+            details:
+                lead: XLT realtime monitoring gives you quick and realible insights into your running tests by utilizing known technologies.
+                text: <p>By supporting the well known and established open source tools Graphite and Grafana, XLT enables you to get all the needed insights into running tests instantly.</p><p>You can also correlate XLT data with all your infrastructure data, if you use Graphite for your monitoring already.</p>
+                image:
+                    alt: Grafana Views of an running XLT test
+                    title: Realtime Monitoring with XLT
+
+        adjustable:
+            headline: Easily Adjustable
+            lead: Add new data sources, modify the report content and layout, build powerful test suites as frameworks for even more testing.
+            details:
+                lead: A good tool has to be adjustable to the environment it is used in. Thus, XLT supports many ways to be extended or modified to fit your needs even better.
+                reports:
+                    headline: Reports
+                    text: <p>All reports can be adjusted in content and layout, because we deliver the CSS and the render templates as part of XLT. So if you need custom layouts of reports, you are covered. You want to have your own summary of data? Not a problem. You want to reduce the data? Fine as well.</p>
+
+                data:
+                    headline: Custom and External Data
+                    text: "<p>
+                            During a load test, XLT logs a large amount of data relevant to the test run. Nevertheless, sometimes it comes in handy to log additional information about the system under test. For this purpose, XLT provides custom values.
+                        </p>
+                        <p>
+                            The XLT report generator lets you include external data files in the report. This can be used if it’s impossible to directly access the external data source during the load test runtime.
+                        </p>"
+
+                java:
+                    headline: Use Java
+                    text: <p>If there is anything that is not part of XLT, you can use Java to make it happen. Of course there are limits, because you can influence the measurements or limit the scaling, but with that in mind, a lot of things are possible.</p>
+
+
+        automation:
+            headline: Made for Automation
+            lead: Java as script language, open data formats, command lines, JUnit test principle, WebDriver support, and much more.
+            details:
+                lead: XLT is made to be integrated into all kinds of automation processes. No matter if it‘s just a shell script or a full build process.
+                text: <p>We built XLT in a way that perfectly gets along with your preferred IDE, the command line, build processes, or just with a little bit of shell scripting. Engineers need things to work smoothly and quickly. We have that in mind.</p>
+
+        profiles:
+            headline: Load Profiles
+            lead: Arrival rate or steady user rate, ramp-ups, and flexible profiles over the course of a test run. Realistic or predictable, your choice.
+            details:
+                lead: XLT supports a very flexible setup of load profiles ranging from steady user rates to arrival rates. Compose long-running test setups to reflect what happens during a day, absolutely freely configurable.
+                text: "<h3>Load Profile Features</h3>
+                <ul>
+                    <li><strong>Arrival rate model</strong> for realistic simulations.</li>
+                    <li><strong>Steady user rate</strong> for predictable measurements.</li>
+                    <li><strong>Ramp-up</strong> for gradually increasing traffic.</li>
+                    <li><strong>Free configuration</strong> to compile challenging tests.</li>
+                </ul>
+
+                <h3>Freely Configurable</h3>
+                <p>
+                    Do you need to have a test where, after a slow ramp-up of low traffic, the load jumps within a minute to peak traffic, stays on that level for 10 minutes to then come back in waves? Well, XLT lets you do so. No limits. It works for arrival rate-based tests as well as for user-based tests.
+                </p>
+
+                <p>
+                    <img src=\"/images/xlt/free-load-profile.png\" class=\"img-responsive\" alt=\"Example View of a Load Profile\" title=\"Wave Pattern of a Load Profile\" />
+                </p>"
+
+        scenarios:
+            headline: User Scenarios
+            lead: Unlimited number of user scenarios that can be part of a test. Each scenario can have a different configuration or load profile.
+            details:
+                lead: Reality is versatile and your test should reflect that. You can set up as many different scenarios as you need and run them together.
+                text: <p>Each scenario can be everything from a single pageview to a long-running call center operation. You can give each scenario an individual configuration that includes the load profile. The start of scenarios can be delayed in relation to other scenarios if needed.</p>
+
+        resultbrowser:
+            headline: Spostamento Fisico dei Dati (Dati in Movimento)
+            lead: Nel pieno controllo aziendale, queste due soluzione sono state concepite per utenti, che spostano fisicamente i dati (da lavorare), da una sede all'altra.
+            details:
+                lead: I metodi operativi di saltaggio dati garantiscono sicurezza e riservatezza all'azienda. Il nostro compito non è solo fornire un prodotto, ma è di guidare l'utente ad un corretto uso dei strumenti.
+                text:
+                    block1:
+                        image:
+                            alt: Start View of the Result Browser
+                            title: The Result Browser
+                        text: "<p>
+                                    <strong>Soluzione Sofware HD Virtuale</strong>. <strong>Primo Passo.</strong>L'applicativo è installato sulla chiavetta o HD (USB), personale dell'Utente. A questo punto partizionando il disco avrà la possibilità di cifrare o nascondere (disco Hidden), tutti i dati salvati. In più potrà scegliere in fase d'installazione quale sia l'algoritmo di cifratura più adatto alle sue esigenze. Inoltre in caso di smarrimento la chiavetta o HD (usb), non potranno essere utilizzabile.
+                                </p>
+                                <p>
+                                    <strong>Secondo Passo.</strong> Lo stesso applicativo verrà installato sul client postazione sede 1 e sede 2 dell'utente (modalità da concordare). <strong>Terzo Passo.</strong> Corso di 1 ora all'utilizzo delgli strumenti.
+
+                                </p>"
+                    block2:
+                        image:
+                            alt: Details View of the Result Browser
+                            title: Detailed Information About Application Errors
+                        text: "<p>
+                                    <strong>Soluzione Hardware Chiavetta USB</strong> Utente potrà scegliere la chiavetta e la capicità più adatta, alle proprie esigenze lavorative. L'applicativo di cifratura è nativo all'interno della chiavetta di archiviazione dati. <strong>Offriamo</strong> una gamma completa e certiifcata per diverse organizzazionei aziendali.
+
+                                </p>
+                                <p>
+                                    <strong>Scegli sotto il tuo modello.</strong>
+                                </p>
+                                <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Open an example here</a>.</p>"
+
+        resultbrowser2:
+            headline: FASCIONE AGGIUNTIVO 1 IDENTICO A -- Spostamente Fisico dei Dati (Dati in Movimento)
+            lead: Nel pieno controllo aziendale, queste due soluzione sono state concepite per utenti, che spostano fisicamente i dati (da lavorare), da una sede all'altra.
+            details:
+                lead: I metodi operativi di saltaggio dati garantiscono sicurezza e riservatezza all'azienda. Il nostro compito non è solo fornire un prodotto, ma è di guidare l'utente ad un corretto uso dei strumenti.
+                text:
+                    block1:
+                        image:
+                            alt: Start View of the Result Browser
+                            title: The Result Browser
+                        text: "<p>
+                                    <strong>Soluzione Sofware HD Virtuale</strong>. <strong>Primo Passo.</strong>L'applicativo è installato sulla chiavetta o HD (USB), personale dell'Utente. A questo punto partizionando il disco avrà la possibilità di cifrare o nascondere (disco Hidden), tutti i dati salvati. In più potrà scegliere in fase d'installazione quale sia l'algoritmo di cifratura più adatto alle sue esigenze. Inoltre in caso di smarrimento la chiavetta o HD (usb), non potranno essere utilizzabile.
+                                </p>
+                                <p>
+                                    <strong>Secondo Passo.</strong> Lo stesso applicativo verrà installato sul client postazione sede 1 e sede 2 dell'utente (modalità da concordare). <strong>Terzo Passo.</strong> Corso di 1 ora all'utilizzo delgli strumenti.
+
+                                </p>"
+                    block2:
+                        image:
+                            alt: Details View of the Result Browser
+                            title: Detailed Information About Application Errors
+                        text: "<p>
+                                    <strong>Soluzione Hardware Chiavetta USB</strong> Utente potrà scegliere la chiavetta e la capicità più adatta, alle proprie esigenze lavorative. L'applicativo di cifratura è nativo all'interno della chiavetta di archiviazione dati. <strong>Offriamo</strong> una gamma completa e certiifcata per diverse organizzazionei aziendali.
+
+                                </p>
+                                <p>
+                                    <strong>Scegli sotto il tuo modello.</strong>
+                                </p>
+                                <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Open an example here</a>.</p>"
+
+        resultbrowser3:
+            headline: FASCIONE AGGIUNTIVO 2 IDENTICO A -- Spostamente Fisico dei Dati (Dati in Movimento)
+            lead: Nel pieno controllo aziendale, queste due soluzione sono state concepite per utenti, che spostano fisicamente i dati (da lavorare), da una sede all'altra.
+            details:
+                lead: I metodi operativi di saltaggio dati garantiscono sicurezza e riservatezza all'azienda. Il nostro compito non è solo fornire un prodotto, ma è di guidare l'utente ad un corretto uso dei strumenti.
+                text:
+                    block1:
+                        image:
+                            alt: Start View of the Result Browser
+                            title: The Result Browser
+                        text: "<p>
+                                    <strong>Soluzione Sofware HD Virtuale</strong>. <strong>Primo Passo.</strong>L'applicativo è installato sulla chiavetta o HD (USB), personale dell'Utente. A questo punto partizionando il disco avrà la possibilità di cifrare o nascondere (disco Hidden), tutti i dati salvati. In più potrà scegliere in fase d'installazione quale sia l'algoritmo di cifratura più adatto alle sue esigenze. Inoltre in caso di smarrimento la chiavetta o HD (usb), non potranno essere utilizzabile.
+                                </p>
+                                <p>
+                                    <strong>Secondo Passo.</strong> Lo stesso applicativo verrà installato sul client postazione sede 1 e sede 2 dell'utente (modalità da concordare). <strong>Terzo Passo.</strong> Corso di 1 ora all'utilizzo delgli strumenti.
+
+                                </p>"
+                    block2:
+                        image:
+                            alt: Details View of the Result Browser
+                            title: Detailed Information About Application Errors
+                        text: "<p>
+                                    <strong>Soluzione Hardware Chiavetta USB</strong> Utente potrà scegliere la chiavetta e la capicità più adatta, alle proprie esigenze lavorative. L'applicativo di cifratura è nativo all'interno della chiavetta di archiviazione dati. <strong>Offriamo</strong> una gamma completa e certiifcata per diverse organizzazionei aziendali.
+
+                                </p>
+                                <p>
+                                    <strong>Scegli sotto il tuo modello.</strong>
+                                </p>
+                                <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Open an example here</a>.</p>"
+
+        verify:
+            headline: Verify Everything
+            lead: Assertions permit you to verify everything in detail to ensure that your test is valid.
+            details:
+                lead: A test is only as good as its verifications. XLT supports and encourages as much validation as possible to really make sure that the pages loaded match the expectations.
+                text: <p>You can use the full syntax of assertions known from JUnit and Selenium. If you like Hamcrest, include it, XLT gives you that flexibility. XLT also provides access to all sub-requests of a page, so you can run even more detailed validations.
+                    The XLT Action API allows you to include validations before and after each activity.</p>
+
+        scalable:
+            headline: Scalable
+            lead: Run load tests from any number of machines, different locations, and with nearly unlimited users.
+            details:
+                lead: You can utilize an unlimited number of machines for your load testing. Scale up across datacenters easily. XLT orchestrates the load distribution, uploads, and downloads on its own.
+                text: "<p>
+                            Scale up XLT per machine by bringing up more processes for perfect hardware utilization. Scale up across machines easily by adding more locations. XLT uses differential and concurrent up- and downloads for maximum speed.
+                        </p>
+                        <p>
+                            The load is automatically distributed across all agents. If you use heterogenous hardware, you can attach a weight to each machine to indicate a different speed or size.
+                        </p>
+                        <p>
+                            Installing XLT is easy and only takes a few minutes. It leverages HTTPS and authentication for protecting your agents. Bind XLT to any port you wish.
+                        </p>
+                        <p>
+                            Preconfigured Amazon Web Service Images (AMIs) get you started quickly on Amazon EC2. Just start it and you are good to go.
+                        </p>"
+
+        configurable:
+            headline: Configurable
+            lead: Set timeouts, keep-alive, compression, image loading, permitted hosts, thinktimes, error handling, and much more.
+            details:
+                lead: To match the behavior with your testing needs, lots of parameters can be adjusted.
+                text: "<p>
+                            XLT offers a richt set of options to modify the behavior so that all kinds of different
+                            configurations can be tested. For example:
+                        </p>
+
+                        <ul>
+                            <li><strong>Keep-alive</strong></li>
+                            <li><strong>Timeouts</strong></li>
+                            <li><strong>Content compression</strong></li>
+                            <li><strong>Header fields</strong></li>
+                            <li><strong>Thinktimes</strong></li>
+                            <li><strong>Content loading</strong></li>
+                            <li><strong>Error handling</strong></li>
+                            <li><strong>Maximum error count</strong></li>
+                            <li><strong>Permitted hosts</strong></li>
+                            <li><strong>User agent</strong></li>
+                        </ul>
+
+                        <p>
+                            If XLT does not provide a property for a certain parameter, it can also be influenced programmatically.
+                        </p>"
+        archivable:
+            headline: Archivable
+            lead: Open formats for reports and results to archive them. Go back later for reanalysis. Test configurations are stored with the reports.
+            details:
+                lead: XLT uses open formats for results and reports. Perfectly suited for storing them anywhere.
+                text: "<p>
+                       Result data and reports are separated so you can easily make a decision if you want to store a lot of data or just the final outcome. Stored result data can be turned into reports anytime again on any machine.
+                    </p>
+                    <p>
+                        Reports and results store your full test configuration. Repeating the exact same run days or weeks later is a matter of seconds.
+                    </p>"
+
+        shareable:
+            headline: Shareable
+            lead: Test suites and configurations can be shared easily. Reports are plain HTML and perfect for quick sharing.
+            details:
+                lead: XLT reports are easily sharable with anyone. They are not connected to XLT anymore after they have been created.
+                text: "<p>
+                            All reports are plain HTML. So you can zip them up, mail them, upload them, attach them, and share them with whatever system you prefer.
+                        </p>
+                        <p>
+                            Did you know that you can start your load test on one machine, and collect the results on another? Or maybe your co-worker can collect the data later and analyze it for you, while you're already on your way to a meeting.</p>"
 ########################################################################
 
 
 
-# Services (OLD Definitions)
+# Pagina OFFERTA -> Piattaforma PKI (/offerta/pki.html)
+    pki:
+        titolo: PKI
+        descrizione: CryptoTeam, gli esperti in sicurezza dei dati e privacy.
+
+        carousel:
+            slide1:
+                text: Piattaforma PKI<br/>Sottotitolo Slide 1
+            slide2:
+                text: Slide2<br/>Sottotitolo Slide 2
+            slide3:
+                text: Slide3<br/>Sottotitolo Slide 3
+            slide4:
+                text: Slide4<br/>Sottotitolo Slide 4
+
+        intro:
+            headline: PKI
+            details: Details
+
+        riquadri:
+            box1:
+                headline: Titolo Box1
+                details:  Dettagli Box1.
+            box2:
+                headline: Titolo Box2
+                details:  Dettagli Box2.
+            box3:
+                headline: Titolo Box3
+                details:  Dettagli Box3.
+            box4:
+                headline: Titolo Box4
+                details:  Dettagli Box4.
+
+        welcome_teaser:
+            headline: Benvenuto in CryptoTeam!<br/>Vieni a conoscerci.
+            action_button: Scopri
+########################################################################
+
+
+
+# *************************************************************************
+# INIZIO CONTENUTI MENU CHI SIAMO
+# *************************************************************************
+
+#PAGINA CHI SIAMO--->Chi Siamo (/servizi/index.html)
+chisiamo:
+    titolo: Cryptoteam - Chi Siamo
+    descrizione: Tutto su di noi.
+
+    intro:
+        headline: Chi siamo
+        description: Start-Up Innovativa per la protezione dei dati aziendali
+
+    facts:
+        headline: Competenze
+
+        # ATTENZIONE! I valori NUMERICI vanno messi tra virgolette!
+        # Esempio:
+        # 1990 è un valore numerico e DEVE essere messo tra virgolette
+        # 40 employees è una stringa e non richiede le virgolette
+        riga1:
+            key: Riga1
+            value: "1990"
+        riga2:
+            key: Riga2
+            value: 40 employees
+        riga3:
+            key: Riga3
+            value: Key3
+        riga4:
+            key: Riga4
+            value: Key4
+        riga5:
+            key: Riga5
+            value: Key5
+        riga6:
+            key: Riga6
+            value: Key6
+
+    box1:
+        headline: La Vision
+        details: Sempre di più in futuro vivremo cosparsi tra oggetti componenti IoT (Internet delle Cose), che saranno in grado di captare i nostri dati, di elaborarli, e di trasmetterli ad altri oggetti. Quello che ci attende è uno scenrio davvero rivoluzionario per la protezione dei dati. Infatti oggi la <strong>Sicurezza</strong>, e la <strong>Privacy</strong>, (comunicazioni private), sono diventate fondamentali per le relazioni commerciali basate sul web. Le aziende hanno bisogno di vere garanzie. Se si vuole progredire, i dati scambiati non devono essere letti o acquisiti impropriamente. Tutti sanno che la rete è una grande occasione di business per lo sviluppo economico,  ma devono anche essere guidati verso adeguate misure di sicurezza e di Privacy nella propria infrastruttura IT. Prendiamo come esempio i grandi gruppi (Commerciali, Finaziari, industriali, ecc), la privacy insita nei loro format, ha fortemente contributio ad ottenere sempre <strong>Risultati Vincenti</strong>.
+    box2:
+        headline: Storia Commerciale
+        details: Inizia una nuova era di 2 ex soci che ininterrotamente hanno operato nel settore ITC da oltre 20 anni, prima come colleghi in una grande Spa informatica, poi come soci fondatori tramite la loro Srl per un altro decennio. Un esperienza positiva di crescita e soddisfazioni. Lavorando insieme intrattennero rapporti di collaborazione con grandi produttori (Cina, Europa e Stati Uniti), parteciparono a fiere e convegni di alto profilo tecnologico e innovativo. In più usufrirono di rapporti CORPORADE con 3 grandi Banche Italiane.
+    box3:
+        headline: Mission
+        details:  nell’ambito della protezione dei dati aziendali è quella di offrire sul mercato soluzioni innovative e sicure, garantendo l’accesso ai dati da qualsiasi piattaforma da qualunque luogo.
+    box4:
+        headline: Competenze
+        details: Il team è in grado di programmare (svilppo software), Integrare tool, Progettare e offrire consulenza in ambito di sicurezza, di riservatezza delle comunicazioni aziendali.
+    box5:
+        headline: Obiettivi
+        details: Cryptoteam è una start-up in fase di Breakeven. L'avviamento, la continuità, l'assistenza tecnica è garantita dai suoi professionisti i quali collaborano a tutta forza con i clienti per il raggiungimento degli obiettivi. Usufruiscono della loro infrastruttura tecnologica per dimostrare alle aziende come tutelare i propri dati e le proprie comunicazioni rendendole riservate.
+    box6:
+        headline: Box6
+        details: "It is very important to us to share our knowledge and skills, which is why we work hard on developing <i><strong>software testing tools</strong>. Xceptance LoadTest (XLT) was created to not only enhance our own testing experience but also to serve others of our profession. Open source projects help us greatly in our efforts and we try to give something in return, such as a <a href=\"/en/xlt/licensing-and-pricing.html\">community license</a> or our <strong>open source</strong> email service<a href=\"https://github.com/Xceptance/XCMailr\" target=\"_blank\"> XCMailr</a> for testing.</i>"
+    collaborate:
+        headline: Box7
+        details: We are not a testing squad made up of pedantic nit-pickers who are out to denigrate others’ work. Rather, our goal is to be a reliable, trusted <strong>partner</strong>. To that end, we foster a relationship with our clients that is based on respectful communication and constructive cooperation, and we always keep their needs front and center. We feel comfortable behind the scenes and are satisfied when we can accompany our clients on their road to success.
+    atmosphere:
+        headline: Box8
+        details: "At Xceptance, we believe that a <strong>positive and supportive atmosphere</strong> is key to being good at what we do. A flat hierarchy, fun at work, and spending time together outside the office make for an environment in which we feel our best, are at our most creative, and are engaged and committed to our work."
+
+
+
+
+
+###########################################################################
+
+# *************************************************************************
+# ATTENZIONE! Le definifizioni che seguono sono relative al sito originario
+# NON MODIFICARE OLTRE QUESTA RIGA!!!!
+# *************************************************************************
+
+###########################################################################
+
+
+# Servizi (VECCHIE definizioni)
 services:
     teaser: Inspecting, Observing,<br>Reporting.
     title: Xceptance – Our Services
@@ -288,7 +972,7 @@ services:
 
 ##################################
     dw:
-        teaser: "11 Years of Quality Assurance Support for Demandware."
+        teaser: "Linea Guida Progetti"
         title: Xceptance – Demandware Partner
         description: We are Demandware partner
 
@@ -302,8 +986,8 @@ services:
                 value: "10 (in 2014)"
 
         intro:
-            headline: Partnering For Success
-            teaser: We have been providing quality assurance services for both Demandware and its clients since 2005, shortly after Demandware was founded. Take advantage of our extensive first-hand knowledge of the Demandware platform.
+            headline: Lavorare Insieme
+            teaser: Lavorare insieme significa stabilire e costrire un Team che si misura per il raggiungimento di obiettivi comuni rivolti alla soddisfazione di tutti.
         history:
             headline: We know Demandware
             teaser: Rely on the partner who knows best how to test a Demandware site. We offer a wide range of QA services tailored to fit Demandware-based implementations.
@@ -353,9 +1037,10 @@ services:
                 li2: Set-up of your site following proven security standards
                 li3: Review of planned changes to avoid introducing security risks
 
+
+
+
 ########################################################################
-
-
 # Company pages
 company:
     title: Xceptance - Who we are
@@ -499,62 +1184,60 @@ company:
 
 ##################################
     privacy:
-        title: Xceptance - Privacy Information
-        description: All about privacy, and other legal stuff.
+        title: CryptoTeam - Informativa sulla Privacy
+        description: Tutto sulla privacy, e altri aspetti legali.
 
-        info: In case of questions, feel free to <a href="/en/contact/">contact us</a>.
+        info: Per qualsiasi domanda, non esitare a <a href="/it/contatti/">contattarci</a>.
         intro:
             headline: Privacy
-            lead: We deal with your data carefully.
+            lead: E' la nostra missione. Trattiamo i tuoi dati con estrema attenzione.
         collect:
-            headline: What Information Do We Collect?
-            details: "<p>We collect information from you when you register on our site, subscribe to our newsletter or fill out a form. When registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously. In order to improve the content and format of our site, Xceptance automatically captures technical information that is then stored in our servers’ log files. This information may include, but is not limited to, user domain, the type of Internet browser being used, which of our Web pages is visited, and the amount of time spent on our site. Xceptance uses an internal Web site analytics software that doesn't transfer the data to any third party.</p>"
+            headline: Che informazioni raccogliamo?
+            details: "<p>Raccogliamo i tuoi dati nel momento in cui li metti a nostra disposizione, ad esempio quando ti registri al sito, ti iscrivi ad una newsletter o compili un modulo con i tuoi dati. Puoi sempre, comunque, visitare il nostro sito in modo anonimo. Anche in questo caso, il sito raccoglie automaticamente alcuni dati tecnici, quali ad esempio, la data e l'ora di accesso, l'IP di provenienza, le pagine visitate, la durata della visita su ciascuna pagina, ecc. CryptoTeam può utilizzare questi dati, aggregati in modo anonimo, per migliorare l'esperienza di navigazione dei propri utenti. I dati non verranno trasferiti a terze parti, salvo quanto previsto nel paragrafo <a href=\"#thirdparty\">Trasferiamo le tue informazioni a Soggetti Esterni?</a>.</p>"
         use:
-            headline: How Do We Use Your Information
-            details: "<p>Any of the information we collect from you may be used in one of the following ways:</p>"
+            headline: Come usiamo le informazioni che raccogliamo su di te
+            details: "<p>Ciascuna delle informazioni che raccogliamo su di te può essere usata in uno dei seguenti modi:</p>"
             list: "
-                <li>To personalize your experience (your information helps us to better respond to your individual needs),</li>
-                <li>To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you),</li>
-                <li>To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs),</li>
-                <li>To process transactions (Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.),</li>
-                <li>To send emails to answer your inquiries.</li>"
+                <li>Per personalizzare la tua esperienza di navigazione (i tuoi dati ci aiutano a rispondere al meglio alle tue richieste),</li>
+                <li>Per migliorare il nostro sito (cerchiamo di migliorare costantemente le informazioni offerte sul nostro sito in base al feedback che riceviamo da te),</li>
+                <li>Per migliorare il servizio ai clienti (i tuoi dati ci aiutano a rispondere in modo più efficace alle tue richieste di customer service e alle tue necessità di supporto da parte nostra),</li>
+                <li>Per elaborare le transazioni (i tuoi dati, sia pubblici che privati, non verranno venduti, scambiati, trasferiti o in alcun modo consegnati, senza il tuo consenso, al di fuori dello scopo specifico di consegnarti il servizio e/o prodotto che ci hai richiesto.),</li>
+                <li>Per inviare email di risposta alle tue richieste.</li>"
         cookies:
-            headline: Do We Use Cookies?
-            details: "<p>Yes (cookies are small blocks of information that a site transfers to your computer - if you allow). Only our analytics software uses cookies actively to recognize your browser and capture and remember certain information. If you opt-out of analytics tracking, we will set a single unpersonalized cookie to remember your decision.</p>"
+            headline: Utilizziamo i Cookies?
+            details: "<p>Si, ma con parsimonia! I cookies sono piccoli blocchi di informazioni che un sito trasferisce sul tuo computer, salvandoli in file gestiti dal browser - sempre che tu lo consenta. Molti siti salvano numerosi cookies per tracciare le abitudini di navigazione dell'utente. Coerentemente con la nostra visione, abbiamo deciso di non tracciare i nostri utenti. La normativa vigente ci impone di segnalarti la nostra politica sulla privacy: lo facciamo mostrandoti un link a questa pagina durante il primo collegamento al nostro sito. Per evitare di mostrarti l'avviso ad ogni accesso successivo salviamo, con il tuo consenso, un solo cokkie che ci conferma che tu abbia letto il nostro avviso. Una volta salvato il cookie, l'avviso non verrà riproposto, a meno di modifiche alla presente pagina. La pagine resta comunque sempre visitabile sotto la voce di menu Azienda.</p>"
         thirdparty:
-            headline: Do We Disclose any Information to Outside Parties?
-            details: "<p>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours' or others rights, property, or safety.</p>"
+            headline: Trasferiamo le tue informazioni a Soggetti Esterni?
+            details: "<p>La nostra politica aziendale è di non vendere, scambiare, trasferire le tue informazioni personali a Terze Parti. In alcuni casi abbiamo la necessità di condividere le tue informazioni con alcuni soggetti fidati che ci assistono nello svolgimento delle nostre attività. A titolo di esempio, questi soggetti possono essere:
+              - lo studio del commercialista che segue la nostra contabilità
+              - gli istituti bancari con cui intratteniamo rapporti per poter svolgere la nostra attività economica
+              - tutti gli enti pubblici che la normativa ci impone di informare in merito alla nostra attività
+              - ecc.
+            In questi casi di necessità ci assicuriamo che dette parti fidate si impegnino a trattare i tuoi dati con la dovuta confidenzialità.
+            Potremmo infine rilasciare le tue informazioni qualora ritenessimo tale rilascio appropriato al fine di ottemperare ad obblighi di legge, rafforzare le politiche del nostro sito, proteggere i nostri o gli altrui diritti intellettuali, proprietà, sicurezza.</p>"
         links:
-            headline: Third Party Links
-            details: "<p>Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.</p>"
+            headline: Collegamenti a Soggetti Terzi
+            details: "<p>Occasionalmente, a nostra discrezione, potremmo includere o offrire proddotti e/o servizi di Terze Parti. Queste Terze Parti hanno politiche di privacy diverse e separate dalla nostra, pertanto noi non avremo alcuna responsabilità per il contenuto o per le attività offerte da questi siti collegati. Ciononostante, cerchiamo sempre di proteggere 'integrità del nostro sito e qualsiasi feedback al rigurardo sarà benvenuto.</p>"
         privacy-protection:
             headline: California Online Privacy Protection Act Compliance
             details: "<p>Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.</p>"
         privacy-policy:
-            headline: Online Privacy Policy Only
-            details: "<p>This online privacy policy applies only to information collected through our website and not to information collected offline.</p>"
+            headline: Politica della Privacy solo Online
+            details: "<p>Questa policy privacy online si applica solo alle informazioni raccolte attraverso il nostro sito web e non alle informazioni raccolte offline.</p>"
         consent:
-            headline: Your Consent
-            details: "<p>By using our site, you consent to our website's privacy policy.</p>"
+            headline: Il tuo consenso
+            details: "<p>Utilizzando il nostro sito, acconsenti implicitamente alla nostra politica di privacy online.</p>"
         privacy-changes:
-            headline: Changes to Our Privacy Policy
-            details: "<p>If we decide to change our privacy policy, we will update the Privacy Policy modification date below.<br>This policy was last modified on July 31, 2014.</p>"
+            headline: Modifiche alla nostra Politica della Privacy
+            details: "<p>Qualora decidessimo di modificare la nostra politica della privacy, aggiorneremo questa pagina, evidenziando le modifiche apportate. Inoltre azzereremo il cookie di presa visione iniziale, in modo che verrà nuovamente mostrato il messaggio di avviso durante il primo accesso successivo alla modifica.<br><b>Questa policy è stata modificata il 10 febbraio 2017.</b></p>"
         sites:
             headline: Web Sites
-            details: "<p>Xceptance owns, maintains, and contributes at:
-                <a href=\"http://www.xceptance.de/\">www.xceptance.de</a>,
-                <a href=\"https://www.xceptance.com/\">www.xceptance.com</a>,
-                <a href=\"http://www.xceptance-loadtest.de/\">www.xceptance-loadtest.de</a>,
+            details: "<p>CryptoTeam possiende, mantiene e contribuisce a i seguenti websites:
+                <a href=\"http://ca.cryptoteam.it/\">ca.cryptoteam.it</a>,
+                <a href=\"https://cloud.cryptoteam.it/\">cloud.cryptoteam.it</a>,
+                <a href=\"http://crm.cryptoteam.it/\">crm.cryptoteam.it</a>,
                 <a href=\"http://www.xceptance-loadtest.com/\">www.xceptance-loadtest.com</a>,
-                <a href=\"https://blog.xceptance.de/\">blog.xceptance.de</a>,
-                <a href=\"https://twitter.com/Xceptance\">Xceptance Twitter</a>,
-                <a href=\"https://www.xing.com/companies/xceptancesoftwaretechnologiesgmbh\">Xceptance on Xing</a>,
-                <a href=\"https://www.linkedin.com/company/xceptance\">Xceptance on LinkedIn</a>,
-                <a href=\"https://github.com/Xceptance/\">Xceptance on GitHub</a>,
-                <a href=\"https://plus.google.com/+Xceptance/posts\">Xceptance on Google+</a>,
-                <a href=\"https://ask.xceptance.de/\">XLT Forum</a>,
-                <a href=\"https://xltportal.xceptance.de/\">XLT Self Service Center</a>, and all other content published on
-                <a href=\"https://lab.xceptance.de/\">lab.xceptance.de</a>, such as releases and documentation.</p>"
+                <a href=\"https://otrs.cryptoteam.it/\">otrs.cryptoteam.it</a></p>"
 
 ########################################################################
 # Jobs
@@ -617,8 +1300,9 @@ jobs:
                 <li>Why you would be a good addition to our team</li>
                 <li>Possible start date and desired salary</li>
             </ul>"
-########################################################################
 
+
+########################################################################
 # Contacts
 contact:
     title: Xceptance - Contact Information
@@ -712,24 +1396,23 @@ contact:
                 <a href=\"https://lab.xceptance.de/\">lab.xceptance.de</a>, such as releases and documentation.</p>"
 
 
-########################################################################
 # News
 news:
-    title: CryptoTeam – News
-    description: What is going on at CryptoTeam
+    title: Notizie CryptoTeam
+    description: Cosa c'è di nuovo in CryptoTeam
     previous:
-        headline: Previous News
-        all: All News
+        headline: Notizie Precedenti
+        all: Tutte le Notizie
     blog:
-        headline: Visit Our Blog!
-        details: Find more technical news, links and information around Privacy, Security and Cryptography.
-        btn: Start Here
-    latest: Latest News
+        headline: Visita il nostro Blog!
+        details: Scopri le ultime novità tecnologiche e le notizie dal mondo della Privacy, Sicurezza e Crittografia.
+        btn: Inizia
+    latest: Ultime Notizie
 
     archive:
-        title: News Archive
-        description: Overview of all News
-        headline: News Archive
+        title: Archivio Notizie
+        description: Sommario di tutte le Notizie
+        headline: Archivio Notizie
 
 ########################################################################
 # XLT
@@ -1270,14 +1953,13 @@ xlt:
 posts:
     news:
         1:
-            title: New website development started!
+            title: CryptoTeam prepara il lancio del nuovo sito web!
             when: 7 Febbraio 2017
-            excerpt: Based on the acclaimed Jekyll platform, Cryptoteam is preparing the new website launch. Stay tuned!
+            excerpt: Con la decisione di passare a Jekyll, Cryptoteam prepara il lancio del nuovo sito web. Stay tuned!
         2:
-            title: First tests for the new Jekyll based website
+            title: Primi test per il nuovo sito basato su Jekyll
             when: 8 Febbraio 2017
-            excerpt: We started the development of the new website.
-
+            excerpt: Sono iniziati i primi test del nuovo sito CryptoTeam in ambiente Jekyll.
 
 ########################################################################
 # EOF

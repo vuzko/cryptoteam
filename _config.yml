@@ -41,12 +41,11 @@ sitenavigation:
   - name: Offerta
     secondarynav:
         - name: Offerta
-        - name: Piattaforma PKI
         - name: Crittografia
-        - name: Cancellazione Sicura
-        - name: Cloud
+        - name: Piattaforma PKI
         - name: VoIP PBX
         - name: IDS
+        - name: Cancellazione Sicura
   - name: Notizie
     secondarynav:
         - name: Notizie
@@ -54,8 +53,6 @@ sitenavigation:
   - name: Azienda
     secondarynav:
         - name: Azienda
-        - name: Competenze
-        - name: Filosofia
         - name: Privacy
 #  - name: Jobs
   - name: Contatti

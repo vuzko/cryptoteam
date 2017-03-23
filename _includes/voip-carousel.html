@@ -1,0 +1,41 @@
+<!-- Carousel ================================================== -->
+<div id="myCarousel" class="carousel slide hidden-xs" data-ride="carousel" data-interval="6000">
+	<!-- Indicators -->
+	<ol class="carousel-indicators">
+		<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+		<li data-target="#myCarousel" data-slide-to="1"></li>
+		<li data-target="#myCarousel" data-slide-to="2"></li>
+		<li data-target="#myCarousel" data-slide-to="3"></li>
+	</ol>
+
+	<div class="carousel-inner">
+		<div class="item active">
+			<div class="carousel-caption contrast">
+				<h1>{% t servizi.voip.carousel.intro %}</h1>
+			</div>
+		</div>
+
+		<div class="item">
+			<div class="carousel-caption contrast">
+				<h1>{% t servizi.voip.carousel.webdriver %}</h1>
+			</div>
+		</div>
+
+    <div class="item">
+			<div class="carousel-caption contrast">
+				<h1>{% t servizi.voip.carousel.license.headline %}</h1>
+				<a class="btn btn-primary" href="{{ 'offerta/voip.html' | to_absoluteurl }}" role="button">{% t servizi.voip.carousel.license.btn %}</a>
+			</div>
+		</div>
+
+		<div class="item">
+			<div class="carousel-caption contrast">
+				<h1>{% t servizi.voip.carousel.report.headline %}</h1>
+			</div>
+		</div>
+
+	</div><!-- /carousel-inner -->
+
+	<a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="fa fa-chevron-left"></span></a>
+	<a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="fa fa-chevron-right"></span></a>
+</div><!-- /.carousel -->
