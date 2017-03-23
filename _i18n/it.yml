@@ -649,6 +649,7 @@ offerta:
 
         resultbrowser2:
             headline: Controllo Accessi Sicuro
+            lead: Queste 2 soluzioni consentono di automatizzare i processi di accesso in modalità sicura. Di assicurarsi una gestione semplice verso i servizi aziendali (Cloud, Posta, Accessso ai Dati, ecc..), da parte degli utenti interni ed esterni.
             details:
                 lead: La soluzione piattoforma OpenXPKI è una soluzione tecnologica avanzata progettata per medie e grandi organizzazioni. Fornisce tutti i componenti software necessari per un accesso sicuro e un controllo centralizzato basato sul riconoscemto o identificazione dell'utente in modalità univoca. Mentre la soluzione Ciavetta USB altrettanto sicura e valida è studiata per piccole organizzazioni ma non consente una gestione centralizzata.
                 text:
