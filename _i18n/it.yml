@@ -658,7 +658,7 @@ offerta:
                             alt: Start View of the Result Browser
                             title: The Result Browser
                         text: "<p>
-                                    <strong>Soluzione OpneXPKI</strong>. Sistema avanzato dispone di molte funioni finalizzate alla tutela dei dati e alla riservatezza delle informazioni. Gestisce il ciclo di vita dei certificati digitali utilizza standard X509 e crittografia a 2048 Bit algoritmo 256. Per quanto riguarda gli ACCESSI il certificato digitale contiene informazioni univoche sull'utente che permettono il riconoscimento specifico. Validità del certicato, num. di serie, nome del soggetto, chiave pubblica, usi consentiti, eventuali estensioni, Firma Digitale,
+                                    <strong>Soluzione OpenXPKI</strong>. Sistema avanzato dispone di molte funioni finalizzate alla privacy e alla sicurezza. Studiato per gestisce il ciclo di vita dei certificati digitali. Utilizza standard X509 e crittografia a 2048 Bit algoritmo 256 Bit. Il certificato digitale contiene informazioni univoche sull'utente che permettono il riconoscimento specifico e la validazione sicura delgli accessi ai servizi aziendali. Validità del certicato. Numero di serie. Nome del Soggetto. ID univoco. Chiave Pubblica, Usi Consentiti, Eventuali Estensioni. Firma Digitale. Nome Emittente. Certificato intermedio di Riferimento.  
                                 </p>
                                 <p>
                                     <strong>Secondo Passo.</strong> Lo stesso applicativo verrà installato sul client postazione sede 1 e sede 2 dell'utente (modalità da concordare). <strong>Terzo Passo.</strong> Corso di 1 ora all'utilizzo delgli strumenti.
