@@ -651,14 +651,14 @@ offerta:
             headline: Controllo Accessi Sicuro
             lead: Queste 2 soluzioni consentono di automatizzare i processi di accesso in modalità sicura. Di assicurarsi una gestione semplice verso i servizi aziendali (Cloud, Posta, Accessso ai Dati, ecc..), da parte degli utenti interni ed esterni.
             details:
-                lead: La soluzione piattoforma OpenXPKI è una soluzione tecnologica avanzata progettata per medie e grandi organizzazioni. Fornisce tutti i componenti software necessari per un accesso sicuro e un controllo centralizzato basato sul riconoscemto o identificazione dell'utente in modalità univoca. Mentre la soluzione OpenPGP altrettanto sicura e valida, è studiata per piccole organizzazioni.
+                lead: Proniamo la soluzione controllo accessi basato su fattori più forti di identificazione e riconoscimento. Fondamentale è il riconoscimento del soggetto (utente o device), che chiede l'accesso ai servizi aziendali. Tipo di Certificato e Num., Data di Scandeza, Nome del Soggetto, Id associato, Profilo Assegnato, Usi Consentiti (cosa può fare), IP (da dove si può connettere), Device Associato, Firma Digitale, Chiave Pubblica.
                 text:
                     block1:
                         image:
                             alt: Start View of the Result Browser
                             title: The Result Browser
                         text: "<p>
-                                    <strong>Soluzione OpenXPKI</strong>. Sistema avanzato dispone di molte funzioni finalizzate alla privacy e alla sicurezza. Studiato per gestisce il ciclo di vita dei certificati digitali. Utilizza standard S/MIME X509 crittografia a 2048 Bit e algoritmo SHA256. Il certificato digitale contiene informazioni univoche che permettono rapidamente il riconoscimento utente e la validazione sicura degli accessi ai servizi aziendali. Validità del certicato. Numero Serie. Nome del Soggetto. ID Fingerprint. Chiave Pubblica, Usi Consentiti, Eventuali Estensioni. Firma Digitale. Nome Emittente. Certificato Intermedio.
+                                    <strong>Soluzione OpenXPKI.</strong> Sistema avanzato dispone di molte funzioni finalizzate alla privacy e alla sicurezza. Studiato per gestisce il ciclo di vita dei certificati digitali. Utilizza standard S/MIME X509 crittografia a 2048 Bit e algoritmo SHA256. Il certificato digitale contiene informazioni univoche che permettono rapidamente il riconoscimento utente e la validazione sicura degli accessi ai servizi aziendali. Validità del certicato.   
                                 </p>
                                 <p>
 
@@ -690,7 +690,7 @@ offerta:
                                     <strong>Soluzione OpenXPKI.</strong>. Sistema avanzato dispone di molte fuinzioni finalizzate alla privacy e alla sicurezza. Studiato per gestire il ciclo di vita dei certificati digitali. Utilizza lo standard S/MINME X509 crittografia a 2048 bit e algoritmo SHA256. Il certificato digitale contiene informazioni univoche che permettono rapidamente il riconoscimento utente e la validazione sicura degli accessi ai servizi aziendali. Validità del Certificato. Numero Serie. Nome del Soggetto. ID Fingerprint. Chiave Pubblica, Usi Consentiti, Eventuali Estensioni. Firma Digitale. Nome Emittente. Certificato Intermedio.
                                 </p>
                                 <p>
-                                    
+
 
                                 </p>"
                     block2:
